@@ -179,3 +179,86 @@ print("✅ Plot 6 saved")
 
 print("\n🏆 Top 10 most clinical PL attackers:")
 print(pl_pca.nlargest(10, "clinicality_score")[["name", "team", "goals", "xg", "shot_conv", "clinicality_score"]].to_string(index=False))
+
+# ══════════════════════════════════════════════════════════════════════════════
+# UCL ANALYSIS: PL players who also play in the Champions League
+# ══════════════════════════════════════════════════════════════════════════════
+
+# Filter UCL attackers with 2+ goals
+ucl = df[
+    (df["competition"] == "Champions League") &
+    (df["goals"] >= 2) &
+    (df["position"].isin(["Forward", "Attacking Midfielder", "Midfielder", "Winger"]))
+].copy().reset_index(drop=True)
+
+print(f"\nUCL attackers with 2+ goals: {len(ucl)}")
+
+# ── Find players appearing in BOTH PL and UCL ─────────────────────────────────
+pl_names = set(pl["name"].str.strip())
+ucl_names = set(ucl["name"].str.strip())
+both_names = pl_names & ucl_names
+
+pl_both  = pl[pl["name"].isin(both_names)].copy()
+ucl_both = ucl[ucl["name"].isin(both_names)].copy()
+
+print(f"Players appearing in both PL and UCL: {len(both_names)}")
+
+# Merge PL and UCL stats side by side
+merged = pl_both.merge(
+    ucl_both[["name", "goals", "xg", "shot_conv", "mins_per_goal", "goals_vs_xg"]],
+    on="name",
+    suffixes=("_pl", "_ucl")
+)
+
+print("\nPL vs UCL stats for dual-competition players:")
+print(merged[["name", "team", "goals_pl", "goals_ucl", "shot_conv_pl", "shot_conv_ucl"]].to_string(index=False))
+
+# ── PLOT 7: PL goals vs UCL goals — who steps up? ────────────────────────────
+fig, ax = plt.subplots(figsize=(9, 8))
+
+for _, row in merged.iterrows():
+    ax.scatter(row["goals_pl"], row["goals_ucl"],
+               color=team_colour.get(row["team"], "steelblue"),
+               s=100, alpha=0.85, zorder=3)
+    ax.annotate(row["last_name"],
+                (row["goals_pl"], row["goals_ucl"]),
+                textcoords="offset points", xytext=(6, 4), fontsize=8)
+
+ax.set_xlabel("Premier League Goals", fontsize=12)
+ax.set_ylabel("Champions League Goals", fontsize=12)
+ax.set_title("PL vs UCL Goals — Who Steps Up on the Big Stage?\n2024/25 Season",
+             fontsize=13, fontweight="bold")
+ax.spines[["top", "right"]].set_visible(False)
+plt.tight_layout()
+plt.savefig("output/figures/07_pl_vs_ucl_goals.png", dpi=150)
+plt.close()
+print("✅ Plot 7 saved")
+
+# ── PLOT 8: Shot conversion PL vs UCL — who is more clinical in Europe? ───────
+fig, ax = plt.subplots(figsize=(9, 8))
+
+for _, row in merged.iterrows():
+    ax.scatter(row["shot_conv_pl"], row["shot_conv_ucl"],
+               color=team_colour.get(row["team"], "steelblue"),
+               s=100, alpha=0.85, zorder=3)
+    ax.annotate(row["last_name"],
+                (row["shot_conv_pl"], row["shot_conv_ucl"]),
+                textcoords="offset points", xytext=(6, 4), fontsize=8)
+
+# Diagonal = same conversion in both
+max_val = max(merged["shot_conv_pl"].max(), merged["shot_conv_ucl"].max()) + 5
+ax.plot([0, max_val], [0, max_val], "k--", linewidth=1, alpha=0.5, label="Same in both")
+ax.set_xlabel("Shot Conversion % (Premier League)", fontsize=12)
+ax.set_ylabel("Shot Conversion % (Champions League)", fontsize=12)
+ax.set_title("Shot Conversion: Premier League vs Champions League\nAbove line = more clinical in Europe",
+             fontsize=13, fontweight="bold")
+ax.spines[["top", "right"]].set_visible(False)
+ax.legend(fontsize=10)
+plt.tight_layout()
+plt.savefig("output/figures/08_conversion_pl_vs_ucl.png", dpi=150)
+plt.close()
+print("✅ Plot 8 saved")
+
+# Save merged dual-competition data
+merged.to_csv("data/clean/dual_competition_players.csv", index=False)
+print("✅ Dual competition data saved to data/clean/dual_competition_players.csv")
