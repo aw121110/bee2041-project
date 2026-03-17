@@ -4,3 +4,6 @@ __pycache__/
 *.pyc
 venv/
 data/raw/
+blog_files/
+*.pyc
+__pycache__/
