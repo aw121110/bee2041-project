@@ -1,0 +1,55 @@
+goals,xg,shot_conv,xg_per_shot,goals_vs_xg,name,last_name,team,clinicality_score
+11,9.9,16.92,0.15,1.1,Hugo Ekitiké,Ekitiké,Liverpool FC,42.775139774810675
+9,6.16,20.45,0.14,2.84,Richarlison,de Andrade,Tottenham Hotspur FC,33.403993360299246
+6,6.58,8.96,0.1,-0.58,Cody Gakpo,Gakpo,Liverpool FC,11.498067694585277
+5,6.82,8.77,0.12,-1.82,Mohamed Salah,Salah Hamed Mahrous Ghaly,Liverpool FC,12.343998091327366
+5,3.76,9.09,0.07,1.24,Dominik Szoboszlai,Szoboszlai,Liverpool FC,0.0
+8,12.08,14.55,0.22,-4.08,Jean-Philippe Mateta,Mateta,Crystal Palace FC,47.76391002850352
+6,6.21,28.57,0.3,-0.21,Lukas Nmecha,Nmecha,Leeds United FC,56.04675699648903
+7,7.97,20.59,0.23,-0.97,Ismaïla Sarr,Sarr,Crystal Palace FC,44.682724952198015
+10,11.45,17.54,0.2,-1.45,Dominic Calvert-Lewin,Calvert-Lewin,Leeds United FC,50.961167226896976
+7,5.85,10.0,0.08,1.15,Matheus Cunha,Santos Carneiro da Cunha,Manchester United FC,10.504114101351217
+7,9.19,10.45,0.14,-2.19,Bruno Fernandes,Borges Fernandes,Manchester United FC,25.48347730167679
+5,2.92,12.5,0.07,2.08,Emiliano Buendía,Buendía,Aston Villa FC,1.7655180196127254
+8,5.34,11.76,0.08,2.66,Morgan Rogers,Rogers,Aston Villa FC,13.220438934176148
+8,9.69,14.04,0.17,-1.69,Ollie Watkins,Watkins,Aston Villa FC,35.96585525207211
+9,7.17,16.98,0.14,1.83,Benjamin Sesko,Sesko,Manchester United FC,31.93271695627918
+9,8.17,15.25,0.14,0.83,Bryan Mbeumo,Mbeumo,Manchester United FC,32.23965862452099
+7,4.66,16.28,0.11,2.34,Casemiro,Casimiro,Manchester United FC,18.26079741381553
+8,10.09,12.9,0.16,-2.09,Raúl Jiménez,Jiménez,Fulham FC,34.37303542151077
+9,4.8,15.0,0.08,4.2,Harry Wilson,Wilson,Fulham FC,17.404223922921975
+8,7.81,12.5,0.12,0.19,Morgan Gibbs-White,Gibbs-White,Nottingham Forest FC,24.17161758131309
+5,6.55,15.62,0.2,-1.55,Callum Wilson,Wilson,West Ham United FC,28.87998391386133
+7,5.47,13.73,0.11,1.53,Phil Foden,Foden,Manchester City FC,17.321653903670196
+22,21.01,21.57,0.21,0.99,Erling Haaland,Haaland,Manchester City FC,100.0
+5,3.99,12.2,0.1,1.01,Tijjani Reijnders,Reijnders,Manchester City FC,7.454878384303278
+8,6.08,12.31,0.09,1.92,Jarrod Bowen,Bowen,West Ham United FC,16.5923796544816
+15,9.86,22.06,0.14,5.14,Antoine Semenyo,Semenyo,Manchester City FC,54.61501623195956
+6,6.14,18.75,0.19,-0.14,Thierno Barry,Barry,Everton FC,31.970118548053883
+6,3.75,12.24,0.08,2.25,Eberechi Eze,Eze,Arsenal FC,6.4538466214837245
+11,9.35,25.58,0.22,1.65,Viktor Gyökeres,Gyökeres,Arsenal FC,59.343503984878765
+5,4.98,17.24,0.17,0.02,Iliman Ndiaye,Ndiaye,Everton FC,23.507626858818174
+6,3.09,20.69,0.11,2.91,Kiernan Dewsbury-Hall,Dewsbury-Hall,Everton FC,17.565091731079644
+6,6.99,9.52,0.11,-0.99,Bukayo Saka,Saka,Arsenal FC,14.188741956151944
+5,2.78,19.23,0.11,2.22,Martín Zubimendi,Zubimendi,Arsenal FC,13.440432143001434
+7,6.26,23.33,0.21,0.74,Nick Woltemade,Woltemade,Newcastle United FC,41.42740967572636
+5,6.11,10.2,0.12,-1.11,Harvey Barnes,Barnes,Newcastle United FC,12.33462914379451
+8,10.05,14.04,0.18,-2.05,Enzo Fernández,Fernández,Chelsea FC,37.97269554243283
+14,13.43,22.95,0.22,0.57,João Pedro,Junqueira de Jesus,Chelsea FC,71.07077779231588
+5,8.31,11.36,0.19,-3.31,Anthony Gordon,Gordon,Newcastle United FC,26.91131296507799
+9,8.55,20.45,0.19,0.45,Cole Palmer,Palmer,Chelsea FC,44.67470349206728
+7,5.25,20.0,0.15,1.75,Zian Flemming,Flemming,Burnley FC,28.353261643861206
+8,5.1,25.0,0.16,2.9,Junior Kroupi,Kroupi,AFC Bournemouth,36.426616274320025
+5,6.93,8.93,0.12,-1.93,Marcus Tavernier,Tavernier,AFC Bournemouth,12.739975065080197
+7,3.86,16.28,0.09,3.14,Jaidon Anthony,Anthony,Burnley FC,14.079454639200609
+6,8.12,10.53,0.14,-2.12,Evanilson,de Lima Barbosa,AFC Bournemouth,21.358400896672435
+5,4.98,15.62,0.16,0.02,Diego Gómez,Gómez,Brighton & Hove Albion FC,20.58017168734154
+5,2.76,23.81,0.13,2.24,Brian Brobbey,Brobbey,Sunderland AFC,20.638999141106655
+10,9.28,25.0,0.23,0.72,Danny Welbeck,Welbeck,Brighton & Hove Albion FC,57.884119410642164
+5,4.82,11.36,0.11,0.18,Leandro Trossard,Trossard,Arsenal FC,9.578166413754424
+5,4.27,11.63,0.1,0.73,Crysencio Summerville,Summerville,West Ham United FC,7.452310871836112
+5,5.3,14.29,0.15,-0.3,Dango Ouattara,Ouattara,Brentford FC,18.623227932521928
+7,9.79,15.91,0.22,-2.79,Kevin Schade,Schade,Brentford FC,42.4055168238179
+18,15.62,26.87,0.23,2.38,Igor Thiago,Nascimento Rodrigues,Brentford FC,88.82746762916234
+5,4.29,12.82,0.11,0.71,Pedro Neto,Lomba Neto,Chelsea FC,9.977057675697395
+9,4.82,28.12,0.15,4.18,Bruno Guimarães,Guimarães Rodriguez Moura,Newcastle United FC,39.77886188251765

@@ -1,0 +1,55 @@
+mins_played,shots,xg_per_shot,is_forward,goals,shot_conv,name,team,actual_goals,counterfactual_goals,causal_advantage,display_name,Club,Shot Conversion (%),Actual Goals,Goals At Median Conversion,Causal Finishing Advantage
+1802,65,0.15,1,11,16.92,Hugo Ekitiké,Liverpool FC,11.0,10.4,0.65,Ekitiké,Liverpool FC,16.9,11,10.4,0.65
+1437,44,0.14,1,9,20.45,Richarlison,Tottenham Hotspur FC,9.0,6.8,2.19,Richarlison,Tottenham Hotspur FC,20.4,9,6.8,2.19
+2062,67,0.1,1,6,8.96,Cody Gakpo,Liverpool FC,6.0,8.8,-2.83,Gakpo,Liverpool FC,9.0,6,8.8,-2.83
+1820,57,0.12,1,5,8.77,Mohamed Salah,Liverpool FC,5.0,7.9,-2.92,Salah,Liverpool FC,8.8,5,7.9,-2.92
+2513,55,0.07,0,5,9.09,Dominik Szoboszlai,Liverpool FC,5.0,7.8,-2.78,Szoboszlai,Liverpool FC,9.1,5,7.8,-2.78
+1944,55,0.22,1,8,14.55,Jean-Philippe Mateta,Crystal Palace FC,8.0,8.4,-0.39,Mateta,Crystal Palace FC,14.6,8,8.4,-0.39
+805,21,0.3,1,6,28.57,Lukas Nmecha,Leeds United FC,6.0,0.3,5.75,Nmecha,Leeds United FC,28.6,6,0.3,5.75
+1730,34,0.23,1,7,20.59,Ismaïla Sarr,Crystal Palace FC,7.0,4.7,2.26,Sarr,Crystal Palace FC,20.6,7,4.7,2.26
+2029,57,0.2,1,10,17.54,Dominic Calvert-Lewin,Leeds United FC,10.0,9.1,0.92,DCL,Leeds United FC,17.5,10,9.1,0.92
+1993,70,0.08,1,7,10.0,Matheus Cunha,Manchester United FC,7.0,9.4,-2.38,Cunha,Manchester United FC,10.0,7,9.4,-2.38
+2347,67,0.14,0,7,10.45,Bruno Fernandes,Manchester United FC,7.0,9.2,-2.18,Fernandes,Manchester United FC,10.4,7,9.2,-2.18
+1444,40,0.07,0,5,12.5,Emiliano Buendía,Aston Villa FC,5.0,6.3,-1.28,Buendía,Aston Villa FC,12.5,5,6.3,-1.28
+2680,68,0.08,1,8,11.76,Morgan Rogers,Aston Villa FC,8.0,9.6,-1.61,Rogers,Aston Villa FC,11.8,8,9.6,-1.61
+2218,57,0.17,1,8,14.04,Ollie Watkins,Aston Villa FC,8.0,8.6,-0.61,Watkins,Aston Villa FC,14.0,8,8.6,-0.61
+1313,53,0.14,1,9,16.98,Benjamin Sesko,Manchester United FC,9.0,8.3,0.68,Sesko,Manchester United FC,17.0,9,8.3,0.68
+2125,59,0.14,1,9,15.25,Bryan Mbeumo,Manchester United FC,9.0,9.1,-0.08,Mbeumo,Manchester United FC,15.2,9,9.1,-0.08
+2065,43,0.11,0,7,16.28,Casemiro,Manchester United FC,7.0,6.6,0.37,Casemiro,Manchester United FC,16.3,7,6.6,0.37
+1978,62,0.16,1,8,12.9,Raúl Jiménez,Fulham FC,8.0,9.1,-1.11,Jiménez,Fulham FC,12.9,8,9.1,-1.11
+2189,60,0.08,1,9,15.0,Harry Wilson,Fulham FC,9.0,9.2,-0.19,Wilson,Fulham FC,15.0,9,9.2,-0.19
+2557,64,0.12,0,8,12.5,Morgan Gibbs-White,Nottingham Forest FC,8.0,9.3,-1.28,Gibbs-White,Nottingham Forest FC,12.5,8,9.3,-1.28
+1001,32,0.2,1,5,15.62,Callum Wilson,West Ham United FC,5.0,4.9,0.08,C. Wilson,West Ham United FC,15.6,5,4.9,0.08
+1813,51,0.11,0,7,13.73,Phil Foden,Manchester City FC,7.0,7.7,-0.75,Foden,Manchester City FC,13.7,7,7.7,-0.75
+2418,102,0.21,1,22,21.57,Erling Haaland,Manchester City FC,22.0,19.3,2.68,Haaland,Manchester City FC,21.6,22,19.3,2.68
+1499,41,0.1,0,5,12.2,Tijjani Reijnders,Manchester City FC,5.0,6.4,-1.42,Reijnders,Manchester City FC,12.2,5,6.4,-1.42
+2688,65,0.09,1,8,12.31,Jarrod Bowen,West Ham United FC,8.0,9.4,-1.37,Bowen,West Ham United FC,12.3,8,9.4,-1.37
+2588,68,0.14,1,15,22.06,Antoine Semenyo,Manchester City FC,15.0,12.1,2.9,Semenyo,Manchester City FC,22.1,15,12.1,2.9
+1636,32,0.19,1,6,18.75,Thierno Barry,Everton FC,6.0,4.5,1.45,Barry,Everton FC,18.8,6,4.5,1.45
+1504,49,0.08,0,6,12.24,Eberechi Eze,Arsenal FC,6.0,7.4,-1.4,Eze,Arsenal FC,12.2,6,7.4,-1.4
+1900,43,0.22,1,11,25.58,Viktor Gyökeres,Arsenal FC,11.0,6.6,4.44,Gyökeres,Arsenal FC,25.6,11,6.6,4.44
+2067,29,0.17,1,5,17.24,Iliman Ndiaye,Everton FC,5.0,4.2,0.79,Ndiaye,Everton FC,17.2,5,4.2,0.79
+1924,29,0.11,0,6,20.69,Kiernan Dewsbury-Hall,Everton FC,6.0,3.7,2.3,Dewsbury-Hall,Everton FC,20.7,6,3.7,2.3
+2001,63,0.11,1,6,9.52,Bukayo Saka,Arsenal FC,6.0,8.6,-2.59,Saka,Arsenal FC,9.5,6,8.6,-2.59
+2604,26,0.11,0,5,19.23,Martín Zubimendi,Arsenal FC,5.0,3.3,1.66,Zubimendi,Arsenal FC,19.2,5,3.3,1.66
+1609,30,0.21,1,7,23.33,Nick Woltemade,Newcastle United FC,7.0,3.5,3.45,Woltemade,Newcastle United FC,23.3,7,3.5,3.45
+1581,49,0.12,0,5,10.2,Harvey Barnes,Newcastle United FC,5.0,7.3,-2.29,Barnes,Newcastle United FC,10.2,5,7.3,-2.29
+2493,57,0.18,0,8,14.04,Enzo Fernández,Chelsea FC,8.0,8.6,-0.61,Fernández,Chelsea FC,14.0,8,8.6,-0.61
+2245,61,0.22,1,14,22.95,João Pedro,Chelsea FC,14.0,10.7,3.29,Joao Pedro,Chelsea FC,23.0,14,10.7,3.29
+1654,44,0.19,1,5,11.36,Anthony Gordon,Newcastle United FC,5.0,6.8,-1.78,Gordon,Newcastle United FC,11.4,5,6.8,-1.78
+1336,44,0.19,0,9,20.45,Cole Palmer,Chelsea FC,9.0,6.8,2.19,Palmer,Chelsea FC,20.4,9,6.8,2.19
+1100,35,0.15,1,7,20.0,Zian Flemming,Burnley FC,7.0,5.0,2.0,Flemming,Burnley FC,20.0,7,5.0,2.0
+1144,32,0.16,1,8,25.0,Junior Kroupi,AFC Bournemouth,8.0,3.8,4.18,Kroupi,AFC Bournemouth,25.0,8,3.8,4.18
+2036,56,0.12,0,5,8.93,Marcus Tavernier,AFC Bournemouth,5.0,7.8,-2.85,Tavernier,AFC Bournemouth,8.9,5,7.8,-2.85
+2033,43,0.09,1,7,16.28,Jaidon Anthony,Burnley FC,7.0,6.6,0.37,Anthony,Burnley FC,16.3,7,6.6,0.37
+2116,57,0.14,1,6,10.53,Evanilson,AFC Bournemouth,6.0,8.1,-2.15,Evanilson,AFC Bournemouth,10.5,6,8.1,-2.15
+1855,32,0.16,0,5,15.62,Diego Gómez,Brighton & Hove Albion FC,5.0,4.9,0.08,Gómez,Brighton & Hove Albion FC,15.6,5,4.9,0.08
+1279,21,0.13,1,5,23.81,Brian Brobbey,Sunderland AFC,5.0,1.3,3.66,Brobbey,Sunderland AFC,23.8,5,1.3,3.66
+1743,40,0.23,1,10,25.0,Danny Welbeck,Brighton & Hove Albion FC,10.0,5.8,4.18,Welbeck,Brighton & Hove Albion FC,25.0,10,5.8,4.18
+1685,44,0.11,1,5,11.36,Leandro Trossard,Arsenal FC,5.0,6.8,-1.78,Trossard,Arsenal FC,11.4,5,6.8,-1.78
+1864,43,0.1,1,5,11.63,Crysencio Summerville,West Ham United FC,5.0,6.7,-1.66,Summerville,West Ham United FC,11.6,5,6.7,-1.66
+1620,35,0.15,1,5,14.29,Dango Ouattara,Brentford FC,5.0,5.5,-0.5,Ouattara,Brentford FC,14.3,5,5.5,-0.5
+2072,44,0.22,0,7,15.91,Kevin Schade,Brentford FC,7.0,6.8,0.21,Schade,Brentford FC,15.9,7,6.8,0.21
+2474,67,0.23,1,18,26.87,Igor Thiago,Brentford FC,18.0,13.0,5.0,Igor Thiago,Brentford FC,26.9,18,13.0,5.0
+2149,39,0.11,1,5,12.82,Pedro Neto,Chelsea FC,5.0,6.1,-1.14,Neto,Chelsea FC,12.8,5,6.1,-1.14
+2018,32,0.15,0,9,28.12,Bruno Guimarães,Newcastle United FC,9.0,3.5,5.55,Guimarães,Newcastle United FC,28.1,9,3.5,5.55
