@@ -1,21 +1,21 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import matplotlib.patches as mpatches
-import matplotlib.lines as mlines
 import numpy as np
 from sklearn.preprocessing import StandardScaler
 from sklearn.decomposition import PCA
-from adjustText import adjust_text
-import plotly.express as px
 import plotly.graph_objects as go
 import plotly.io as pio
 import unicodedata
 import warnings
 warnings.filterwarnings("ignore")
 
+
 pio.templates.default = "plotly_white"
 
+
 df = pd.read_csv("data/clean/stats_clean.csv")
+
 
 name_overrides = {
     "Joao Pedro": "Joao Pedro",
@@ -34,27 +34,12 @@ name_overrides = {
     "Yoane Wissa": "Wissa",
     "Nicolas Jackson": "N. Jackson",
     "Jamie Vardy": "Vardy",
-    "Lyle Foster": "Foster",
-    "Kieffer Moore": "Moore",
     "Danny Welbeck": "Welbeck",
     "Raúl Jiménez": "Jiménez",
     "Callum Wilson": "C. Wilson",
     "Taiwo Awoniyi": "Awoniyi",
     "Carlos Vinícius": "Vinícius",
     "Richarlison": "Richarlison",
-    "Son Heung-min": "Son",
-    "Harry Kane": "Kane",
-    "Robert Lewandowski": "Lewandowski",
-    "Kylian Mbappé": "Mbappé",
-    "Vinícius Jr.": "Vini Jr.",
-    "Lionel Messi": "Messi",
-    "Antoine Griezmann": "Griezmann",
-    "Lautaro Martínez": "L. Martínez",
-    "Ademola Lookman": "Lookman",
-    "Serhou Guirassy": "Guirassy",
-    "Victor Osimhen": "Osimhen",
-    "Raphinha": "Raphinha",
-    "Ousmane Dembélé": "Dembélé",
     "Igor Thiago": "Igor Thiago",
     "Bruno Guimarães": "Bruno G.",
     "Anthony Gordon": "Gordon",
@@ -66,13 +51,6 @@ name_overrides = {
     "Cody Gakpo": "Gakpo",
     "Phil Foden": "Foden",
     "Enzo Fernández": "E. Fernández",
-    "Khvicha Kvaratskhelia": "Kvara",
-    "Julián Alvarez": "J. Alvarez",
-    "Alexander Sørloth": "Sørloth",
-    "Jens Petter Hauge": "Hauge",
-    "Fermín López": "F. López",
-    "Kasper Høgh": "Høgh",
-    "Vitinha": "Vitinha",
     "Jean-Philippe Mateta": "Mateta",
     "Ismaïla Sarr": "I. Sarr",
     "Lukas Nmecha": "Nmecha",
@@ -80,10 +58,13 @@ name_overrides = {
     "Antoine Semenyo": "Semenyo",
 }
 
+
 def normalise(s):
     return unicodedata.normalize("NFC", s.strip().lower())
 
+
 name_overrides_normalised = {normalise(k): v for k, v in name_overrides.items()}
+
 
 def get_display_name(full_name):
     if full_name in name_overrides:
@@ -94,18 +75,22 @@ def get_display_name(full_name):
     parts = full_name.strip().split()
     return parts[-1] if parts else full_name
 
+
 pl = df[
     (df["competition"] == "Premier League") &
     (df["goals"] >= 5) &
     (df["position"].isin(["Forward", "Midfielder"]))
 ].copy().reset_index(drop=True)
 
+
 pl_shots = pl[pl["shots"] > 0].copy()
 print(f"PL attackers with 5+ goals: {len(pl)}")
+
 
 teams = df["team"].unique()
 colours = plt.cm.tab20.colors
 team_colour = {team: colours[i % 20] for i, team in enumerate(teams)}
+
 
 # ── PLOT 1: Lollipop — Top 15 scorers (matplotlib PNG) ────────────────────────
 top15 = pl.nlargest(15, "goals").sort_values("goals")
@@ -134,6 +119,7 @@ plt.tight_layout()
 plt.savefig("output/figures/01_top15_scorers.png", dpi=150)
 plt.close()
 print("✅ Plot 1 saved (PNG)")
+
 
 # ── PLOT 2: Goals vs xG — Plotly HTML ─────────────────────────────────────────
 pl_plot = pl.copy()
@@ -203,6 +189,7 @@ fig2.update_layout(
 )
 fig2.write_html("output/figures/02_goals_vs_xg.html", include_plotlyjs="cdn", full_html=True)
 print("✅ Plot 2 saved (HTML)")
+
 
 # ── PLOT 4: xG per shot vs conversion — Plotly HTML ───────────────────────────
 pl_shots_plot = pl_shots.copy()
@@ -285,6 +272,7 @@ fig4.update_layout(
 fig4.write_html("output/figures/04_xg_per_shot_vs_conversion.html", include_plotlyjs="cdn", full_html=True)
 print("✅ Plot 4 saved (HTML)")
 
+
 # ── PLOT 6: Radial bar — Clinicality Score (matplotlib PNG) ───────────────────
 features = ["goals", "xg", "shot_conv", "xg_per_shot", "goals_vs_xg"]
 pl_pca = pl_shots[features + ["name", "last_name", "team"]].dropna().copy()
@@ -339,149 +327,3 @@ print("\n🏆 Top 10 most clinical PL attackers:")
 print(pl_pca.nlargest(10, "clinicality_score")[["name", "team", "goals", "xg", "shot_conv", "clinicality_score"]].to_string(index=False))
 
 pl_pca.to_csv("data/clean/clinicality_scores.csv", index=False)
-
-# ── PL vs UCL setup ────────────────────────────────────────────────────────────
-ucl = df[
-    (df["competition"] == "Champions League") &
-    (df["goals"] >= 2) &
-    (df["position"].isin(["Forward", "Midfielder"]))
-].copy().reset_index(drop=True)
-
-pl_names = set(pl["name"].str.strip())
-ucl_names = set(ucl["name"].str.strip())
-both_names = pl_names & ucl_names
-pl_both = pl[pl["name"].isin(both_names)].copy()
-ucl_both = ucl[ucl["name"].isin(both_names)].copy()
-merged = pl_both.merge(
-    ucl_both[["name", "goals", "xg", "shot_conv", "mins_per_goal", "goals_vs_xg"]],
-    on="name", suffixes=("_pl", "_ucl")
-)
-print(f"\nPlayers in both PL and UCL: {len(merged)}")
-
-# ── PLOT 7: Dumbbell — PL vs UCL goals (matplotlib PNG) ───────────────────────
-merged_sorted = merged.sort_values("goals_pl", ascending=True).reset_index(drop=True)
-fig, ax = plt.subplots(figsize=(10, max(6, len(merged_sorted) * 0.55)))
-
-for i, row in merged_sorted.iterrows():
-    col = team_colour.get(row["team"], "steelblue")
-    name = get_display_name(row["name"])
-    pl_g = row["goals_pl"]
-    ucl_g = row["goals_ucl"]
-    ax.plot([pl_g, ucl_g], [i, i], color="lightgray", linewidth=2.5, zorder=1)
-    ax.scatter(pl_g, i, color="#3d85c8", s=160, zorder=3, edgecolors="white", linewidths=1.5)
-    ax.scatter(ucl_g, i, color="#cc0000", s=160, zorder=3, edgecolors="white", linewidths=1.5, marker="D")
-    ax.text(min(pl_g, ucl_g) - 0.25, i, name, va="center", ha="right", fontsize=9)
-
-ax.set_yticks([])
-ax.set_xlabel("Goals", fontsize=12)
-ax.set_title("PL vs UCL Goals — Does Form Transfer to Europe?\n2025/26 Season", fontsize=13, fontweight="bold")
-ax.spines[["top", "right", "left"]].set_visible(False)
-ax.tick_params(left=False)
-ax.xaxis.grid(True, alpha=0.3, linestyle="--")
-ax.set_axisbelow(True)
-pl_handle = mlines.Line2D([], [], color="#3d85c8", marker="o", markersize=9,
-                           markeredgecolor="white", linewidth=0, label="Premier League")
-ucl_handle = mlines.Line2D([], [], color="#cc0000", marker="D", markersize=9,
-                            markeredgecolor="white", linewidth=0, label="Champions League")
-ax.legend(handles=[pl_handle, ucl_handle], fontsize=10, loc="lower right")
-plt.tight_layout()
-plt.savefig("output/figures/07_pl_vs_ucl_goals.png", dpi=150)
-plt.close()
-print("✅ Plot 7 saved (PNG)")
-
-# ── PLOT 10: PL elite vs world elite — Plotly HTML ────────────────────────────
-ucl_all = df[
-    (df["competition"] == "Champions League") &
-    (df["goals"] >= 3) &
-    (df["position"].isin(["Forward", "Midfielder"]))
-].copy().reset_index(drop=True)
-
-pl_player_names = set(df[df["competition"] == "Premier League"]["name"].str.strip())
-ucl_elite = ucl_all[~ucl_all["name"].isin(pl_player_names)].copy()
-
-top_pl = pl_pca.nlargest(10, "clinicality_score")[["name", "team", "goals", "xg", "shot_conv", "xg_per_shot", "goals_vs_xg"]].copy()
-top_pl["Competition"] = "Premier League"
-top_ucl = ucl_elite.nlargest(10, "goals")[["name", "team", "goals", "xg", "shot_conv", "xg_per_shot", "goals_vs_xg"]].copy()
-top_ucl["Competition"] = "Champions League (Non-PL)"
-comparison = pd.concat([top_pl, top_ucl], ignore_index=True)
-comparison["display_name"] = comparison["name"].apply(get_display_name)
-comparison["Club"] = comparison["team"]
-comparison["Goals"] = comparison["goals"]
-comparison["xG Per Shot"] = comparison["xg_per_shot"].round(3)
-comparison["Shot Conversion (%)"] = comparison["shot_conv"].round(1)
-comparison["Goals vs xG"] = comparison["goals_vs_xg"].round(2)
-comparison.to_csv("data/clean/pl_vs_ucl_elite.csv", index=False)
-
-med_x = comparison["xG Per Shot"].median()
-med_y = comparison["Shot Conversion (%)"].median()
-
-colour_map = {
-    "Premier League": "#3d85c8",
-    "Champions League (Non-PL)": "#cc0000",
-}
-symbol_map = {
-    "Premier League": "circle",
-    "Champions League (Non-PL)": "diamond",
-}
-
-fig10 = go.Figure()
-
-for competition in ["Premier League", "Champions League (Non-PL)"]:
-    sub = comparison[comparison["Competition"] == competition]
-    fig10.add_trace(go.Scatter(
-        x=sub["xG Per Shot"],
-        y=sub["Shot Conversion (%)"],
-        mode="markers+text",
-        name=competition,
-        text=sub["display_name"],
-        textposition="top center",
-        textfont=dict(size=9),
-        marker=dict(
-            size=13,
-            color=colour_map[competition],
-            symbol=symbol_map[competition],
-            line=dict(width=1.5, color="white"),
-        ),
-        customdata=sub[["Club", "Goals", "xG Per Shot", "Shot Conversion (%)", "Goals vs xG"]].values,
-        hovertemplate=(
-            "<b>%{hovertext}</b><br>"
-            "Club: %{customdata[0]}<br>"
-            "Goals: %{customdata[1]}<br>"
-            "xG Per Shot: %{customdata[2]}<br>"
-            "Shot Conversion (%): %{customdata[3]}<br>"
-            "Goals vs xG: %{customdata[4]}<br>"
-            "<extra></extra>"
-        ),
-        hovertext=sub["name"],
-    ))
-
-fig10.add_vline(x=med_x, line_dash="dash", line_color="gray", opacity=0.4)
-fig10.add_hline(y=med_y, line_dash="dash", line_color="gray", opacity=0.4)
-fig10.update_layout(
-    height=680,
-    font_family="Inter, sans-serif",
-    title="Shot Quality vs Conversion: PL Elite vs World Elite — 2025/26",
-    title_font_size=16,
-    plot_bgcolor="white",
-    paper_bgcolor="#f4f6f9",
-    hoverlabel=dict(bgcolor="white", font_size=13),
-    margin=dict(l=60, r=60, t=60, b=100),
-    xaxis=dict(
-        title="xG Per Shot (Chance Quality)",
-        showgrid=True, gridcolor="#eeeeee",
-        title_font_size=13, tickfont_size=11,
-    ),
-    yaxis=dict(
-        title="Shot Conversion (%)",
-        showgrid=True, gridcolor="#eeeeee",
-        title_font_size=13, tickfont_size=11,
-    ),
-    legend=dict(
-        title="Competition",
-        orientation="h",
-        yanchor="bottom", y=-0.2,
-        xanchor="center", x=0.5,
-    ),
-)
-fig10.write_html("output/figures/10_pl_vs_world_conversion.html", include_plotlyjs="cdn", full_html=True)
-print("✅ Plot 10 saved (HTML)")

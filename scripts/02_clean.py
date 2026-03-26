@@ -1,6 +1,7 @@
 import json
 import pandas as pd
 
+
 def parse_stats(filepath, competition):
     with open(filepath, "r") as f:
         data = json.load(f)
@@ -29,30 +30,20 @@ def parse_stats(filepath, competition):
         players.append(p)
     return pd.DataFrame(players)
 
-# Parse both competitions
-df_pl  = parse_stats("data/raw/opta_pl_stats.json", "Premier League")
-df_ucl = parse_stats("data/raw/opta_ucl_stats.json", "Champions League")
 
-# Combine into one DataFrame
-df = pd.concat([df_pl, df_ucl], ignore_index=True)
+# Parse PL only
+df = parse_stats("data/raw/opta_pl_stats.json", "Premier League")
 
-# Basic cleaning
-df["mins_played"]     = pd.to_numeric(df["mins_played"], errors="coerce")
-df["goals"]           = pd.to_numeric(df["goals"],       errors="coerce")
-df["xg"]              = pd.to_numeric(df["xg"],          errors="coerce")
-df["shots"]           = pd.to_numeric(df["shots"],       errors="coerce")
-df["shot_conv"]       = pd.to_numeric(df["shot_conv"],   errors="coerce")
-df["xg_per_shot"]     = pd.to_numeric(df["xg_per_shot"], errors="coerce")
-df["goals_vs_xg"]     = pd.to_numeric(df["goals_vs_xg"], errors="coerce")
+# Convert numeric columns
+numeric_cols = ["mins_played", "goals", "xg", "shots", "shot_conv", "xg_per_shot", "goals_vs_xg"]
+df[numeric_cols] = df[numeric_cols].apply(pd.to_numeric, errors="coerce")
 
-# Add mins per goal (only for players with at least 1 goal)
+# Add mins per goal
 df["mins_per_goal"] = df["mins_played"] / df["goals"].replace(0, float("nan"))
 
-# Save clean data
+# Save
 df.to_csv("data/clean/stats_clean.csv", index=False)
 
-print(f"✅ Combined dataset: {len(df)} players")
-print(f"   PL players:  {len(df_pl)}")
-print(f"   UCL players: {len(df_ucl)}")
+print(f"✅ PL dataset: {len(df)} players")
 print("\nFirst 5 rows:")
-print(df[["name", "team", "competition", "goals", "xg", "shot_conv", "mins_per_goal"]].head())
+print(df[["name", "team", "goals", "xg", "shot_conv", "mins_per_goal"]].head())
