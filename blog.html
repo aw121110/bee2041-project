@@ -92,8 +92,6 @@ ul.task-list li input[type="checkbox"] {
   #TOC { background: white; border-radius: 10px; padding: 16px; box-shadow: 0 2px 10px rgba(0,0,0,0.07); font-size: 0.88em; }
   #TOC a { color: #0f3460; }
   #TOC a:hover { color: #e94560; }
-  .pl-badge { display: inline-block; background: #3d1a72; color: white; font-size: 0.7em; font-weight: 700; padding: 3px 9px; border-radius: 20px; letter-spacing: 0.05em; vertical-align: middle; margin-left: 6px; }
-  .ucl-badge { display: inline-block; background: #1a3a7c; color: #f5c842; font-size: 0.7em; font-weight: 700; padding: 3px 9px; border-radius: 20px; letter-spacing: 0.05em; vertical-align: middle; margin-left: 6px; }
   iframe { border-radius: 8px; display: block; }
   .pitch-container { margin: 30px auto; max-width: 600px; }
   .pitch-svg { width: 100%; height: auto; }
@@ -301,7 +299,7 @@ ul.task-list li input[type="checkbox"] {
     <div class="label">Key Metrics</div>
   </div>
   <div class="stat-card">
-    <div class="number" data-target="6">0</div>
+    <div class="number" data-target="5">0</div>
     <div class="label">Visualisations</div>
   </div>
 </div>
@@ -469,7 +467,7 @@ ul.task-list li input[type="checkbox"] {
 <p>The chart below applies this causal estimate to produce <strong>counterfactual predictions</strong>: for each of the top 15 scorers, how many goals would the model predict if they converted at exactly the league median rate? The gap between a player’s actual goals (coloured bar) and their counterfactual goals (grey bar) represents their <strong>causal finishing advantage</strong> - the goals directly attributable to their above- or below-average conversion.</p>
 <div class="chart-container">
   <iframe src="output/figures/11_causal_counterfactual.html" width="100%" height="620px" frameborder="0" scrolling="no"></iframe>
-  <div class="chart-caption">Figure 6 - Actual goals (coloured) vs counterfactual goals at median conversion (grey). Green = above-median finisher; Red = below-median finisher. Hover for full stats.</div>
+  <div class="chart-caption">Figure 5 - Actual goals (coloured) vs counterfactual goals at median conversion (grey). Green = above-median finisher; Red = below-median finisher. Hover for full stats.</div>
 </div>
 <div class="insight-box green">
   <p><strong>Igor Thiago</strong> emerges as the player with the largest causal finishing advantage in the dataset. The Double ML model estimates that roughly 5 of his 18 goals are directly attributable to his elite 26.9% conversion rate, over and above what his chance quality and shot volume would predict for an average finisher. For a player at Brentford, a club not built to dominate possession or create chances in volume, that causal advantage is extraordinary. It also raises the obvious question for the summer: if Thiago can produce these numbers with Brentford's chance creation, what would he produce with more?</p>
