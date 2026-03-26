@@ -114,9 +114,9 @@ fig11 = go.Figure()
 fig11.add_trace(go.Bar(
     y=top_n["display_name"],
     x=top_n["Goals At Median Conversion"],
-    name=f"Goals At Median Conversion ({median_conv:.1f}%)",
+    name=f"Goals at Median Conversion ({median_conv:.1f}%)",
     orientation="h",
-    marker=dict(color="#d0dce8", line=dict(width=0)),
+    marker=dict(color="#90a4ae", line=dict(width=0)),
     customdata=top_n[[
         "Club", "Actual Goals", "Goals At Median Conversion",
         "Shot Conversion (%)", "Causal Finishing Advantage"
@@ -140,11 +140,10 @@ fig11.add_trace(go.Bar(
     orientation="h",
     marker=dict(
         color=[
-            "#27ae60" if v > 0.1 else "#e94560" if v < -0.1 else "#888888"
+            "#2ecc71" if v > 0.1 else "#e74c3c" if v < -0.1 else "#95a5a6"
             for v in top_n["causal_advantage"]
         ],
-        opacity=0.85,
-        line=dict(width=0),
+        line=dict(color="white", width=1),
     ),
     customdata=top_n[[
         "Club", "Actual Goals", "Goals At Median Conversion",
@@ -163,8 +162,10 @@ fig11.add_trace(go.Bar(
 ))
 
 fig11.update_layout(
-    barmode="overlay",
-    height=600,
+    barmode="group",  # <-- KEY CHANGE: side-by-side instead of overlay
+    bargap=0.25,
+    bargroupgap=0.05,
+    height=620,
     font_family="Inter, sans-serif",
     title="Causal Finishing Advantage — Actual vs Counterfactual Goals (Double ML)",
     title_font_size=15,
@@ -185,5 +186,6 @@ fig11.update_layout(
         font_size=11,
     ),
 )
+
 fig11.write_html("output/figures/11_causal_counterfactual.html", include_plotlyjs="cdn", full_html=True)
 print("✅ Plot 11 saved (HTML)")
