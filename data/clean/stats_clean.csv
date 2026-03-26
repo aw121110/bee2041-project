@@ -1,586 +1,588 @@
 competition,player_id,name,first_name,last_name,team,position,age,apps,mins_played,goals,xg,goals_vs_xg,shots,shots_on_target,shot_conv,xg_per_shot,mins_per_goal
-Premier League,494595,Florian Wirtz,Florian,Wirtz,Liverpool FC,Midfielder,22.88,26,1925,4,5.7,-1.7,41,15,9.76,0.14,481.25
-Premier League,591386,Trey Nyoni,Trey,Nyoni,Liverpool FC,Midfielder,18.72,4,13,0,0.37,-0.37,1,0,0.0,0.37,
-Premier League,171287,Joe Gomez,Joe,Gomez,Liverpool FC,Defender,28.83,16,495,0,0.23,-0.23,3,1,0.0,0.08,
-Premier League,511499,Mathys Tel,Mathys,Tel,Tottenham Hotspur FC,Forward,20.9,23,831,3,1.9,1.1,25,6,12.0,0.08,277.0
-Premier League,135720,Kevin Danso,Kevin,Danso,Tottenham Hotspur FC,Defender,27.51,16,841,0,0.16,-0.16,3,1,0.0,0.05,
-Premier League,616221,Souza,João Victor,de Souza Menezes,Tottenham Hotspur FC,Defender,19.76,4,144,0,0.02,-0.02,1,1,0.0,0.02,
-Premier League,510663,Hugo Ekitiké,Hugo,Ekitiké,Liverpool FC,Forward,23.75,27,1802,11,9.9,1.1,65,19,16.92,0.15,163.8181818181818
-Premier League,154566,Dominic Solanke,Dominic,Solanke,Tottenham Hotspur FC,Forward,28.52,11,690,3,1.67,1.33,12,6,25.0,0.14,230.0
-Premier League,212319,Richarlison,Richarlison,de Andrade,Tottenham Hotspur FC,Forward,28.87,25,1437,9,6.16,2.84,44,20,20.45,0.14,159.66666666666666
-Premier League,441164,Pedro Porro,Pedro,Porro,Tottenham Hotspur FC,Defender,26.52,26,2078,0,0.59,-0.59,20,2,0.0,0.03,
-Premier League,243298,Cody Gakpo,Cody,Gakpo,Liverpool FC,Forward,26.88,28,2062,6,6.58,-0.58,67,15,8.96,0.1,343.6666666666667
-Premier League,499726,Callum Olusesi,Callum,Olusesi,Tottenham Hotspur FC,Midfielder,19.03,1,14,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,493362,Xavi Simons,Xavi,Simons,Tottenham Hotspur FC,Midfielder,22.92,24,1576,1,2.33,-1.33,36,9,2.78,0.06,1576.0
-Premier League,482442,Pape Matar Sarr,Pape Matar,Sarr,Tottenham Hotspur FC,Midfielder,23.52,21,1232,2,1.43,0.57,13,6,15.38,0.11,616.0
-Premier League,547701,Archie Gray,Archie,Gray,Tottenham Hotspur FC,Midfielder,20.02,20,1293,2,1.3,0.7,8,4,25.0,0.16,646.5
-Premier League,216094,Jeremie Frimpong,Jeremie,Frimpong,Liverpool FC,Defender,25.28,14,689,0,0.43,-0.43,8,1,0.0,0.05,
-Premier League,243016,Alexis Mac Allister,Alexis,Mac Allister,Liverpool FC,Midfielder,27.24,29,2094,2,3.14,-1.14,41,10,4.88,0.08,1047.0
-Premier League,97032,Virgil van Dijk,Virgil,van Dijk,Liverpool FC,Defender,34.71,30,2700,3,2.66,0.34,22,10,13.64,0.12,900.0
-Premier League,499716,James Rowswell,James,Rowswell,Tottenham Hotspur FC,Defender,19.69,1,1,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,118748,Mohamed Salah,Mohamed,Salah Hamed Mahrous Ghaly,Liverpool FC,Forward,33.77,22,1820,5,6.82,-1.82,57,14,8.77,0.12,364.0
-Premier League,247693,Randal Kolo Muani,Randal,Kolo Muani,Tottenham Hotspur FC,Forward,27.3,22,1212,1,1.66,-0.66,14,3,7.14,0.12,1212.0
-Premier League,613232,James Wilson,James,Wilson,Tottenham Hotspur FC,Forward,19.04,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,493125,Radu Dragusin,Radu,Dragusin,Tottenham Hotspur FC,Defender,24.13,8,513,0,0.32,-0.32,4,0,0.0,0.08,
-Premier League,424876,Dominik Szoboszlai,Dominik,Szoboszlai,Liverpool FC,Midfielder,25.41,28,2513,5,3.76,1.24,55,19,9.09,0.07,502.6
-Premier League,611922,Rio Ngumoha,Rio,Ngumoha,Liverpool FC,Forward,17.56,12,192,1,0.81,0.19,6,4,16.67,0.13,192.0
-Premier League,232859,Djed Spence,Djed,Spence,Tottenham Hotspur FC,Defender,25.62,23,1767,0,0.86,-0.86,11,7,0.0,0.08,
-Premier League,122798,Andy Robertson,Andy,Robertson,Liverpool FC,Defender,32.04,18,753,0,0.32,-0.32,5,1,0.0,0.06,
-Premier League,441266,Ryan Gravenberch,Ryan,Gravenberch,Liverpool FC,Midfielder,23.85,28,2431,4,1.65,2.35,31,9,12.9,0.05,607.75
-Premier League,489580,Calvin Ramsay,Calvin,Ramsay,Liverpool FC,Defender,22.64,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,204716,Ibrahima Konaté,Ibrahima,Konaté,Liverpool FC,Defender,26.83,28,2410,1,1.06,-0.06,10,3,10.0,0.11,2410.0
-Premier League,544877,Milos Kerkez,Milos,Kerkez,Liverpool FC,Defender,22.37,27,1959,1,1.04,-0.04,7,1,14.29,0.15,1959.0
-Premier League,223541,Federico Chiesa,Federico,Chiesa,Liverpool FC,Forward,28.41,22,265,2,1.36,0.64,15,4,13.33,0.09,132.5
-Premier League,206915,Curtis Jones,Curtis,Jones,Liverpool FC,Midfielder,25.14,26,1265,0,2.0,-2.0,19,5,0.0,0.11,
-Premier League,200617,Daniel James,Daniel,James,Leeds United FC,Midfielder,28.36,14,402,0,0.7,-0.7,10,2,0.0,0.07,
-Premier League,496221,Adam Wharton,Adam,Wharton,Crystal Palace FC,Midfielder,22.12,27,2174,0,1.34,-1.34,26,4,0.0,0.05,
-Premier League,231747,Jean-Philippe Mateta,Jean-Philippe,Mateta,Crystal Palace FC,Forward,28.73,24,1944,8,12.08,-4.08,55,26,14.55,0.22,243.0
-Premier League,180135,Sean Longstaff,Sean,Longstaff,Leeds United FC,Midfielder,28.39,17,946,1,0.85,0.15,13,2,7.69,0.07,946.0
-Premier League,174594,Lukas Nmecha,Lukas,Nmecha,Leeds United FC,Forward,27.27,24,805,6,6.21,-0.21,21,13,28.57,0.3,134.16666666666666
-Premier League,427623,Chris Richards,Chris,Richards,Crystal Palace FC,Defender,25.98,26,2333,1,1.13,-0.13,10,1,10.0,0.11,2333.0
-Premier League,108413,Will Hughes,Will,Hughes,Crystal Palace FC,Midfielder,30.93,27,1295,0,1.09,-1.09,17,0,0.0,0.06,
-Premier League,242898,Brennan Johnson,Brennan,Johnson,Crystal Palace FC,Forward,24.83,27,1231,2,1.84,0.16,17,5,11.76,0.11,615.5
-Premier League,437499,Maxence Lacroix,Maxence,Lacroix,Crystal Palace FC,Defender,25.96,28,2486,1,2.06,-1.06,20,4,5.0,0.1,2486.0
-Premier League,222694,Pascal Struijk,Pascal,Struijk,Leeds United FC,Defender,26.61,27,2348,0,2.49,-2.49,24,4,0.0,0.1,
-Premier League,489706,Justin Devenny,Justin,Devenny,Crystal Palace FC,Midfielder,22.44,18,596,1,2.62,-1.62,13,4,7.69,0.2,596.0
-Premier League,232185,Ismaïla Sarr,Ismaïla,Sarr,Crystal Palace FC,Forward,28.07,20,1730,7,7.97,-0.97,34,14,20.59,0.23,247.14285714285714
-Premier League,235826,Joël Piroe,Joël,Piroe,Leeds United FC,Forward,26.64,13,217,0,0.86,-0.86,11,2,0.0,0.08,
-Premier League,226182,Jayden Bogle,Jayden,Bogle,Leeds United FC,Defender,25.65,28,2320,1,2.04,-1.04,15,4,6.67,0.14,2320.0
-Premier League,199598,Ethan Ampadu,Ethan,Ampadu,Leeds United FC,Defender,25.52,27,2403,1,1.79,-0.79,19,4,5.26,0.09,2403.0
-Premier League,485337,Evann Guessand,Evann,Guessand,Crystal Palace FC,Forward,24.72,19,887,1,1.56,-0.56,11,6,9.09,0.14,887.0
-Premier League,214225,Joe Rodon,Joe,Rodon,Leeds United FC,Defender,28.42,28,2457,2,1.21,0.79,15,4,13.33,0.08,1228.5
-Premier League,244723,Tyrick Mitchell,Tyrick,Mitchell,Crystal Palace FC,Defender,26.56,30,2669,1,1.09,-0.09,13,5,7.69,0.08,2669.0
-Premier League,492859,Wilfried Gnonto,Wilfried,Gnonto,Leeds United FC,Forward,22.38,16,380,0,0.28,-0.28,8,0,0.0,0.03,
-Premier League,437738,Sebastiaan Bornauw,Sebastiaan,Bornauw,Leeds United FC,Defender,27.0,9,308,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,152551,Jefferson Lerma,Jefferson,Lerma,Crystal Palace FC,Midfielder,31.41,24,1248,0,1.04,-1.04,14,6,0.0,0.07,
-Premier League,515621,Chadi Riad,Chadi,Riad,Crystal Palace FC,Defender,22.76,6,314,0,0.11,-0.11,2,1,0.0,0.05,
-Premier League,220627,James Justin,James,Justin,Leeds United FC,Defender,28.08,21,1176,1,0.79,0.21,14,4,7.14,0.06,1176.0
-Premier League,243526,Gabriel Gudmundsson,Gabriel,Gudmundsson,Leeds United FC,Defender,26.9,29,2368,0,1.1,-1.1,18,3,0.0,0.06,
-Premier League,247412,Jørgen Strand Larsen,Jørgen,Strand Larsen,Crystal Palace FC,Forward,26.12,28,1874,4,4.16,-0.16,32,12,12.5,0.13,468.5
-Premier League,466525,Anton Stach,Anton,Stach,Leeds United FC,Midfielder,27.35,25,2052,4,2.45,1.55,46,13,8.7,0.05,513.0
-Premier League,218364,Borna Sosa,Borna,Sosa,Crystal Palace FC,Defender,28.17,5,53,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,488024,Yéremy Pino,Yéremy,Pino,Crystal Palace FC,Midfielder,23.42,27,1730,2,3.94,-1.94,38,10,5.26,0.1,865.0
-Premier League,209400,Daichi Kamada,Daichi,Kamada,Crystal Palace FC,Midfielder,29.63,20,1488,0,1.39,-1.39,16,4,0.0,0.09,
-Premier League,651426,Jaydee Canvot,Jaydee,Canvot,Crystal Palace FC,Defender,19.64,13,704,0,0.79,-0.79,3,0,0.0,0.26,
-Premier League,434752,Jaka Bijol,Jaka,Bijol,Leeds United FC,Defender,27.13,17,1219,1,0.79,0.21,12,6,8.33,0.07,1219.0
-Premier League,486520,Ilia Gruev,Ilia,Gruev,Leeds United FC,Midfielder,25.88,21,1294,0,0.44,-0.44,6,1,0.0,0.07,
-Premier League,177815,Dominic Calvert-Lewin,Dominic,Calvert-Lewin,Leeds United FC,Forward,29.02,27,2029,10,11.45,-1.45,57,25,17.54,0.2,202.9
-Premier League,57328,Nathaniel Clyne,Nathaniel,Clyne,Crystal Palace FC,Defender,34.97,8,498,0,0.43,-0.43,3,0,0.0,0.14,
-Premier League,427637,Brenden Aaronson,Brenden,Aaronson,Leeds United FC,Midfielder,25.41,29,1919,4,4.1,-0.1,40,15,10.0,0.1,479.75
-Premier League,248056,Ao Tanaka,Ao,Tanaka,Leeds United FC,Midfielder,27.53,20,741,2,0.83,1.17,11,3,18.18,0.08,370.5
-Premier League,606798,Andrés García,Andrés,García,Aston Villa FC,Defender,23.12,4,37,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,430871,Matheus Cunha,Matheus,Santos Carneiro da Cunha,Manchester United FC,Forward,26.82,27,1993,7,5.85,1.15,70,28,10.0,0.08,284.7142857142857
-Premier League,515597,Lamare Bogarde,Lamare,Bogarde,Aston Villa FC,Midfielder,22.21,24,800,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,184667,Victor Lindelöf,Victor,Lindelöf,Aston Villa FC,Defender,31.68,12,572,0,0.03,-0.03,1,0,0.0,0.03,
-Premier League,550864,Leny Yoro,Leny,Yoro,Manchester United FC,Defender,20.35,27,1525,0,0.94,-0.94,6,2,0.0,0.16,
-Premier League,173879,Tammy Abraham,Tammy,Abraham,Aston Villa FC,Forward,28.47,7,193,1,1.24,-0.24,6,2,16.67,0.21,193.0
-Premier League,141746,Bruno Fernandes,Bruno Miguel,Borges Fernandes,Manchester United FC,Midfielder,31.54,27,2347,7,9.19,-2.19,67,18,10.45,0.14,335.2857142857143
-Premier League,195546,Emiliano Buendía,Emiliano,Buendía,Aston Villa FC,Midfielder,29.24,28,1444,5,2.92,2.08,40,9,12.5,0.07,288.8
-Premier League,232112,Manuel Ugarte,Manuel,Ugarte,Manchester United FC,Midfielder,24.95,20,783,0,0.49,-0.49,11,1,0.0,0.04,
-Premier League,606745,Ayden Heaven,Ayden,Heaven,Manchester United FC,Defender,19.49,13,645,0,0.35,-0.35,3,0,0.0,0.12,
-Premier League,106760,Luke Shaw,Luke,Shaw,Manchester United FC,Defender,30.7,30,2536,0,0.5,-0.5,5,2,0.0,0.1,
-Premier League,244850,Morgan Rogers,Morgan,Rogers,Aston Villa FC,Forward,23.65,30,2680,8,5.34,2.66,68,27,11.76,0.08,335.0
-Premier League,178301,Ollie Watkins,Ollie,Watkins,Aston Villa FC,Forward,30.23,29,2218,8,9.69,-1.69,57,25,14.04,0.17,277.25
-Premier League,184341,Mason Mount,Mason,Mount,Manchester United FC,Midfielder,27.2,17,819,3,1.49,1.51,18,5,16.67,0.08,273.0
-Premier League,199798,Ezri Konsa,Ezri,Konsa,Aston Villa FC,Defender,28.41,29,2586,0,1.01,-1.01,9,2,0.0,0.11,
-Premier League,216051,Diogo Dalot,José Diogo,Dalot Teixeira,Manchester United FC,Defender,27.01,28,2146,1,1.59,-0.59,20,6,5.0,0.08,2146.0
-Premier League,230001,Noussair Mazraoui,Noussair,Mazraoui,Manchester United FC,Defender,28.35,15,615,0,0.17,-0.17,4,0,0.0,0.04,
-Premier League,122806,John McGinn,John,McGinn,Aston Villa FC,Midfielder,31.43,23,1668,3,2.53,0.47,19,7,15.79,0.13,556.0
-Premier League,95658,Harry Maguire,Harry,Maguire,Manchester United FC,Defender,33.05,17,1127,1,0.78,0.22,9,2,11.11,0.09,1127.0
-Premier League,458249,Joshua Zirkzee,Joshua,Zirkzee,Manchester United FC,Forward,24.83,18,509,2,2.39,-0.39,21,7,9.52,0.11,254.5
-Premier League,493250,Amad Diallo,Amad,Diallo,Manchester United FC,Forward,23.7,24,1830,2,4.42,-2.42,41,16,4.88,0.11,915.0
-Premier League,101188,Lucas Digne,Lucas,Digne,Aston Villa FC,Defender,32.68,25,1468,0,0.56,-0.56,10,5,0.0,0.06,
-Premier League,222690,Tyrell Malacia,Tyrell,Malacia,Manchester United FC,Defender,26.6,2,7,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,516895,Kobbie Mainoo,Kobbie,Mainoo,Manchester United FC,Midfielder,20.92,21,1023,0,0.24,-0.24,8,2,0.0,0.03,
-Premier League,230046,Douglas Luiz,Douglas Luiz,Soares de Paulo,Aston Villa FC,Midfielder,27.87,15,787,1,0.49,0.51,10,4,10.0,0.05,787.0
-Premier League,519913,Tyler Fletcher,Tyler,Fletcher,Manchester United FC,Midfielder,19.01,1,1,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,485711,Benjamin Sesko,Benjamin,Sesko,Manchester United FC,Forward,22.81,25,1313,9,7.17,1.83,53,28,16.98,0.14,145.88888888888889
-Premier League,446008,Bryan Mbeumo,Bryan,Mbeumo,Manchester United FC,Forward,26.62,25,2125,9,8.17,0.83,59,30,15.25,0.14,236.11111111111111
-Premier League,88894,Ross Barkley,Ross,Barkley,Aston Villa FC,Midfielder,32.3,13,326,2,0.64,1.36,9,3,22.22,0.07,163.0
-Premier League,215711,Leon Bailey,Leon,Bailey,Aston Villa FC,Forward,28.62,8,313,0,0.3,-0.3,6,1,0.0,0.05,
-Premier League,441302,Ian Maatsen,Ian,Maatsen,Aston Villa FC,Defender,24.03,24,1258,0,1.07,-1.07,17,4,0.0,0.06,
-Premier League,149484,Tyrone Mings,Tyrone,Mings,Aston Villa FC,Defender,33.03,13,963,0,1.07,-1.07,7,0,0.0,0.15,
-Premier League,449871,Amadou Onana,Amadou,Onana,Aston Villa FC,Midfielder,24.6,21,1477,2,1.23,0.77,13,6,15.38,0.09,738.5
-Premier League,61256,Casemiro,Carlos Henrique,Casimiro,Manchester United FC,Midfielder,34.08,28,2065,7,4.66,2.34,43,14,16.28,0.11,295.0
-Premier League,244954,Pau Torres,Pau,Torres,Aston Villa FC,Defender,29.18,16,1299,0,0.57,-0.57,7,0,0.0,0.08,
-Premier League,444884,Harvey Elliott,Harvey,Elliott,Aston Villa FC,Midfielder,22.96,5,110,0,0.29,-0.29,5,0,0.0,0.06,
-Premier League,232892,Calvin Bassey,Calvin,Bassey,Fulham FC,Defender,26.22,22,1812,1,1.29,-0.29,9,1,11.11,0.14,1812.0
-Premier League,227444,Nikola Milenkovic,Nikola,Milenkovic,Nottingham Forest FC,Defender,28.44,30,2700,0,0.82,-0.82,15,1,0.0,0.05,
-Premier League,215379,Elliot Anderson,Elliot,Anderson,Nottingham Forest FC,Midfielder,23.37,30,2685,2,2.49,-0.49,36,8,5.56,0.07,1342.5
-Premier League,102057,Raúl Jiménez,Raúl,Jiménez,Fulham FC,Forward,34.89,29,1978,8,10.09,-2.09,62,17,12.9,0.16,247.25
-Premier League,210462,Ibrahim Sangaré,Ibrahim,Sangaré,Nottingham Forest FC,Midfielder,28.3,22,1680,2,1.15,0.85,16,5,12.5,0.07,840.0
-Premier League,212314,Sasa Lukic,Sasa,Lukic,Fulham FC,Midfielder,29.61,20,1239,1,1.82,-0.82,13,3,7.69,0.14,1239.0
-Premier League,76357,Tom Cairney,Tom,Cairney,Fulham FC,Midfielder,35.18,20,550,1,0.94,0.06,12,1,8.33,0.08,550.0
-Premier League,215136,Neco Williams,Neco,Williams,Nottingham Forest FC,Defender,24.94,29,2530,1,1.58,-0.58,33,13,3.03,0.05,2530.0
-Premier League,244042,Rodrigo Muniz,Rodrigo,Muniz Carvalho,Fulham FC,Forward,24.88,13,498,1,1.35,-0.35,17,4,5.88,0.08,498.0
-Premier League,470315,Luca Netz,Luca,Netz,Nottingham Forest FC,Defender,22.85,2,48,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,153682,Harry Wilson,Harry,Wilson,Fulham FC,Forward,29.0,28,2189,9,4.8,4.2,60,22,15.0,0.08,243.22222222222223
-Premier League,166477,Timothy Castagne,Timothy,Castagne,Fulham FC,Defender,30.3,22,1129,0,1.03,-1.03,8,4,0.0,0.13,
-Premier League,222531,Morgan Gibbs-White,Morgan,Gibbs-White,Nottingham Forest FC,Midfielder,26.15,30,2557,8,7.81,0.19,64,22,12.5,0.12,319.625
-Premier League,159506,Ola Aina,Ola,Aina,Nottingham Forest FC,Defender,29.45,14,1231,0,0.36,-0.36,11,1,0.0,0.03,
-Premier League,482973,Igor Jesus,Igor Jesus,Maciel da Cruz,Nottingham Forest FC,Forward,25.07,29,1740,2,4.52,-2.52,53,11,3.77,0.09,870.0
-Premier League,577725,Josh King,Josh,King,Fulham FC,Midfielder,19.21,24,1059,0,1.91,-1.91,21,8,0.0,0.09,
-Premier League,207189,Sander Berge,Sander,Berge,Fulham FC,Midfielder,28.1,30,2506,0,1.29,-1.29,10,3,0.0,0.13,
-Premier League,432714,James McAtee,James,McAtee,Nottingham Forest FC,Midfielder,23.42,9,173,0,0.02,-0.02,1,0,0.0,0.02,
-Premier League,219924,Issa Diop,Issa,Diop,Fulham FC,Defender,29.2,10,593,0,0.02,-0.02,1,0,0.0,0.02,
-Premier League,210156,Taiwo Awoniyi,Taiwo,Awoniyi,Nottingham Forest FC,Forward,28.61,11,249,1,1.45,-0.45,9,4,11.11,0.16,249.0
-Premier League,209046,Callum Hudson-Odoi,Callum,Hudson-Odoi,Nottingham Forest FC,Forward,25.37,28,1684,3,2.72,0.28,28,10,10.71,0.1,561.3333333333334
-Premier League,153366,Harrison Reed,Harrison,Reed,Fulham FC,Midfielder,31.15,5,23,1,0.04,0.96,1,1,100.0,0.04,23.0
-Premier League,250199,Nicolás Domínguez,Nicolás,Domínguez,Nottingham Forest FC,Midfielder,27.73,19,937,1,1.15,-0.15,16,5,6.25,0.07,937.0
-Premier League,169528,Antonee Robinson,Antonee,Robinson,Fulham FC,Defender,28.62,14,984,0,0.22,-0.22,2,0,0.0,0.11,
-Premier League,204968,Ryan Yates,Ryan,Yates,Nottingham Forest FC,Midfielder,28.33,15,386,0,0.22,-0.22,5,1,0.0,0.04,
-Premier League,153133,Alex Iwobi,Alex,Iwobi,Fulham FC,Forward,29.89,24,2054,4,1.28,2.72,27,11,14.81,0.05,513.5
-Premier League,477555,Oscar Bobb,Oscar,Bobb,Fulham FC,Midfielder,22.69,15,703,0,0.51,-0.51,6,0,0.0,0.08,
-Premier League,456512,Dan Ndoye,Dan,Ndoye,Nottingham Forest FC,Forward,25.41,22,1165,1,1.06,-0.06,15,4,6.67,0.07,1165.0
-Premier League,218328,Samuel Chukwueze,Samuel,Chukwueze,Fulham FC,Forward,26.84,16,776,3,1.61,1.39,18,6,16.67,0.09,258.6666666666667
-Premier League,174874,Joachim Andersen,Joachim,Andersen,Fulham FC,Defender,29.81,27,2382,0,1.31,-1.31,12,3,0.0,0.11,
-Premier League,485047,Morato,Felipe,Rodrigues da Silva,Nottingham Forest FC,Defender,24.73,15,940,0,0.83,-0.83,4,1,0.0,0.21,
-Premier League,184349,Ryan Sessegnon,Ryan,Sessegnon,Fulham FC,Midfielder,25.84,23,1610,2,1.16,0.84,13,3,15.38,0.09,805.0
-Premier League,503301,Omari Hutchinson,Omari,Hutchinson,Nottingham Forest FC,Forward,22.39,23,1200,1,1.71,-0.71,21,9,4.76,0.08,1200.0
-Premier League,167074,Kenny Tete,Kenny,Tete,Fulham FC,Defender,30.45,22,1794,1,0.96,0.04,16,3,6.25,0.06,1794.0
-Premier League,476887,Dilane Bakwa,Dilane,Bakwa,Nottingham Forest FC,Forward,23.57,10,343,0,0.51,-0.51,8,3,0.0,0.06,
-Premier League,575476,Murillo,Murillo Santiago,Costa dos Santos,Nottingham Forest FC,Defender,23.72,22,1911,1,0.61,0.39,10,4,10.0,0.06,1911.0
-Premier League,602903,Ezra Mayers,Ezra,Mayers,West Ham United FC,Defender,19.18,6,113,0,0.12,-0.12,1,0,0.0,0.12,
-Premier League,91651,Mateo Kovacic,Mateo,Kovacic,Manchester City FC,Midfielder,31.88,1,4,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,462116,Jean-Clair Todibo,Jean-Clair,Todibo,West Ham United FC,Defender,26.23,20,1700,0,0.24,-0.24,2,0,0.0,0.12,
-Premier League,233963,Konstantinos Mavropanos,Konstantinos,Mavropanos,West Ham United FC,Defender,28.28,23,1808,1,2.0,-1.0,16,4,6.25,0.13,1808.0
-Premier League,165809,Bernardo Silva,Bernardo,Mota Veiga de Carvalho e Silva,Manchester City FC,Midfielder,31.62,30,2254,2,1.51,0.49,17,5,11.76,0.09,1127.0
-Premier League,220566,Rodri,Rodrigo,Hernández Cascante,Manchester City FC,Midfielder,29.75,18,1245,1,0.76,0.24,11,2,9.09,0.07,1245.0
-Premier League,578153,Abdukodir Khusanov,Abdukodir,Khusanov,Manchester City FC,Defender,22.06,15,889,0,0.47,-0.47,2,0,0.0,0.23,
-Premier League,613804,El Hadji Malick Diouf,El Hadji Malick,Diouf,West Ham United FC,Defender,21.22,24,2007,0,0.46,-0.46,13,2,0.0,0.04,
-Premier League,438234,Omar Marmoush,Omar Khaled Mohamed Abdelsalam,Marmoush,Manchester City FC,Forward,27.12,17,573,1,2.19,-1.19,24,7,4.17,0.09,573.0
-Premier League,530335,Pablo,Pablo Felipe,Pereira de Jesus,West Ham United FC,Forward,22.22,6,317,0,0.33,-0.33,4,0,0.0,0.08,
-Premier League,466052,Rayan Cherki,Rayan,Cherki,Manchester City FC,Midfielder,22.59,25,1308,3,2.47,0.53,33,8,9.09,0.07,436.0
-Premier League,215439,Tomás Soucek,Tomás,Soucek,West Ham United FC,Midfielder,31.07,27,1512,4,4.37,-0.37,18,11,22.22,0.24,378.0
-Premier League,220362,Axel Disasi,Axel,Disasi,West Ham United FC,Defender,28.03,6,540,0,0.7,-0.7,3,2,0.0,0.23,
-Premier League,159533,Adama Traoré,Adama,Traoré,West Ham United FC,Forward,30.16,21,304,0,0.35,-0.35,6,1,0.0,0.06,
-Premier League,490142,Freddie Potts,Freddie,Potts,West Ham United FC,Midfielder,22.52,19,1099,0,0.21,-0.21,3,1,0.0,0.07,
-Premier League,209036,Marc Guéhi,Marc,Guéhi,Manchester City FC,Defender,25.69,28,2520,2,3.58,-1.58,27,7,7.41,0.13,1260.0
-Premier League,158534,Kyle Walker-Peters,Kyle,Walker-Peters,West Ham United FC,Defender,28.94,18,955,1,1.13,-0.13,5,3,20.0,0.23,955.0
-Premier League,551226,Mateus Fernandes,Mateus Gonçalo,Espanha Fernandes,West Ham United FC,Midfielder,21.7,28,2309,3,1.22,1.78,21,5,14.29,0.06,769.6666666666666
-Premier League,126184,Nathan Aké,Nathan,Aké,Manchester City FC,Defender,31.09,14,488,0,0.28,-0.28,3,0,0.0,0.09,
-Premier League,75115,Callum Wilson,Callum,Wilson,West Ham United FC,Forward,34.07,24,1001,5,6.55,-1.55,32,12,15.62,0.2,200.2
-Premier League,465694,Nico González,Nico,González,Manchester City FC,Midfielder,24.21,21,1375,1,0.57,0.43,12,2,8.33,0.05,1375.0
-Premier League,448514,Rayan Aït-Nouri,Rayan,Aït-Nouri,Manchester City FC,Defender,24.79,13,782,0,0.42,-0.42,7,1,0.0,0.06,
-Premier League,209244,Phil Foden,Phil,Foden,Manchester City FC,Midfielder,25.82,26,1813,7,5.47,1.53,51,17,13.73,0.11,259.0
-Premier League,564940,Soungoutou Magassa,Soungoutou,Magassa,West Ham United FC,Midfielder,22.45,19,965,1,0.44,0.56,7,2,14.29,0.06,965.0
-Premier League,247670,Valentín Castellanos,Valentín,Castellanos,West Ham United FC,Forward,27.47,10,821,2,2.55,-0.55,21,8,9.52,0.12,410.5
-Premier League,223094,Erling Haaland,Erling,Haaland,Manchester City FC,Forward,25.67,29,2418,22,21.01,0.99,102,49,21.57,0.21,109.9090909090909
-Premier League,214048,Maximilian Kilman,Maximilian,Kilman,West Ham United FC,Defender,28.83,21,1559,0,0.57,-0.57,7,1,0.0,0.08,
-Premier League,472769,Nico O'Reilly,Nico,O'Reilly,Manchester City FC,Midfielder,21.0,28,2134,4,4.04,-0.04,31,10,12.9,0.13,533.5
-Premier League,214590,Aaron Wan-Bissaka,Aaron,Wan-Bissaka,West Ham United FC,Defender,28.32,21,1823,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,465351,Matheus Nunes,Matheus Luiz,Nunes,Manchester City FC,Midfielder,27.57,27,2267,1,0.35,0.65,7,2,14.29,0.05,2267.0
-Premier League,433036,Tijjani Reijnders,Tijjani,Reijnders,Manchester City FC,Midfielder,27.65,26,1499,5,3.99,1.01,41,15,12.2,0.1,299.8
-Premier League,171314,Rúben Dias,Rúben,dos Santos Gato Alves Dias,Manchester City FC,Defender,28.86,25,2050,2,0.56,1.44,10,4,20.0,0.06,1025.0
-Premier League,248875,Jérémy Doku,Jérémy,Doku,Manchester City FC,Forward,23.82,22,1230,1,1.83,-0.83,22,8,4.55,0.08,1230.0
-Premier League,178186,Jarrod Bowen,Jarrod,Bowen,West Ham United FC,Forward,29.25,30,2688,8,6.08,1.92,65,23,12.31,0.09,336.0
-Premier League,437730,Antoine Semenyo,Antoine,Semenyo,Manchester City FC,Forward,26.21,29,2588,15,9.86,5.14,68,36,22.06,0.14,172.53333333333333
-Premier League,630699,Mohamadou Kanté,Mohamadou,Kanté,West Ham United FC,Midfielder,20.5,7,25,0,0.05,-0.05,1,0,0.0,0.05,
-Premier League,444145,Gabriel Martinelli,Gabriel Teodoro,Martinelli Silva,Arsenal FC,Forward,24.76,25,846,1,3.38,-2.38,25,10,4.0,0.14,846.0
-Premier League,499300,Adam Aznou,Adam,Aznou,Everton FC,Defender,19.8,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,512462,Jake O'Brien,Jake,O'Brien,Everton FC,Defender,24.85,29,2459,0,0.86,-0.86,9,3,0.0,0.1,
-Premier League,490094,Tim Iroegbunam,Tim,Iroegbunam,Everton FC,Midfielder,22.73,22,1107,0,0.43,-0.43,8,0,0.0,0.05,
-Premier League,500040,Cristhian Mosquera,Cristhian,Mosquera,Arsenal FC,Defender,21.73,14,669,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,499169,Myles Lewis-Skelly,Myles,Lewis-Skelly,Arsenal FC,Defender,19.48,14,312,0,0.05,-0.05,1,0,0.0,0.05,
-Premier League,433154,Dwight McNeil,Dwight,McNeil,Everton FC,Forward,26.33,17,869,0,1.08,-1.08,17,5,0.0,0.06,
-Premier League,248857,Noni Madueke,Noni,Madueke,Arsenal FC,Forward,24.03,20,899,2,1.02,0.98,20,7,10.0,0.05,449.5
-Premier League,462424,William Saliba,William,Saliba,Arsenal FC,Defender,24.99,25,2075,1,0.86,0.14,5,1,20.0,0.17,2075.0
-Premier League,205651,Gabriel Jesus,Gabriel Fernando,de Jesus,Arsenal FC,Forward,28.97,11,306,2,1.76,0.24,14,9,14.29,0.13,153.0
-Premier League,616077,Max Dowman,Max,Dowman,Arsenal FC,Midfielder,16.22,3,43,1,1.11,-0.11,5,1,20.0,0.22,43.0
-Premier League,586309,Thierno Barry,Thierno,Barry,Everton FC,Forward,23.42,30,1636,6,6.14,-0.14,32,10,18.75,0.19,272.6666666666667
-Premier League,232413,Eberechi Eze,Eberechi,Eze,Arsenal FC,Midfielder,27.73,26,1504,6,3.75,2.25,49,16,12.24,0.08,250.66666666666666
-Premier League,448104,Piero Hincapié,Piero,Hincapié,Arsenal FC,Defender,24.2,21,1504,1,0.33,0.67,2,1,50.0,0.16,1504.0
-Premier League,198869,Ben White,Ben,White,Arsenal FC,Defender,28.45,7,411,0,0.44,-0.44,4,1,0.0,0.11,
-Premier League,550615,Tyrique George,Tyrique,George,Everton FC,Forward,20.12,9,247,0,0.44,-0.44,5,3,0.0,0.09,
-Premier League,232928,James Garner,James,Garner,Everton FC,Midfielder,25.02,30,2694,2,1.75,0.25,40,11,5.0,0.04,1347.0
-Premier League,106611,Michael Keane,Michael,Keane,Everton FC,Defender,33.2,26,2047,3,1.94,1.06,21,6,14.29,0.09,682.3333333333334
-Premier League,80801,Idrissa Gueye,Idrissa,Gueye,Everton FC,Midfielder,36.49,21,1761,2,1.5,0.5,26,6,7.69,0.06,880.5
-Premier League,445122,Jurriën Timber,Jurriën,Timber,Arsenal FC,Defender,24.76,30,2457,3,4.7,-1.7,25,7,12.0,0.19,819.0
-Premier League,496661,Tyler Dibling,Tyler,Dibling,Everton FC,Midfielder,20.09,14,350,0,0.2,-0.2,4,0,0.0,0.05,
-Premier League,224117,Viktor Gyökeres,Viktor,Gyökeres,Arsenal FC,Forward,27.8,29,1900,11,9.35,1.65,43,17,25.58,0.22,172.72727272727272
-Premier League,226597,Gabriel Magalhães,Gabriel,dos Santos Magalhães,Arsenal FC,Defender,28.26,25,2166,3,1.88,1.12,18,5,16.67,0.1,722.0
-Premier League,486385,Beto,Norberto Bercique,Gomes Betuncal,Everton FC,Forward,28.14,30,1124,4,6.56,-2.56,29,10,13.79,0.23,281.0
-Premier League,219847,Kai Havertz,Kai,Havertz,Arsenal FC,Forward,26.78,6,264,0,0.31,-0.31,5,1,0.0,0.06,
-Premier League,440993,Iliman Ndiaye,Iliman,Ndiaye,Everton FC,Forward,26.04,24,2067,5,4.98,0.02,29,14,17.24,0.17,413.4
-Premier League,609873,Harrison Armstrong,Harrison,Armstrong,Everton FC,Midfielder,19.17,11,499,0,0.79,-0.79,5,2,0.0,0.16,
-Premier League,513466,Merlin Röhl,Merlin,Röhl,Everton FC,Midfielder,23.71,11,357,0,0.64,-0.64,7,0,0.0,0.09,
-Premier League,243571,Nathan Patterson,Nathan,Patterson,Everton FC,Defender,24.43,6,239,0,0.03,-0.03,1,1,0.0,0.03,
-Premier League,59949,Séamus Coleman,Séamus,Coleman,Everton FC,Defender,37.45,3,12,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,215413,Kiernan Dewsbury-Hall,Kiernan,Dewsbury-Hall,Everton FC,Midfielder,27.54,23,1924,6,3.09,2.91,29,10,20.69,0.11,320.6666666666667
-Premier League,223340,Bukayo Saka,Bukayo,Saka,Arsenal FC,Forward,24.54,27,2001,6,6.99,-0.99,63,26,9.52,0.11,333.5
-Premier League,204480,Declan Rice,Declan,Rice,Arsenal FC,Midfielder,27.19,30,2585,4,2.87,1.13,36,12,11.11,0.08,646.25
-Premier League,224967,Vitalii Mykolenko,Vitalii,Mykolenko,Everton FC,Defender,26.82,25,2240,0,0.29,-0.29,9,2,0.0,0.03,
-Premier League,481655,Martín Zubimendi,Martín,Zubimendi,Arsenal FC,Midfielder,27.13,31,2604,5,2.78,2.22,26,9,19.23,0.11,520.8
-Premier League,466075,Riccardo Calafiori,Riccardo,Calafiori,Arsenal FC,Defender,23.84,22,1455,1,2.9,-1.9,28,6,3.57,0.1,1455.0
-Premier League,486672,Moisés Caicedo,Moisés,Caicedo,Chelsea FC,Midfielder,24.38,25,2107,3,1.19,1.81,20,7,15.0,0.06,702.3333333333334
-Premier League,232653,Jacob Ramsey,Jacob,Ramsey,Newcastle United FC,Midfielder,24.82,20,986,2,1.01,0.99,12,4,16.67,0.08,493.0
-Premier League,180736,Trevoh Chalobah,Trevoh,Chalobah,Chelsea FC,Defender,26.72,29,2552,3,1.29,1.71,14,5,21.43,0.09,850.6666666666666
-Premier League,449434,Anthony Elanga,Anthony,Elanga,Newcastle United FC,Forward,23.9,26,1152,0,1.37,-1.37,14,4,0.0,0.1,
-Premier League,465642,Malick Thiaw,Malick,Thiaw,Newcastle United FC,Defender,24.62,27,2298,4,3.67,0.33,25,12,16.0,0.15,574.5
-Premier League,441191,Tino Livramento,Tino,Livramento,Newcastle United FC,Defender,23.36,14,1139,0,0.12,-0.12,2,0,0.0,0.06,
-Premier League,487838,Lewis Hall,Lewis,Hall,Newcastle United FC,Defender,21.53,23,1662,1,0.73,0.27,19,3,5.26,0.04,1662.0
-Premier League,470313,Nick Woltemade,Nick,Woltemade,Newcastle United FC,Forward,24.1,26,1609,7,6.26,0.74,30,12,23.33,0.21,229.85714285714286
-Premier League,532605,Andrey Santos,Andrey,Nascimento dos Santos,Chelsea FC,Midfielder,21.88,22,970,0,1.7,-1.7,8,1,0.0,0.21,
-Premier League,201666,Harvey Barnes,Harvey,Barnes,Newcastle United FC,Midfielder,28.28,29,1581,5,6.11,-1.11,49,18,10.2,0.12,316.2
-Premier League,114243,Jacob Murphy,Jacob,Murphy,Newcastle United FC,Midfielder,31.08,25,1221,3,2.96,0.04,37,11,8.11,0.08,407.0
-Premier League,216646,Yoane Wissa,Yoane,Wissa,Newcastle United FC,Forward,29.55,12,425,1,1.94,-0.94,11,5,9.09,0.18,425.0
-Premier League,180974,Joelinton,Joelinton Cássio,Apolinário de Lira,Newcastle United FC,Midfielder,29.61,23,1599,2,2.08,-0.08,27,10,7.41,0.08,799.5
-Premier League,538207,William Osula,William,Osula,Newcastle United FC,Forward,22.63,16,267,2,0.69,1.31,8,4,25.0,0.09,133.5
-Premier League,551210,Jorrel Hato,Jorrel,Hato,Chelsea FC,Defender,20.04,15,550,0,0.31,-0.31,4,0,0.0,0.08,
-Premier League,448047,Enzo Fernández,Enzo,Fernández,Chelsea FC,Midfielder,25.18,29,2493,8,10.05,-2.05,57,24,14.04,0.18,311.625
-Premier League,78916,Dan Burn,Dan,Burn,Newcastle United FC,Defender,33.87,22,1724,0,0.19,-0.19,4,0,0.0,0.05,
-Premier League,499309,Marc Guiu,Marc,Guiu,Chelsea FC,Forward,20.21,9,248,0,1.47,-1.47,12,2,0.0,0.12,
-Premier League,475168,João Pedro,João Pedro,Junqueira de Jesus,Chelsea FC,Forward,24.48,30,2245,14,13.43,0.57,61,26,22.95,0.22,160.35714285714286
-Premier League,514356,Roméo Lavia,Roméo,Lavia,Chelsea FC,Midfielder,22.21,7,164,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,545477,Alex Murphy,Alex,Murphy,Newcastle United FC,Defender,21.74,1,1,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,444463,Wesley Fofana,Wesley,Fofana,Chelsea FC,Defender,25.26,18,1187,0,0.54,-0.54,5,0,0.0,0.11,
-Premier League,77794,Kieran Trippier,Kieran,Trippier,Newcastle United FC,Defender,35.51,17,1396,0,0.08,-0.08,2,0,0.0,0.04,
-Premier League,220237,Sven Botman,Sven,Botman,Newcastle United FC,Defender,26.19,17,1154,1,1.28,-0.28,8,4,12.5,0.16,1154.0
-Premier League,482609,Malo Gusto,Malo,Gusto,Chelsea FC,Defender,22.84,27,1699,2,1.46,0.54,11,5,18.18,0.13,849.5
-Premier League,109646,Tosin Adarabioyo,Tosin,Adarabioyo,Chelsea FC,Defender,28.49,14,732,0,0.11,-0.11,2,0,0.0,0.05,
-Premier League,200089,Joe Willock,Joe,Willock,Newcastle United FC,Midfielder,26.59,19,674,0,0.81,-0.81,10,3,0.0,0.08,
-Premier League,463034,Liam Delap,Liam,Delap,Chelsea FC,Forward,23.12,21,779,1,3.92,-2.92,31,11,3.23,0.13,779.0
-Premier League,179268,Marc Cucurella,Marc,Cucurella,Chelsea FC,Defender,27.67,26,1990,1,1.64,-0.64,15,4,6.67,0.11,1990.0
-Premier League,242880,Benoît Badiashile,Benoît,Badiashile,Chelsea FC,Defender,24.99,8,471,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,232826,Anthony Gordon,Anthony,Gordon,Newcastle United FC,Forward,25.07,24,1654,5,8.31,-3.31,44,19,11.36,0.19,330.8
-Premier League,244851,Cole Palmer,Cole,Palmer,Chelsea FC,Midfielder,23.88,19,1336,9,8.55,0.45,44,19,20.45,0.19,148.44444444444446
-Premier League,225796,Reece James,Reece,James,Chelsea FC,Defender,26.29,27,1896,2,1.01,0.99,21,6,9.52,0.05,948.0
-Premier League,493105,Alejandro Garnacho,Alejandro,Garnacho,Chelsea FC,Forward,21.72,19,1080,1,3.11,-2.11,28,7,3.57,0.11,1080.0
-Premier League,574458,Mamadou Sarr,Mamadou,Sarr,Chelsea FC,Defender,20.56,2,91,0,0.44,-0.44,1,0,0.0,0.44,
-Premier League,431639,Zian Flemming,Zian,Flemming,Burnley FC,Forward,27.64,21,1100,7,5.25,1.75,35,14,20.0,0.15,157.14285714285714
-Premier League,496208,Ben Gannon-Doak,Ben,Gannon-Doak,AFC Bournemouth,Forward,20.36,4,53,0,0.09,-0.09,1,0,0.0,0.09,
-Premier League,208912,Joe Worrall,Joe,Worrall,Burnley FC,Defender,29.2,11,497,0,0.08,-0.08,1,0,0.0,0.08,
-Premier League,614574,Alex Tóth,Alex,Tóth,AFC Bournemouth,Midfielder,20.41,4,72,0,0.06,-0.06,1,0,0.0,0.06,
-Premier League,469272,Loum Tchaouna,Loum,Tchaouna,Burnley FC,Forward,22.53,22,851,1,0.83,0.17,15,6,6.67,0.06,851.0
-Premier League,503139,Alex Scott,Alex,Scott,AFC Bournemouth,Midfielder,22.58,30,2230,2,3.26,-1.26,37,10,5.41,0.09,1115.0
-Premier League,503714,Lesley Ugochukwu,Lesley,Ugochukwu,Burnley FC,Midfielder,21.99,29,1910,3,2.25,0.75,20,7,15.0,0.11,636.6666666666666
-Premier League,58621,Kyle Walker,Kyle,Walker,Burnley FC,Defender,35.82,28,2462,0,0.13,-0.13,3,0,0.0,0.04,
-Premier League,494521,Adrien Truffert,Adrien,Truffert,AFC Bournemouth,Defender,24.33,30,2660,0,0.4,-0.4,11,1,0.0,0.04,
-Premier League,221466,Marcos Senesi,Marcos,Senesi,AFC Bournemouth,Defender,28.87,29,2570,0,1.38,-1.38,15,5,0.0,0.09,
-Premier League,168636,Enes Ünal,Enes,Ünal,AFC Bournemouth,Forward,28.87,17,173,1,1.85,-0.85,12,2,8.33,0.15,173.0
-Premier League,620487,Veljko Milosavljevic,Veljko,Milosavljevic,AFC Bournemouth,Defender,18.73,7,367,0,0.15,-0.15,1,0,0.0,0.15,
-Premier League,477717,Maxime Estève,Maxime,Estève,Burnley FC,Defender,23.82,27,2315,0,0.67,-0.67,9,1,0.0,0.07,
-Premier League,461188,Bashir Humphreys,Bashir,Humphreys,Burnley FC,Defender,23.02,14,1150,0,0.32,-0.32,7,1,0.0,0.05,
-Premier League,435973,Lyle Foster,Lyle,Foster,Burnley FC,Forward,25.55,22,1229,3,3.04,-0.04,18,5,16.67,0.17,409.6666666666667
-Premier League,560262,Junior Kroupi,Junior,Kroupi,AFC Bournemouth,Forward,19.74,25,1144,8,5.1,2.9,32,15,25.0,0.16,143.0
-Premier League,44699,Ashley Barnes,Ashley,Barnes,Burnley FC,Forward,36.4,5,23,0,0.11,-0.11,1,0,0.0,0.11,
-Premier League,201658,Marcus Tavernier,Marcus,Tavernier,AFC Bournemouth,Midfielder,27.0,26,2036,5,6.93,-1.93,56,18,8.93,0.12,407.2
-Premier League,444180,Jaidon Anthony,Jaidon,Anthony,Burnley FC,Forward,26.31,29,2033,7,3.86,3.14,43,17,16.28,0.09,290.42857142857144
-Premier League,111317,David Brooks,David,Brooks,AFC Bournemouth,Midfielder,28.71,24,1034,1,4.88,-3.88,42,12,2.38,0.12,1034.0
-Premier League,463981,James Hill,James,Hill,AFC Bournemouth,Defender,24.19,21,1384,0,0.67,-0.67,8,1,0.0,0.08,
-Premier League,242882,Bafodé Diakité,Bafodé,Diakité,AFC Bournemouth,Defender,25.21,18,1275,0,0.02,-0.02,1,0,0.0,0.02,
-Premier League,158499,Ryan Christie,Ryan,Christie,AFC Bournemouth,Midfielder,31.08,20,643,1,1.5,-0.5,18,5,5.56,0.08,643.0
-Premier League,494960,Quilindschy Hartman,Quilindschy,Hartman,Burnley FC,Defender,24.35,16,1413,0,0.19,-0.19,6,2,0.0,0.03,
-Premier League,489888,Amine Adli,Amine,Adli,AFC Bournemouth,Forward,25.87,26,959,3,2.54,0.46,19,9,15.79,0.13,319.6666666666667
-Premier League,465527,Hannibal Mejbri,Hannibal,Mejbri,Burnley FC,Midfielder,23.16,22,972,1,0.55,0.45,14,4,7.14,0.04,972.0
-Premier League,440323,Armando Broja,Armando,Broja,Burnley FC,Forward,24.53,20,813,1,2.15,-1.15,16,6,6.25,0.13,813.0
-Premier League,216055,Florentino,Florentino Ibrain,Morris Luís,Burnley FC,Midfielder,26.59,24,1659,0,0.57,-0.57,9,1,0.0,0.06,
-Premier League,499604,Rayan,Rayan Vitor,Simplício Rocha,AFC Bournemouth,Forward,19.63,7,539,2,0.89,1.11,12,3,16.67,0.07,269.5
-Premier League,551483,Álex Jiménez,Álex,Jiménez,AFC Bournemouth,Defender,20.87,26,1891,1,1.08,-0.08,19,4,5.26,0.06,1891.0
-Premier League,549329,Lucas Pires,Lucas,Pires Silva,Burnley FC,Defender,24.99,15,1103,0,0.32,-0.32,11,1,0.0,0.03,
-Premier League,167887,Josh Laurent,Josh,Laurent,Burnley FC,Midfielder,30.88,27,1491,1,0.59,0.41,12,4,8.33,0.05,1491.0
-Premier League,174592,Marcus Edwards,Marcus,Edwards,Burnley FC,Forward,27.3,18,895,1,1.45,-0.45,21,5,4.76,0.07,895.0
-Premier League,444102,Evanilson,Francisco Evanilson,de Lima Barbosa,AFC Bournemouth,Forward,26.46,28,2116,6,8.12,-2.12,57,21,10.53,0.14,352.6666666666667
-Premier League,101178,James Ward-Prowse,James,Ward-Prowse,Burnley FC,Midfielder,31.39,10,653,0,0.12,-0.12,2,0,0.0,0.06,
-Premier League,54469,Adam Smith,Adam,Smith,AFC Bournemouth,Defender,34.9,17,790,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,571087,Jaydon Jones,Jaydon,Jones,Sunderland AFC,Midfielder,19.38,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,461195,Dennis Cirkin,Dennis,Cirkin,Sunderland AFC,Defender,23.96,7,302,0,0.08,-0.08,1,0,0.0,0.08,
-Premier League,467779,Mats Wieffer,Mats,Wieffer,Brighton & Hove Albion FC,Midfielder,26.35,20,1485,0,1.5,-1.5,14,4,0.0,0.11,
-Premier League,532529,Jack Hinshelwood,Jack,Hinshelwood,Brighton & Hove Albion FC,Midfielder,20.94,19,1096,1,2.15,-1.15,22,7,4.55,0.1,1096.0
-Premier League,111478,Joël Veltman,Joël,Veltman,Brighton & Hove Albion FC,Defender,34.19,18,842,1,0.95,0.05,3,1,33.33,0.32,842.0
-Premier League,577669,Noah Sadiki,Noah,Sadiki,Sunderland AFC,Midfielder,21.26,25,2205,0,0.44,-0.44,11,3,0.0,0.04,
-Premier League,514254,Diego Gómez,Diego,Gómez,Brighton & Hove Albion FC,Midfielder,22.99,27,1855,5,4.98,0.02,32,13,15.62,0.16,371.0
-Premier League,469142,Jan Paul van Hecke,Jan Paul,van Hecke,Brighton & Hove Albion FC,Defender,25.79,28,2491,3,2.12,0.88,18,8,16.67,0.12,830.3333333333334
-Premier League,201895,Omar Alderete,Omar,Alderete,Sunderland AFC,Defender,29.24,26,2266,1,1.4,-0.4,19,8,5.26,0.07,2266.0
-Premier League,509416,Yasin Ayari,Yasin,Ayari,Brighton & Hove Albion FC,Midfielder,22.46,23,1715,3,2.55,0.45,39,10,7.69,0.07,571.6666666666666
-Premier League,437505,Wilson Isidor,Wilson,Isidor,Sunderland AFC,Forward,25.57,26,1066,4,3.74,0.26,38,14,10.53,0.1,266.5
-Premier League,465730,Maxim De Cuyper,Maxim,De Cuyper,Brighton & Hove Albion FC,Defender,25.25,24,1154,2,1.71,0.29,11,6,18.18,0.16,577.0
-Premier League,549912,Chemsdine Talbi,Chemsdine,Talbi,Sunderland AFC,Forward,20.87,22,1238,3,1.45,1.55,18,7,16.67,0.08,412.6666666666667
-Premier League,554197,Chris Rigg,Chris,Rigg,Sunderland AFC,Midfielder,18.76,12,472,0,0.4,-0.4,5,0,0.0,0.08,
-Premier League,15157,James Milner,James,Milner,Brighton & Hove Albion FC,Midfielder,40.22,18,643,1,0.95,0.05,6,2,16.67,0.16,643.0
-Premier League,60307,Pascal Groß,Pascal,Groß,Brighton & Hove Albion FC,Midfielder,34.78,11,916,1,0.79,0.21,11,4,9.09,0.07,916.0
-Premier League,109345,Solly March,Solly,March,Brighton & Hove Albion FC,Midfielder,31.68,1,4,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,219249,Matt O'Riley,Matt,O'Riley,Brighton & Hove Albion FC,Midfielder,25.33,4,187,1,1.2,-0.2,4,2,25.0,0.3,187.0
-Premier League,592031,Yankuba Minteh,Yankuba,Minteh,Brighton & Hove Albion FC,Forward,21.66,26,1761,2,2.92,-0.92,34,9,5.88,0.09,880.5
-Premier League,84450,Granit Xhaka,Granit,Xhaka,Sunderland AFC,Midfielder,33.49,26,2183,1,0.64,0.36,12,5,8.33,0.05,2183.0
-Premier League,223827,Dan Ballard,Dan,Ballard,Sunderland AFC,Defender,26.5,26,2007,2,2.38,-0.38,25,9,8.0,0.1,1003.5
-Premier League,232356,Jenson Jones,Jenson,Jones,Sunderland AFC,Defender,19.73,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,441264,Brian Brobbey,Brian,Brobbey,Sunderland AFC,Forward,24.13,23,1279,5,2.76,2.24,21,10,23.81,0.13,255.8
-Premier League,564406,Eliezer Mayenda,Eliezer,Mayenda,Sunderland AFC,Forward,20.87,18,754,2,2.14,-0.14,13,6,15.38,0.16,377.0
-Premier League,167512,Luke O'Nien,Luke,O'Nien,Sunderland AFC,Midfielder,31.34,7,137,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,50175,Danny Welbeck,Danny,Welbeck,Brighton & Hove Albion FC,Forward,35.33,29,1743,10,9.28,0.72,40,18,25.0,0.23,174.3
-Premier League,570929,Jack Whittaker,Jack,Whittaker,Sunderland AFC,Midfielder,19.43,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,597320,Harry Howell,Harry,Howell,Brighton & Hove Albion FC,Midfielder,17.92,3,93,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,204120,Olivier Boscagli,Olivier,Boscagli,Brighton & Hove Albion FC,Defender,28.34,8,440,0,0.04,-0.04,1,0,0.0,0.04,
-Premier League,547410,Harrison Jones,Harrison,Jones,Sunderland AFC,Midfielder,21.24,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,83299,Lewis Dunk,Lewis,Dunk,Brighton & Hove Albion FC,Defender,34.34,28,2475,0,1.17,-1.17,19,2,0.0,0.06,
-Premier League,247955,Lutsharel Geertruida,Lutsharel,Geertruida,Sunderland AFC,Defender,25.68,24,1325,0,0.87,-0.87,8,2,0.0,0.11,
-Premier League,463067,Georginio Rutter,Georginio,Rutter,Brighton & Hove Albion FC,Forward,23.92,24,1605,2,2.37,-0.37,35,12,5.71,0.07,802.5
-Premier League,547027,Habib Diarra,Habib,Diarra,Sunderland AFC,Midfielder,22.21,13,1017,2,2.04,-0.04,16,6,12.5,0.13,508.5
-Premier League,487676,Trai Hume,Trai,Hume,Sunderland AFC,Defender,24.01,30,2493,0,1.62,-1.62,26,5,0.0,0.06,
-Premier League,231416,Ferdi Kadioglu,Ferdi,Kadioglu,Brighton & Hove Albion FC,Defender,26.46,29,2414,0,1.53,-1.53,20,8,0.0,0.08,
-Premier League,491279,Micky van de Ven,Micky,van de Ven,Tottenham Hotspur FC,Defender,24.92,27,2368,4,2.5,1.5,15,6,26.67,0.17,592.0
-Premier League,536134,Rio Kyerematen,Rio,Kyerematen,Tottenham Hotspur FC,Midfielder,20.78,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,227127,Yves Bissouma,Yves,Bissouma,Tottenham Hotspur FC,Midfielder,29.56,8,463,0,0.36,-0.36,5,2,0.0,0.07,
-Premier League,154296,João Palhinha,João Maria,Lobo Alves Palhares Costa Palhinha Gonçalves,Tottenham Hotspur FC,Midfielder,30.71,26,1779,3,1.3,1.7,23,5,13.04,0.06,593.0
-Premier League,232787,Conor Gallagher,Conor,Gallagher,Tottenham Hotspur FC,Midfielder,26.12,8,582,0,0.56,-0.56,5,2,0.0,0.11,
-Premier League,247348,Daniel Muñoz,Daniel,Muñoz,Crystal Palace FC,Defender,29.82,21,1781,3,1.98,1.02,19,8,15.79,0.1,593.6666666666666
-Premier League,660392,Christantus Uche,Christantus,Uche,Crystal Palace FC,Midfielder,22.84,14,159,0,0.49,-0.49,6,2,0.0,0.08,
-Premier League,576637,Godwill Kukonki,Godwill,Kukonki,Manchester United FC,Defender,18.12,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,432422,Sandro Tonali,Sandro,Tonali,Newcastle United FC,Midfielder,25.87,29,2045,0,1.56,-1.56,28,7,0.0,0.06,
-Premier League,553746,Leo Shahar,Leo,Shahar,Newcastle United FC,Defender,19.01,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,599303,Sean Neave,Sean,Neave,Newcastle United FC,Forward,18.82,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,209243,Jadon Sancho,Jadon,Sancho,Aston Villa FC,Forward,25.99,18,694,0,0.59,-0.59,9,3,0.0,0.07,
-Premier League,653481,Alysson Edward,Alysson Edward Franco,da Rocha dos Santos,Aston Villa FC,Forward,19.88,3,47,0,0.05,-0.05,1,0,0.0,0.05,
-Premier League,199796,Matty Cash,Matty,Cash,Aston Villa FC,Defender,28.62,27,2356,3,1.08,1.92,25,9,12.0,0.04,785.3333333333334
-Premier League,451340,Kaoru Mitoma,Kaoru,Mitoma,Brighton & Hove Albion FC,Midfielder,28.84,19,1412,2,3.17,-1.17,22,10,9.09,0.14,706.0
-Premier League,128295,Christian Nørgaard,Christian,Nørgaard,Arsenal FC,Midfielder,32.04,6,56,0,0.05,-0.05,1,1,0.0,0.05,
-Premier League,116216,Leandro Trossard,Leandro,Trossard,Arsenal FC,Forward,31.3,26,1685,5,4.82,0.18,44,11,11.36,0.11,337.0
-Premier League,535301,Carlos Baleba,Carlos,Baleba,Brighton & Hove Albion FC,Midfielder,22.21,24,1274,0,0.53,-0.53,15,1,0.0,0.04,
-Premier League,536109,Ollie Scarles,Ollie,Scarles,West Ham United FC,Defender,20.27,12,657,0,0.18,-0.18,3,0,0.0,0.06,
-Premier League,572702,Keiber Lamadrid,Keiber,Lamadrid,West Ham United FC,Midfielder,22.34,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,209289,Emile Smith Rowe,Emile,Smith Rowe,Fulham FC,Midfielder,25.65,29,1458,3,4.26,-1.26,28,9,10.71,0.15,486.0
-Premier League,450070,Crysencio Summerville,Crysencio,Summerville,West Ham United FC,Forward,24.39,24,1864,5,4.27,0.73,43,15,11.63,0.1,372.8
-Premier League,575458,Jair Cunha,Jair,Paula da Cunha Filho,Nottingham Forest FC,Defender,21.04,3,214,0,0.16,-0.16,2,0,0.0,0.08,
-Premier League,510281,Savinho,Sávio,Moreira de Oliveira,Manchester City FC,Forward,21.95,17,565,0,1.53,-1.53,14,9,0.0,0.11,
-Premier League,97299,John Stones,John,Stones,Manchester City FC,Defender,31.82,7,353,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,231057,Jean-Ricner Bellegarde,Jean-Ricner,Bellegarde,Wolverhampton Wanderers FC,Midfielder,27.74,21,1015,1,0.98,0.02,20,7,5.0,0.05,1015.0
-Premier League,641221,Pedro Lima,Pedro Henrique,Cardoso de Lima,Wolverhampton Wanderers FC,Defender,19.72,3,3,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,448089,João Gomes,João Victor,Gomes da Silva,Wolverhampton Wanderers FC,Midfielder,25.1,28,2209,1,1.15,-0.15,16,6,6.25,0.07,2209.0
-Premier League,509291,André,André,Trindade da Costa Neto,Wolverhampton Wanderers FC,Midfielder,24.68,27,2046,1,0.34,0.66,9,1,11.11,0.04,2046.0
-Premier League,184754,Hwang Hee-Chan,Hee-Chan,Hwang,Wolverhampton Wanderers FC,Forward,30.16,20,1155,2,2.11,-0.11,15,6,13.33,0.14,577.5
-Premier League,596042,Kieran Morrison,Kieran,Morrison,Liverpool FC,Midfielder,19.36,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,483081,Rodrigo Gomes,Rodrigo,Martins Gomes,Wolverhampton Wanderers FC,Defender,22.71,14,599,3,1.7,1.3,14,6,21.43,0.12,199.66666666666666
-Premier League,523705,Jackson Tchatchoua,Jackson,Tchatchoua,Wolverhampton Wanderers FC,Defender,24.52,27,1608,0,0.26,-0.26,1,0,0.0,0.26,
-Premier League,490721,Hugo Bueno,Hugo,Bueno,Wolverhampton Wanderers FC,Defender,23.51,27,1861,1,0.5,0.5,10,5,10.0,0.05,1861.0
-Premier League,209041,Angel Gomes,Angel,Gomes,Wolverhampton Wanderers FC,Midfielder,25.56,6,241,0,0.05,-0.05,2,1,0.0,0.03,
-Premier League,155511,Adam Armstrong,Adam,Armstrong,Wolverhampton Wanderers FC,Forward,29.11,6,482,0,0.18,-0.18,2,0,0.0,0.09,
-Premier League,231480,Santiago Bueno,Santiago,Bueno,Wolverhampton Wanderers FC,Defender,27.37,21,1833,2,1.64,0.36,5,4,40.0,0.33,916.5
-Premier League,501837,Yerson Mosquera,Yerson,Mosquera,Wolverhampton Wanderers FC,Defender,24.89,21,1621,0,1.58,-1.58,21,6,0.0,0.08,
-Premier League,431248,Ladislav Krejcí,Ladislav,Krejcí,Wolverhampton Wanderers FC,Defender,26.92,23,1950,2,1.96,0.04,14,8,14.29,0.14,975.0
-Premier League,87835,Matt Doherty,Matt,Doherty,Wolverhampton Wanderers FC,Defender,34.19,10,706,0,0.09,-0.09,3,0,0.0,0.03,
-Premier League,488213,Tolu Arokodare,Tolu,Arokodare,Wolverhampton Wanderers FC,Forward,25.33,26,1221,2,4.04,-2.04,37,12,5.41,0.11,610.5
-Premier League,497949,David Møller Wolfe,David,Møller Wolfe,Wolverhampton Wanderers FC,Defender,23.91,18,844,0,0.12,-0.12,3,0,0.0,0.04,
-Premier League,510362,Toti Gomes,Tote António,Gomes,Wolverhampton Wanderers FC,Defender,27.18,14,1043,0,0.22,-0.22,4,1,0.0,0.06,
-Premier League,647671,Mateus Mané,Mateus,Mané,Wolverhampton Wanderers FC,Forward,18.51,19,1237,2,1.34,0.66,29,12,6.9,0.05,618.5
-Premier League,200785,Tyler Adams,Tyler,Adams,AFC Bournemouth,Midfielder,27.1,18,1420,2,0.53,1.47,8,6,25.0,0.07,710.0
-Premier League,194010,Rico Henry,Rico,Henry,Brentford FC,Defender,28.71,25,1328,0,0.18,-0.18,5,0,0.0,0.04,
-Premier League,207283,Mathias Jensen,Mathias,Jensen,Brentford FC,Midfielder,30.22,27,1476,2,1.99,0.01,22,6,9.09,0.09,738.0
-Premier League,231065,Ethan Pinnock,Ethan,Pinnock,Brentford FC,Defender,32.82,3,231,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,56979,Jordan Henderson,Jordan,Henderson,Brentford FC,Midfielder,35.77,27,1644,1,0.33,0.67,6,1,16.67,0.06,1644.0
-Premier League,606689,Romelle Donovan,Romelle,Donovan,Brentford FC,Midfielder,19.3,4,38,0,0.1,-0.1,3,1,0.0,0.03,
-Premier League,593174,Kaye Furo,Kaye,Furo,Brentford FC,Forward,19.12,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,444765,Sepp van den Berg,Sepp,van den Berg,Brentford FC,Defender,24.25,24,2123,0,2.51,-2.51,18,6,0.0,0.14,
-Premier League,533463,Dango Ouattara,Dango,Ouattara,Brentford FC,Forward,24.11,23,1620,5,5.3,-0.3,35,11,14.29,0.15,324.0
-Premier League,513418,Kevin Schade,Kevin,Schade,Brentford FC,Midfielder,24.32,26,2072,7,9.79,-2.79,44,21,15.91,0.22,296.0
-Premier League,502500,Igor Thiago,Igor Thiago,Nascimento Rodrigues,Brentford FC,Forward,24.74,29,2474,18,15.62,2.38,67,36,26.87,0.23,137.44444444444446
-Premier League,249231,Keane Lewis-Potter,Keane,Lewis-Potter,Brentford FC,Forward,25.08,27,1160,3,2.04,0.96,19,7,15.79,0.11,386.6666666666667
-Premier League,432830,Nathan Collins,Nathan,Collins,Brentford FC,Defender,24.89,26,2162,1,1.61,-0.61,13,5,7.69,0.12,2162.0
-Premier League,494556,Ollie Shield,Ollie,Shield,Brentford FC,Defender,19.48,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,191866,Kristoffer Ajer,Kristoffer,Ajer,Brentford FC,Defender,27.93,23,1607,0,0.78,-0.78,10,3,0.0,0.08,
-Premier League,607464,Michael Kayode,Michael,Kayode,Brentford FC,Defender,21.7,28,2454,0,0.27,-0.27,6,1,0.0,0.05,
-Premier League,559610,Luka Bentt,Luka,Bentt,Brentford FC,Midfielder,18.47,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,440089,Mikkel Damsgaard,Mikkel,Damsgaard,Brentford FC,Midfielder,25.72,25,1506,3,1.79,1.21,19,9,15.79,0.09,502.0
-Premier League,508395,Yehor Yarmoliuk,Yehor,Yarmoliuk,Brentford FC,Midfielder,22.05,29,2025,1,1.18,-0.18,15,4,6.67,0.08,2025.0
-Premier League,644593,Kian McMahon-Brown,Kian,McMahon-Brown,Burnley FC,Forward,17.63,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,480455,Jarrad Branthwaite,Jarrad,Branthwaite,Everton FC,Defender,23.73,7,492,1,0.29,0.71,5,2,20.0,0.06,492.0
-Premier League,17761,James Tarkowski,James,Tarkowski,Everton FC,Defender,33.34,29,2610,1,2.26,-1.26,13,6,7.69,0.17,2610.0
-Premier League,478969,Hjalmar Ekdal,Hjalmar,Ekdal,Burnley FC,Defender,27.42,15,1179,0,0.21,-0.21,5,1,0.0,0.04,
-Premier League,179458,Jacob Bruun Larsen,Jacob,Bruun Larsen,Burnley FC,Forward,27.51,23,970,0,1.36,-1.36,16,4,0.0,0.08,
-Premier League,110504,Bertrand Traoré,Bertrand,Traoré,Sunderland AFC,Forward,30.55,12,638,1,0.56,0.44,13,6,7.69,0.04,638.0
-Premier League,536661,Nilson Angulo,Nilson,Angulo,Sunderland AFC,Forward,22.76,5,257,0,0.5,-0.5,3,2,0.0,0.17,
-Premier League,626844,Milan Aleksic,Milan,Aleksic,Sunderland AFC,Midfielder,20.56,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,484420,Enzo Le Fée,Enzo,Le Fée,Sunderland AFC,Midfielder,26.13,28,2300,4,4.54,-0.54,24,6,16.67,0.19,575.0
-Premier League,247632,Pedro Neto,Pedro,Lomba Neto,Chelsea FC,Forward,26.04,28,2149,5,4.29,0.71,39,11,12.82,0.11,429.8
-Premier League,577016,Josh Acheampong,Josh,Acheampong,Chelsea FC,Defender,19.88,12,572,1,0.6,0.4,3,2,33.33,0.2,572.0
-Premier League,647850,Charalampos Kostoulas,Charalampos,Kostoulas,Brighton & Hove Albion FC,Forward,18.81,16,294,2,1.72,0.28,15,6,13.33,0.11,147.0
-Premier League,246301,Jorge Cuenca,Jorge,Cuenca,Fulham FC,Defender,26.35,14,934,0,0.05,-0.05,1,0,0.0,0.05,
-Premier League,559684,Jack Moorhouse,Jack,Moorhouse,Manchester United FC,Midfielder,20.31,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,596054,Tom Edozie,Tom,Edozie,Wolverhampton Wanderers FC,Forward,19.84,1,6,1,0.16,0.84,1,1,100.0,0.16,6.0
-Premier League,601956,Saheed Olagunju,Saheed,Olagunju,Wolverhampton Wanderers FC,Defender,19.2,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,184029,Martin Ødegaard,Martin,Ødegaard,Arsenal FC,Midfielder,27.26,20,1078,1,1.01,-0.01,20,7,5.0,0.05,1078.0
-Premier League,611917,Lucá Williams-Barnett,Lucá,Williams-Barnett,Tottenham Hotspur FC,Midfielder,17.47,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,590014,Rio Cardines,Rio,Cardines,Crystal Palace FC,Midfielder,19.72,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,469130,Lorenzo Lucca,Lorenzo,Lucca,Nottingham Forest FC,Forward,25.53,3,120,1,0.72,0.28,3,1,33.33,0.24,120.0
-Premier League,560552,Kevin,Kevin,Santos Lopes de Macedo,Fulham FC,Forward,23.21,23,904,1,1.11,-0.11,22,9,4.55,0.05,904.0
-Premier League,461199,Romaine Mundle,Romaine,Mundle,Sunderland AFC,Forward,22.91,14,400,0,0.86,-0.86,7,2,0.0,0.12,
-Premier League,200834,Nordi Mukiele,Nordi,Mukiele,Sunderland AFC,Defender,28.39,25,2165,1,1.01,-0.01,16,2,6.25,0.06,2165.0
-Premier League,699989,Djiamgone Jocelin Ta Bi,Djiamgone Jocelin Ta,Bi,Sunderland AFC,Forward,21.11,1,39,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,477064,Rico Lewis,Rico,Lewis,Manchester City FC,Defender,21.33,10,312,0,0.11,-0.11,2,0,0.0,0.06,
-Premier League,204580,Vitaly Janelt,Vitaly,Janelt,Brentford FC,Midfielder,27.87,22,1255,1,0.91,0.09,12,3,8.33,0.08,1255.0
-Premier League,472713,Aaron Hickey,Aaron,Hickey,Brentford FC,Defender,23.78,18,593,0,0.41,-0.41,5,1,0.0,0.08,
-Premier League,200641,Reiss Nelson,Reiss,Nelson,Brentford FC,Forward,26.28,6,50,0,0.61,-0.61,3,1,0.0,0.2,
-Premier League,605319,Luke Rawlings,Luke,Rawlings,Wolverhampton Wanderers FC,Midfielder,17.96,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,158983,Wataru Endo,Wataru,Endo,Liverpool FC,Midfielder,33.12,8,171,0,0.04,-0.04,1,0,0.0,0.04,
-Premier League,434399,Reinildo Mandava,Reinildo Isnard,Mandava,Sunderland AFC,Defender,32.17,17,1428,0,0.15,-0.15,4,0,0.0,0.04,
-Premier League,494307,Max Alleyne,Max,Alleyne,Manchester City FC,Defender,20.67,2,135,0,0.26,-0.26,2,1,0.0,0.13,
-Premier League,589121,Ethan Sutherland,Ethan,Sutherland,Wolverhampton Wanderers FC,Midfielder,19.9,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,221820,Lisandro Martínez,Lisandro,Martínez,Manchester United FC,Defender,28.18,14,905,0,0.06,-0.06,4,0,0.0,0.02,
-Premier League,624773,Estêvão,Estêvão Willian,Almeida de Oliveira Gonçalves,Chelsea FC,Forward,18.91,19,742,2,2.83,-0.83,26,7,7.69,0.11,371.0
-Premier League,536916,Facundo Buonanotte,Facundo,Buonanotte,Leeds United FC,Midfielder,21.24,3,69,0,0.04,-0.04,1,0,0.0,0.04,
-Premier League,435997,Noah Okafor,Noah,Okafor,Leeds United FC,Forward,25.83,23,1277,4,4.21,-0.21,26,9,15.38,0.16,319.25
-Premier League,113564,Sam Byram,Sam,Byram,Leeds United FC,Defender,32.52,1,7,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,155408,Lewis Cook,Lewis,Cook,AFC Bournemouth,Midfielder,29.13,16,870,0,0.08,-0.08,3,0,0.0,0.03,
-Premier League,502697,Charly Alcaraz,Charly,Alcaraz,Everton FC,Midfielder,23.31,16,673,0,1.11,-1.11,18,5,0.0,0.06,
-Premier League,208706,Bruno Guimarães,Bruno,Guimarães Rodriguez Moura,Newcastle United FC,Midfielder,28.35,23,2018,9,4.82,4.18,32,17,28.12,0.15,224.22222222222223
-Premier League,550839,Wilson Odobert,Wilson,Odobert,Tottenham Hotspur FC,Forward,21.31,24,980,0,1.96,-1.96,22,8,0.0,0.09,
-Premier League,640419,Jun'ai Byfield,Jun'ai,Byfield,Tottenham Hotspur FC,Defender,17.28,1,1,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,223434,Igor Julio,Igor Julio,dos Santos de Paulo,Brighton & Hove Albion FC,Defender,28.12,4,103,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,678552,Malcom DaCosta,Malcom,DaCosta,AFC Bournemouth,Midfielder,17.92,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,487053,Destiny Udogie,Destiny,Udogie,Tottenham Hotspur FC,Defender,23.31,13,797,0,0.17,-0.17,3,1,0.0,0.06,
-Premier League,221632,Cristian Romero,Cristian,Romero,Tottenham Hotspur FC,Defender,27.9,21,1712,4,1.25,2.75,15,6,26.67,0.08,428.0
-Premier League,549067,Zach Abbott,Zach,Abbott,Nottingham Forest FC,Defender,19.85,2,121,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,180804,Axel Tuanzebe,Axel,Tuanzebe,Burnley FC,Defender,28.35,11,932,1,0.61,0.39,2,1,50.0,0.3,932.0
-Premier League,616288,Ryan McAidoo,Ryan,McAidoo,Manchester City FC,Forward,17.74,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,577285,George Hemmings,George,Hemmings,Aston Villa FC,Midfielder,19.05,2,25,0,0.04,-0.04,1,0,0.0,0.04,
-Premier League,631786,Jonah Kusi-Asare,Jonah,Kusi-Asare,Fulham FC,Forward,18.71,5,30,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,576628,Shea Lacey,Shea,Lacey,Manchester United FC,Forward,18.93,2,12,0,0.07,-0.07,3,1,0.0,0.02,
-Premier League,530318,Kaden Rodney,Kaden,Rodney,Crystal Palace FC,Midfielder,21.45,1,3,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,576980,Zach Marsh,Zach,Marsh,Crystal Palace FC,Forward,20.45,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,547719,Lewis Miley,Lewis,Miley,Newcastle United FC,Midfielder,19.89,19,1133,1,1.34,-0.34,12,4,8.33,0.11,1133.0
-Premier League,611926,Amara Nallo,Amara,Nallo,Liverpool FC,Defender,19.34,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,463936,Jamie Gittens,Jamie,Gittens,Chelsea FC,Forward,21.62,16,490,0,0.82,-0.82,10,2,0.0,0.08,
-Premier League,513433,Brajan Gruda,Brajan,Gruda,Brighton & Hove Albion FC,Midfielder,21.81,18,715,1,1.72,-0.72,16,6,6.25,0.11,715.0
-Premier League,685628,Jerome Abbey,Jerome,Abbey,Wolverhampton Wanderers FC,Midfielder,16.51,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,230376,Jhon Arias,Jhon,Arias,Wolverhampton Wanderers FC,Midfielder,28.5,23,1121,1,3.25,-2.25,16,3,6.25,0.2,1121.0
-Premier League,516939,Emmanuel Agbadou,Emmanuel,Agbadou,Wolverhampton Wanderers FC,Defender,28.76,14,1101,0,0.56,-0.56,10,3,0.0,0.06,
-Premier League,606774,Remy Rees-Dottin,Remy,Rees-Dottin,AFC Bournemouth,Forward,20.04,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,596777,Patrick Dorgu,Patrick,Dorgu,Manchester United FC,Defender,21.4,22,1333,3,1.82,1.18,21,8,14.29,0.09,444.3333333333333
-Premier League,195384,Mikel Merino,Mikel,Merino,Arsenal FC,Midfielder,29.75,21,999,4,3.0,1.0,21,8,19.05,0.14,249.75
-Premier League,500151,Nicolò Savona,Nicolò,Savona,Nottingham Forest FC,Defender,23.01,14,1026,2,1.34,0.66,5,3,40.0,0.27,513.0
-Premier League,502988,Danny Imray,Danny,Imray,Crystal Palace FC,Defender,22.65,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,166989,Youri Tielemans,Youri,Tielemans,Aston Villa FC,Midfielder,28.88,17,1299,0,0.99,-0.99,17,4,0.0,0.06,
-Premier League,550596,Dominic Sadi,Dominic,Sadi,AFC Bournemouth,Forward,22.55,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,519895,Oliver Sonne,Oliver,Sonne,Burnley FC,Defender,25.36,7,165,1,0.55,0.45,3,1,33.33,0.18,165.0
-Premier League,490145,Dane Scarlett,Dane,Scarlett,Tottenham Hotspur FC,Forward,21.99,2,7,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,550090,Diego Coppola,Diego,Coppola,Brighton & Hove Albion FC,Defender,22.23,5,194,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,590039,Divine Mukasa,Divine,Mukasa,Manchester City FC,Midfielder,18.58,2,25,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,643135,Fer López,Fer,López,Wolverhampton Wanderers FC,Forward,21.82,9,229,0,0.16,-0.16,5,1,0.0,0.03,
-Premier League,535818,Simon Adingra,Simon,Adingra,Sunderland AFC,Forward,24.22,14,658,1,0.35,0.65,6,2,16.67,0.06,658.0
-Premier League,658013,Charlie Stevens,Charlie,Stevens,AFC Bournemouth,Midfielder,18.81,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,559962,Jamaldeen Jimoh-Aloba,Jamaldeen,Jimoh-Aloba,Aston Villa FC,Midfielder,19.47,1,8,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,474907,Reece Welch,Reece,Welch,Everton FC,Defender,22.5,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,491745,Elijah Campbell,Elijah,Campbell,Everton FC,Defender,21.63,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,114283,Jack Grealish,Jack,Grealish,Everton FC,Midfielder,30.53,20,1631,2,2.15,-0.15,26,8,7.69,0.08,815.5
-Premier League,591385,Samuel Amissah,Samuel,Amissah,Fulham FC,Defender,19.04,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,672492,Joél Drakes-Thomas,Joél,Drakes-Thomas,Crystal Palace FC,Forward,16.78,2,7,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,223336,Dan Neil,Dan,Neil,Sunderland AFC,Midfielder,24.27,3,13,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,115556,Ben Davies,Ben,Davies,Tottenham Hotspur FC,Defender,32.92,3,138,1,0.49,0.51,2,2,50.0,0.25,138.0
-Premier League,570526,Lucas Bergvall,Lucas,Bergvall,Tottenham Hotspur FC,Midfielder,20.13,17,809,1,0.96,0.04,10,5,10.0,0.1,809.0
-Premier League,197024,Guido Rodríguez,Guido,Rodríguez,West Ham United FC,Midfielder,31.95,6,177,0,0.03,-0.03,1,0,0.0,0.03,
-Premier League,547037,Jack Fletcher,Jack,Fletcher,Manchester United FC,Midfielder,19.01,3,107,0,0.03,-0.03,1,0,0.0,0.03,
-Premier League,566213,Stephen Mfuni,Stephen,Mfuni,Manchester City FC,Defender,18.1,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,492777,Conor Bradley,Conor,Bradley,Liverpool FC,Defender,22.7,15,932,0,0.24,-0.24,6,0,0.0,0.04,
-Premier League,221399,Jack Harrison,Jack,Harrison,Leeds United FC,Forward,29.34,11,263,0,0.28,-0.28,6,2,0.0,0.05,
-Premier League,119471,Fabian Schär,Fabian,Schär,Newcastle United FC,Defender,34.26,16,1091,0,0.98,-0.98,17,4,0.0,0.06,
-Premier League,202993,Rodrigo Bentancur,Rodrigo,Bentancur,Tottenham Hotspur FC,Midfielder,28.74,20,1415,1,0.47,0.53,9,2,11.11,0.05,1415.0
-Premier League,575901,Julio Soler,Julio,Soler,AFC Bournemouth,Defender,21.09,3,34,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,604211,Tymur Tutierov,Tymur,Tutierov,Sunderland AFC,Forward,20.78,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,450539,Myles Peart-Harris,Myles,Peart-Harris,Brentford FC,Midfielder,23.51,1,1,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,477547,Leo Hjelde,Leo,Hjelde,Sunderland AFC,Defender,22.57,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,226944,Boubacar Kamara,Boubacar,Kamara,Aston Villa FC,Midfielder,26.33,18,1418,1,0.49,0.51,7,4,14.29,0.07,1418.0
-Premier League,643426,Dean Benamar,Dean,Benamar,Crystal Palace FC,Defender,17.8,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,591384,George King,George,King,Crystal Palace FC,Defender,19.0,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,204646,Donyell Malen,Donyell,Malen,Aston Villa FC,Forward,27.17,21,645,4,4.04,-0.04,27,9,14.81,0.15,161.25
-Premier League,631106,Ben Casey,Ben,Casey,Crystal Palace FC,Forward,18.12,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,514362,Temple Ojinnaka,Temple,Ojinnaka,Wolverhampton Wanderers FC,Midfielder,20.98,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,497606,Tawanda Chirewa,Tawanda,Chirewa,Wolverhampton Wanderers FC,Forward,22.44,2,25,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,619536,Seth Ridgeon,Seth,Ridgeon,Fulham FC,Midfielder,17.52,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,580921,Reigan Heskey,Reigan,Heskey,Manchester City FC,Forward,18.17,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,547720,Charlie Tasker,Charlie,Tasker,Brighton & Hove Albion FC,Defender,20.07,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,549074,Tom Watson,Tom,Watson,Brighton & Hove Albion FC,Forward,19.95,6,57,0,0.04,-0.04,1,1,0.0,0.04,
-Premier League,465680,Arnaud Kalimuendo,Arnaud,Kalimuendo,Nottingham Forest FC,Forward,24.17,9,89,0,0.44,-0.44,4,1,0.0,0.11,
-Premier League,490885,George Earthy,George,Earthy,West Ham United FC,Midfielder,21.54,1,8,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,224024,Lucas Paquetá,Lucas,Tolentino Coelho de Lima,West Ham United FC,Midfielder,28.57,18,1521,4,2.82,1.18,23,11,17.39,0.12,380.25
-Premier League,477424,Josko Gvardiol,Josko,Gvardiol,Manchester City FC,Defender,24.16,16,1304,2,2.34,-0.34,16,5,12.5,0.15,652.0
-Premier League,606921,Romain Esse,Romain,Esse,Crystal Palace FC,Midfielder,20.85,4,40,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,460842,Mohammed Kudus,Mohammed,Kudus,Tottenham Hotspur FC,Midfielder,25.64,19,1545,2,1.93,0.07,26,9,7.69,0.07,772.5
-Premier League,547676,Tyler Fredricson,Tyler,Fredricson,Manchester United FC,Defender,21.07,1,2,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,565863,Sam Chambers,Sam,Chambers,Leeds United FC,Midfielder,18.59,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,576620,Bendito Mantato,Bendito,Mantato,Manchester United FC,Forward,18.15,1,15,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,222683,Justin Kluivert,Justin,Kluivert,AFC Bournemouth,Forward,26.88,18,920,2,2.25,-0.25,16,4,12.5,0.14,460.0
-Premier League,704232,George Brierley,George,Brierley,Burnley FC,Midfielder,18.33,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,551206,Jaydon Banel,Jaydon,Banel,Burnley FC,Forward,21.42,1,9,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,647960,Oliver Pimlott,Oliver,Pimlott,Burnley FC,Midfielder,18.95,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,578614,Enock Agyei,Enock,Agyei,Burnley FC,Forward,21.18,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,441271,Ki-Jana Hoever,Ki-Jana,Hoever,Wolverhampton Wanderers FC,Defender,24.17,8,428,0,0.02,-0.02,1,1,0.0,0.02,
-Premier League,593001,Enso González,Enso,González,Wolverhampton Wanderers FC,Forward,21.16,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,643473,Airidas Golambeckis,Airidas,Golambeckis,West Ham United FC,Defender,18.38,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,618027,TJ Carroll,TJ,Carroll,Aston Villa FC,Defender,19.0,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,206325,Oleksandr Zinchenko,Oleksandr,Zinchenko,Nottingham Forest FC,Defender,29.27,5,353,0,0.08,-0.08,4,2,0.0,0.02,
-Premier League,628204,Yunus Konak,Yunus,Konak,Brentford FC,Midfielder,20.19,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,519440,Wellity Lucky,Wellity,Lucky,Liverpool FC,Defender,20.19,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,664015,Leon Routh,Leon,Routh,Aston Villa FC,Defender,18.3,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,596047,Chido Obi,Chido,Obi,Manchester United FC,Forward,18.31,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,666607,Sam Alabi,Sam,Alabi,Newcastle United FC,Midfielder,16.7,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,437748,Mike Trésor,Mike,Trésor,Burnley FC,Forward,26.82,4,19,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,436893,Julián Araujo,Julián,Araujo,AFC Bournemouth,Defender,24.61,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,547801,Callum Bates,Callum,Bates,Everton FC,Midfielder,20.48,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,629068,Braiden Graham,Braiden,Graham,Everton FC,Forward,18.37,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,553299,Kota Takai,Kota,Takai,Tottenham Hotspur FC,Defender,21.54,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,205533,Eddie Nketiah,Eddie,Nketiah,Crystal Palace FC,Forward,26.81,12,416,2,1.77,0.23,15,6,13.33,0.12,208.0
-Premier League,499175,Ethan Nwaneri,Ethan,Nwaneri,Arsenal FC,Midfielder,19.0,6,165,0,0.23,-0.23,6,0,0.0,0.04,
-Premier League,616065,Marli Salmon,Marli,Salmon,Arsenal FC,Defender,16.56,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,626464,Gustavo Nunes,Gustavo,Nunes Fernandes Gomes,Brentford FC,Forward,20.33,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,172567,Josh Cullen,Josh,Cullen,Burnley FC,Midfielder,29.96,18,1519,2,0.9,1.1,11,6,18.18,0.08,759.5
-Premier League,219168,Alexander Isak,Alexander,Isak,Liverpool FC,Forward,26.5,10,508,2,2.05,-0.05,15,4,13.33,0.14,254.0
-Premier League,556637,Nehemiah Oriola,Nehemiah,Oriola,Brighton & Hove Albion FC,Forward,18.78,1,1,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,604988,Freddie Simmonds,Freddie,Simmonds,Brighton & Hove Albion FC,Defender,18.03,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,567121,Joe Knight,Joe,Knight,Brighton & Hove Albion FC,Midfielder,20.5,1,1,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,516234,Charlie Gray,Charlie,Gray,Manchester City FC,Midfielder,20.07,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,229384,Andy Irving,Andy,Irving,West Ham United FC,Midfielder,25.86,7,157,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,517179,Alfie Pond,Alfie,Pond,Wolverhampton Wanderers FC,Defender,22.05,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,428580,Frank Onyeka,Frank,Onyeka,Brentford FC,Midfielder,28.22,6,88,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,91889,Niclas Füllkrug,Niclas,Füllkrug,West Ham United FC,Forward,33.12,8,408,0,0.92,-0.92,9,3,0.0,0.1,
-Premier League,90585,Willy Boly,Willy,Boly,Nottingham Forest FC,Defender,35.14,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,565431,Callum Marshall,Callum,Marshall,West Ham United FC,Forward,21.31,2,58,0,0.13,-0.13,1,0,0.0,0.13,
-Premier League,622536,Benjamin Arthur,Benjamin,Arthur,Brentford FC,Defender,20.45,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,608181,Stefanos Tzimas,Stefanos,Tzimas,Brighton & Hove Albion FC,Forward,20.2,9,133,1,0.46,0.54,4,1,25.0,0.12,133.0
-Premier League,433312,Marshall Munetsi,Marshall,Munetsi,Wolverhampton Wanderers FC,Midfielder,29.75,13,873,1,1.61,-0.61,14,6,7.14,0.11,873.0
-Premier League,577114,Luis Guilherme,Luis Guilherme,Lira dos Santos,West Ham United FC,Forward,20.11,5,121,0,0.07,-0.07,1,0,0.0,0.07,
-Premier League,209365,Matthijs de Ligt,Matthijs,de Ligt,Manchester United FC,Defender,26.61,13,1170,1,1.46,-0.46,11,3,9.09,0.13,1170.0
-Premier League,105717,Arthur Masuaku,Arthur,Masuaku,Sunderland AFC,Defender,32.38,3,127,0,0.07,-0.07,1,0,0.0,0.07,
-Premier League,101148,Jamaal Lascelles,Jamaal,Lascelles,Newcastle United FC,Defender,32.36,2,19,0,0.04,-0.04,1,0,0.0,0.04,
-Premier League,244858,Fábio Carvalho,Fábio Leandro,Freitas Gouveia de Carvalho,Brentford FC,Midfielder,23.56,6,100,1,0.7,0.3,2,1,50.0,0.35,100.0
-Premier League,111773,Emil Krafth,Emil,Krafth,Newcastle United FC,Defender,31.64,1,45,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,646243,Andre Harriman-Annous,Andre,Harriman-Annous,Arsenal FC,Forward,18.23,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,590035,Yusuf Akhamrich,Yusuf,Akhamrich,Tottenham Hotspur FC,Forward,20.54,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,577731,Ben Broggio,Ben,Broggio,Aston Villa FC,Midfielder,19.14,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,60689,Chris Wood,Chris,Wood,Nottingham Forest FC,Forward,34.3,8,544,2,2.77,-0.77,16,6,12.5,0.17,272.0
-Premier League,611912,Landon Emenalo,Landon,Emenalo,Chelsea FC,Midfielder,18.17,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,661712,Diego León,Diego,León,Manchester United FC,Defender,18.96,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,645618,Bradley Burrowes,Bradley,Burrowes,Aston Villa FC,Midfielder,18.04,1,16,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,543295,Antoni Milambo,Antoni,Milambo,Brentford FC,Midfielder,20.96,1,45,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,600882,Harry Gray,Harry,Gray,Leeds United FC,Forward,17.45,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,534836,Travis Patterson,Travis,Patterson,Aston Villa FC,Defender,20.45,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,569577,Triston Rowe,Triston,Rowe,Aston Villa FC,Defender,19.47,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,59859,Ilkay Gündogan,Ilkay,Gündogan,Manchester City FC,Midfielder,35.42,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,211975,Manuel Akanji,Manuel,Akanji,Manchester City FC,Defender,30.68,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,447715,Aaron Ramsey,Aaron,Ramsey,Burnley FC,Midfielder,23.16,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,124165,Patrick Roberts,Patrick,Roberts,Sunderland AFC,Midfielder,29.13,1,27,0,0.03,-0.03,1,0,0.0,0.03,
-Premier League,519634,Jenson Seelt,Jenson,Seelt,Sunderland AFC,Defender,22.83,2,134,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,441240,Romain Faivre,Romain,Faivre,AFC Bournemouth,Midfielder,27.69,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,235674,Manor Solomon,Manor,Solomon,Tottenham Hotspur FC,Forward,26.66,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,461446,Tyler Onyango,Tyler,Onyango,Everton FC,Midfielder,23.05,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,429414,Sasa Kalajdzic,Sasa,Kalajdzic,Wolverhampton Wanderers FC,Forward,28.71,1,14,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,491007,Dário Essugo,Dário,Cassia Luís Essugo,Chelsea FC,Midfielder,21.02,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,647681,Giovanni Leoni,Giovanni,Leoni,Liverpool FC,Defender,19.25,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,199670,Odsonne Édouard,Odsonne,Édouard,Crystal Palace FC,Forward,28.18,1,2,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,491012,Youssef Chermiti,Youssef,Ramalho Chermiti,Everton FC,Forward,21.82,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,440854,Jakub Kiwior,Jakub,Kiwior,Arsenal FC,Defender,26.1,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,610799,Luka Vuskovic,Luka,Vuskovic,Tottenham Hotspur FC,Defender,19.07,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,210494,Nayef Aguerd,Nayef,Aguerd,West Ham United FC,Defender,29.98,2,180,0,0.1,-0.1,2,0,0.0,0.05,
-Premier League,433952,Largie Ramazani,Largie,Ramazani,Leeds United FC,Forward,25.06,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,510500,Jota Silva,João Pedro,Ferreira Silva,Nottingham Forest FC,Forward,26.64,1,11,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,226956,Mads Roerslev,Mads,Roerslev,Brentford FC,Defender,26.75,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,450542,Jesurun Rak-Sakyi,Jesurun,Rak-Sakyi,Crystal Palace FC,Forward,23.46,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,156689,Andreas Pereira,Andreas Hugo,Hoelgebaum Pereira,Fulham FC,Midfielder,30.22,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,213999,Edson Álvarez,Edson,Álvarez,West Ham United FC,Midfielder,28.41,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,469247,Samuel Iling-Junior,Samuel,Iling-Junior,Aston Villa FC,Forward,22.46,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,623110,Park Seung-Soo,Seung-Soo,Park,Newcastle United FC,Forward,19.01,0,0,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,606775,Ben Winterburn,Ben,Winterburn,AFC Bournemouth,Midfielder,21.54,1,6,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,424044,Hamed Traoré,Hamed,Traoré,AFC Bournemouth,Midfielder,26.1,1,16,0,0.0,0.0,0,0,0.0,0.0,
-Premier League,168991,Philip Billing,Philip,Billing,AFC Bournemouth,Midfielder,29.78,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,149484,Tyrone Mings,Tyrone,Mings,Aston Villa FC,Defender,33.06,13,963,0,1.07,-1.07,7,0,0.0,0.15,
+Premier League,214590,Aaron Wan-Bissaka,Aaron,Wan-Bissaka,West Ham United FC,Defender,28.35,22,1906,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,230046,Douglas Luiz,Douglas Luiz,Soares de Paulo,Aston Villa FC,Midfielder,27.9,16,810,1,0.49,0.51,10,4,10.0,0.05,810.0
+Premier League,515597,Lamare Bogarde,Lamare,Bogarde,Aston Villa FC,Midfielder,22.24,24,800,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,214048,Maximilian Kilman,Maximilian,Kilman,West Ham United FC,Defender,28.86,21,1559,0,0.57,-0.57,7,1,0.0,0.08,
+Premier League,441302,Ian Maatsen,Ian,Maatsen,Aston Villa FC,Defender,24.06,24,1258,0,1.07,-1.07,17,4,0.0,0.06,
+Premier League,178186,Jarrod Bowen,Jarrod,Bowen,West Ham United FC,Forward,29.28,31,2778,8,6.2,1.8,67,23,11.94,0.09,347.25
+Premier League,209243,Jadon Sancho,Jadon,Sancho,Aston Villa FC,Forward,26.02,19,761,0,0.6,-0.6,10,3,0.0,0.06,
+Premier League,247670,Valentín Castellanos,Valentín,Castellanos,West Ham United FC,Forward,27.5,11,866,2,2.67,-0.67,22,8,9.09,0.12,433.0
+Premier League,166989,Youri Tielemans,Youri,Tielemans,Aston Villa FC,Midfielder,28.9,18,1322,0,0.99,-0.99,17,4,0.0,0.06,
+Premier League,75115,Callum Wilson,Callum,Wilson,West Ham United FC,Forward,34.1,25,1046,5,6.55,-1.55,32,12,15.62,0.2,209.2
+Premier League,173879,Tammy Abraham,Tammy,Abraham,Aston Villa FC,Forward,28.5,8,196,1,1.26,-0.26,7,2,14.29,0.18,196.0
+Premier League,199796,Matty Cash,Matty,Cash,Aston Villa FC,Defender,28.65,28,2446,3,1.14,1.86,27,9,11.11,0.04,815.3333333333334
+Premier League,530335,Pablo,Pablo Felipe,Pereira de Jesus,West Ham United FC,Forward,22.24,7,407,0,0.54,-0.54,6,0,0.0,0.09,
+Premier League,101188,Lucas Digne,Lucas,Digne,Aston Villa FC,Defender,32.7,26,1558,0,0.63,-0.63,12,5,0.0,0.05,
+Premier League,630699,Mohamadou Kanté,Mohamadou,Kanté,West Ham United FC,Midfielder,20.53,8,32,0,0.09,-0.09,2,0,0.0,0.05,
+Premier League,490142,Freddie Potts,Freddie,Potts,West Ham United FC,Midfielder,22.55,20,1144,0,0.21,-0.21,3,1,0.0,0.07,
+Premier League,215711,Leon Bailey,Leon,Bailey,Aston Villa FC,Forward,28.65,9,336,0,0.3,-0.3,6,1,0.0,0.05,
+Premier League,233963,Konstantinos Mavropanos,Konstantinos,Mavropanos,West Ham United FC,Defender,28.31,24,1898,1,2.0,-1.0,16,4,6.25,0.13,1898.0
+Premier League,122806,John McGinn,John,McGinn,Aston Villa FC,Midfielder,31.46,24,1735,4,2.58,1.42,20,8,20.0,0.13,433.75
+Premier League,178301,Ollie Watkins,Ollie,Watkins,Aston Villa FC,Forward,30.26,30,2305,9,10.33,-1.33,62,27,14.52,0.17,256.1111111111111
+Premier League,215439,Tomás Soucek,Tomás,Soucek,West Ham United FC,Midfielder,31.1,28,1595,4,4.37,-0.37,18,11,22.22,0.24,398.75
+Premier League,244850,Morgan Rogers,Morgan,Rogers,Aston Villa FC,Forward,23.68,31,2757,8,5.8,2.2,72,30,11.11,0.08,344.625
+Premier League,158534,Kyle Walker-Peters,Kyle,Walker-Peters,West Ham United FC,Defender,28.97,18,955,1,1.13,-0.13,5,3,20.0,0.23,955.0
+Premier League,195546,Emiliano Buendía,Emiliano,Buendía,Aston Villa FC,Midfielder,29.27,29,1457,5,2.92,2.08,40,9,12.5,0.07,291.4
+Premier League,88894,Ross Barkley,Ross,Barkley,Aston Villa FC,Midfielder,32.33,14,393,2,0.68,1.32,11,4,18.18,0.06,196.5
+Premier League,220362,Axel Disasi,Axel,Disasi,West Ham United FC,Defender,28.06,7,630,0,1.02,-1.02,5,3,0.0,0.2,
+Premier League,159533,Adama Traoré,Adama,Traoré,West Ham United FC,Forward,30.19,22,349,0,0.35,-0.35,6,1,0.0,0.06,
+Premier League,199798,Ezri Konsa,Ezri,Konsa,Aston Villa FC,Defender,28.44,30,2676,0,1.24,-1.24,11,2,0.0,0.11,
+Premier League,244954,Pau Torres,Pau,Torres,Aston Villa FC,Defender,29.21,17,1389,0,0.57,-0.57,7,0,0.0,0.08,
+Premier League,551226,Mateus Fernandes,Mateus Gonçalo,Espanha Fernandes,West Ham United FC,Midfielder,21.72,29,2399,3,1.25,1.75,22,5,13.64,0.06,799.6666666666666
+Premier League,449871,Amadou Onana,Amadou,Onana,Aston Villa FC,Midfielder,24.62,22,1567,2,1.4,0.6,16,6,12.5,0.09,783.5
+Premier League,564940,Soungoutou Magassa,Soungoutou,Magassa,West Ham United FC,Midfielder,22.48,20,972,1,0.44,0.56,7,2,14.29,0.06,972.0
+Premier League,536109,Ollie Scarles,Ollie,Scarles,West Ham United FC,Defender,20.3,12,657,0,0.18,-0.18,3,0,0.0,0.06,
+Premier League,613804,El Hadji Malick Diouf,El Hadji Malick,Diouf,West Ham United FC,Defender,21.25,25,2097,0,0.46,-0.46,13,2,0.0,0.04,
+Premier League,227444,Nikola Milenkovic,Nikola,Milenkovic,Nottingham Forest FC,Defender,28.47,31,2790,0,0.82,-0.82,15,1,0.0,0.05,
+Premier League,491279,Micky van de Ven,Micky,van de Ven,Tottenham Hotspur FC,Defender,24.95,28,2413,4,2.5,1.5,15,6,26.67,0.17,603.25
+Premier League,210462,Ibrahim Sangaré,Ibrahim,Sangaré,Nottingham Forest FC,Midfielder,28.33,23,1770,2,1.15,0.85,16,5,12.5,0.07,885.0
+Premier League,570526,Lucas Bergvall,Lucas,Bergvall,Tottenham Hotspur FC,Midfielder,20.16,18,854,1,1.34,-0.34,11,5,9.09,0.12,854.0
+Premier League,232859,Djed Spence,Djed,Spence,Tottenham Hotspur FC,Defender,25.64,24,1812,0,0.86,-0.86,11,7,0.0,0.08,
+Premier League,159506,Ola Aina,Ola,Aina,Nottingham Forest FC,Defender,29.48,15,1321,0,0.36,-0.36,11,1,0.0,0.03,
+Premier League,212319,Richarlison,Richarlison,de Andrade,Tottenham Hotspur FC,Forward,28.9,26,1504,9,6.26,2.74,45,20,20.0,0.14,167.11111111111111
+Premier League,482973,Igor Jesus,Igor Jesus,Maciel da Cruz,Nottingham Forest FC,Forward,25.1,30,1811,3,4.66,-1.66,55,13,5.45,0.08,603.6666666666666
+Premier League,493362,Xavi Simons,Xavi,Simons,Tottenham Hotspur FC,Midfielder,22.95,25,1599,1,2.33,-1.33,36,9,2.78,0.06,1599.0
+Premier League,503301,Omari Hutchinson,Omari,Hutchinson,Nottingham Forest FC,Forward,22.42,24,1280,1,1.79,-0.79,23,10,4.35,0.08,1280.0
+Premier League,222531,Morgan Gibbs-White,Morgan,Gibbs-White,Nottingham Forest FC,Midfielder,26.18,31,2646,9,8.34,0.66,65,23,13.85,0.13,294.0
+Premier League,204968,Ryan Yates,Ryan,Yates,Nottingham Forest FC,Midfielder,28.36,16,406,0,0.22,-0.22,5,1,0.0,0.04,
+Premier League,493125,Radu Dragusin,Radu,Dragusin,Tottenham Hotspur FC,Defender,24.16,8,513,0,0.32,-0.32,4,0,0.0,0.08,
+Premier League,470315,Luca Netz,Luca,Netz,Nottingham Forest FC,Defender,22.88,2,48,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,215136,Neco Williams,Neco,Williams,Nottingham Forest FC,Defender,24.97,30,2620,1,1.65,-0.65,35,15,2.86,0.05,2620.0
+Premier League,616221,Souza,João Victor,de Souza Menezes,Tottenham Hotspur FC,Defender,19.79,4,144,0,0.02,-0.02,1,1,0.0,0.02,
+Premier League,210156,Taiwo Awoniyi,Taiwo,Awoniyi,Nottingham Forest FC,Forward,28.64,12,268,2,1.97,0.03,10,5,20.0,0.2,134.0
+Premier League,154566,Dominic Solanke,Dominic,Solanke,Tottenham Hotspur FC,Forward,28.55,12,780,3,1.83,1.17,14,8,21.43,0.13,260.0
+Premier League,135720,Kevin Danso,Kevin,Danso,Tottenham Hotspur FC,Defender,27.53,17,931,0,0.26,-0.26,4,1,0.0,0.07,
+Premier League,441164,Pedro Porro,Pedro,Porro,Tottenham Hotspur FC,Defender,26.55,27,2168,0,0.59,-0.59,20,2,0.0,0.03,
+Premier League,456512,Dan Ndoye,Dan,Ndoye,Nottingham Forest FC,Forward,25.43,23,1175,1,1.06,-0.06,15,4,6.67,0.07,1175.0
+Premier League,485047,Morato,Felipe,Rodrigues da Silva,Nottingham Forest FC,Defender,24.75,15,940,0,0.83,-0.83,4,1,0.0,0.21,
+Premier League,511499,Mathys Tel,Mathys,Tel,Tottenham Hotspur FC,Forward,20.93,24,898,3,2.0,1.0,27,7,11.11,0.07,299.3333333333333
+Premier League,250199,Nicolás Domínguez,Nicolás,Domínguez,Nottingham Forest FC,Midfielder,27.76,20,938,1,1.15,-0.15,16,5,6.25,0.07,938.0
+Premier League,247693,Randal Kolo Muani,Randal,Kolo Muani,Tottenham Hotspur FC,Forward,27.32,23,1235,1,1.82,-0.82,15,3,6.67,0.12,1235.0
+Premier League,215379,Elliot Anderson,Elliot,Anderson,Nottingham Forest FC,Midfielder,23.4,31,2774,2,2.49,-0.49,36,8,5.56,0.07,1387.0
+Premier League,547701,Archie Gray,Archie,Gray,Tottenham Hotspur FC,Midfielder,20.05,21,1377,2,1.43,0.57,10,4,20.0,0.14,688.5
+Premier League,575476,Murillo,Murillo Santiago,Costa dos Santos,Nottingham Forest FC,Defender,23.74,23,2001,1,0.61,0.39,10,4,10.0,0.06,2001.0
+Premier League,232787,Conor Gallagher,Conor,Gallagher,Tottenham Hotspur FC,Midfielder,26.15,9,588,0,0.56,-0.56,5,2,0.0,0.11,
+Premier League,487053,Destiny Udogie,Destiny,Udogie,Tottenham Hotspur FC,Defender,23.34,14,842,0,0.17,-0.17,3,1,0.0,0.06,
+Premier League,476887,Dilane Bakwa,Dilane,Bakwa,Nottingham Forest FC,Forward,23.6,10,343,0,0.51,-0.51,8,3,0.0,0.06,
+Premier League,209046,Callum Hudson-Odoi,Callum,Hudson-Odoi,Nottingham Forest FC,Forward,25.4,29,1754,3,2.72,0.28,28,10,10.71,0.1,584.6666666666666
+Premier League,221632,Cristian Romero,Cristian,Romero,Tottenham Hotspur FC,Defender,27.93,22,1802,4,1.26,2.74,16,6,25.0,0.08,450.5
+Premier League,432714,James McAtee,James,McAtee,Nottingham Forest FC,Midfielder,23.45,10,174,0,0.02,-0.02,1,0,0.0,0.02,
+Premier League,482442,Pape Matar Sarr,Pape Matar,Sarr,Tottenham Hotspur FC,Midfielder,23.55,22,1322,2,1.54,0.46,16,6,12.5,0.1,661.0
+Premier League,154296,João Palhinha,João Maria,Lobo Alves Palhares Costa Palhinha Gonçalves,Tottenham Hotspur FC,Midfielder,30.73,26,1779,3,1.3,1.7,23,5,13.04,0.06,593.0
+Premier League,232826,Anthony Gordon,Anthony,Gordon,Newcastle United FC,Forward,25.1,25,1743,6,8.79,-2.79,47,20,12.77,0.19,290.5
+Premier League,599303,Sean Neave,Sean,Neave,Newcastle United FC,Forward,18.84,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,232653,Jacob Ramsey,Jacob,Ramsey,Newcastle United FC,Midfielder,24.84,21,1076,2,1.04,0.96,13,4,15.38,0.08,538.0
+Premier League,554197,Chris Rigg,Chris,Rigg,Sunderland AFC,Midfielder,18.78,13,562,0,0.59,-0.59,8,1,0.0,0.07,
+Premier League,232356,Jenson Jones,Jenson,Jones,Sunderland AFC,Defender,19.76,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,538207,William Osula,William,Osula,Newcastle United FC,Forward,22.66,17,281,2,0.69,1.31,8,4,25.0,0.09,140.5
+Premier League,564406,Eliezer Mayenda,Eliezer,Mayenda,Sunderland AFC,Forward,20.9,19,755,2,2.14,-0.14,13,6,15.38,0.16,377.5
+Premier League,201666,Harvey Barnes,Harvey,Barnes,Newcastle United FC,Midfielder,28.31,30,1657,5,6.16,-1.16,50,18,10.0,0.12,331.4
+Premier League,470313,Nick Woltemade,Nick,Woltemade,Newcastle United FC,Forward,24.13,27,1674,7,6.39,0.61,31,12,22.58,0.21,239.14285714285714
+Premier League,577669,Noah Sadiki,Noah,Sadiki,Sunderland AFC,Midfielder,21.28,26,2295,0,0.6,-0.6,12,4,0.0,0.05,
+Premier League,545477,Alex Murphy,Alex,Murphy,Newcastle United FC,Defender,21.76,1,1,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,547410,Harrison Jones,Harrison,Jones,Sunderland AFC,Midfielder,21.26,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,449434,Anthony Elanga,Anthony,Elanga,Newcastle United FC,Forward,23.93,27,1217,0,1.46,-1.46,16,4,0.0,0.09,
+Premier League,201895,Omar Alderete,Omar,Alderete,Sunderland AFC,Defender,29.27,27,2356,1,1.4,-0.4,19,8,5.26,0.07,2356.0
+Premier League,220237,Sven Botman,Sven,Botman,Newcastle United FC,Defender,26.22,18,1208,1,1.43,-0.43,10,4,10.0,0.14,1208.0
+Premier League,77794,Kieran Trippier,Kieran,Trippier,Newcastle United FC,Defender,35.54,18,1461,0,0.08,-0.08,2,0,0.0,0.04,
+Premier League,216646,Yoane Wissa,Yoane,Wissa,Newcastle United FC,Forward,29.58,13,426,1,1.94,-0.94,11,5,9.09,0.18,426.0
+Premier League,78916,Dan Burn,Dan,Burn,Newcastle United FC,Defender,33.9,23,1814,0,0.37,-0.37,5,1,0.0,0.07,
+Premier League,487838,Lewis Hall,Lewis,Hall,Newcastle United FC,Defender,21.56,24,1752,1,0.81,0.19,21,4,4.76,0.04,1752.0
+Premier League,441191,Tino Livramento,Tino,Livramento,Newcastle United FC,Defender,23.38,15,1164,0,0.14,-0.14,3,0,0.0,0.05,
+Premier League,441264,Brian Brobbey,Brian,Brobbey,Sunderland AFC,Forward,24.16,24,1368,6,3.82,2.18,24,12,25.0,0.16,228.0
+Premier League,200834,Nordi Mukiele,Nordi,Mukiele,Sunderland AFC,Defender,28.42,25,2165,1,1.01,-0.01,16,2,6.25,0.06,2165.0
+Premier League,484420,Enzo Le Fée,Enzo,Le Fée,Sunderland AFC,Midfielder,26.16,29,2305,4,4.54,-0.54,24,6,16.67,0.19,576.25
+Premier League,167512,Luke O'Nien,Luke,O'Nien,Sunderland AFC,Midfielder,31.36,8,227,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,461195,Dennis Cirkin,Dennis,Cirkin,Sunderland AFC,Defender,23.99,7,302,0,0.08,-0.08,1,0,0.0,0.08,
+Premier League,434399,Reinildo Mandava,Reinildo Isnard,Mandava,Sunderland AFC,Defender,32.2,18,1429,0,0.15,-0.15,4,0,0.0,0.04,
+Premier League,437505,Wilson Isidor,Wilson,Isidor,Sunderland AFC,Forward,25.59,26,1066,4,3.74,0.26,38,14,10.53,0.1,266.5
+Premier League,549912,Chemsdine Talbi,Chemsdine,Talbi,Sunderland AFC,Forward,20.89,23,1327,4,1.99,2.01,22,9,18.18,0.09,331.75
+Premier League,487676,Trai Hume,Trai,Hume,Sunderland AFC,Defender,24.04,31,2583,0,1.89,-1.89,28,5,0.0,0.07,
+Premier League,200089,Joe Willock,Joe,Willock,Newcastle United FC,Midfielder,26.62,20,699,0,0.81,-0.81,10,3,0.0,0.08,
+Premier League,465642,Malick Thiaw,Malick,Thiaw,Newcastle United FC,Defender,24.65,28,2334,4,3.67,0.33,25,12,16.0,0.15,583.5
+Premier League,247955,Lutsharel Geertruida,Lutsharel,Geertruida,Sunderland AFC,Defender,25.7,25,1415,0,0.87,-0.87,8,2,0.0,0.11,
+Premier League,180974,Joelinton,Joelinton Cássio,Apolinário de Lira,Newcastle United FC,Midfielder,29.63,24,1689,2,2.13,-0.13,28,10,7.14,0.08,844.5
+Premier League,84450,Granit Xhaka,Granit,Xhaka,Sunderland AFC,Midfielder,33.52,27,2273,1,0.71,0.29,14,5,7.14,0.05,2273.0
+Premier League,114243,Jacob Murphy,Jacob,Murphy,Newcastle United FC,Midfielder,31.1,26,1246,3,3.0,0.0,38,12,7.89,0.08,415.3333333333333
+Premier League,547027,Habib Diarra,Habib,Diarra,Sunderland AFC,Midfielder,22.24,14,1102,2,2.28,-0.28,18,7,11.11,0.13,551.0
+Premier League,434752,Jaka Bijol,Jaka,Bijol,Leeds United FC,Defender,27.15,18,1309,1,0.79,0.21,12,6,8.33,0.07,1309.0
+Premier League,235826,Joël Piroe,Joël,Piroe,Leeds United FC,Forward,26.67,13,217,0,0.86,-0.86,11,2,0.0,0.08,
+Premier League,435997,Noah Okafor,Noah,Okafor,Leeds United FC,Forward,25.85,24,1298,4,4.22,-0.22,27,10,14.81,0.16,324.5
+Premier League,437738,Sebastiaan Bornauw,Sebastiaan,Bornauw,Leeds United FC,Defender,27.03,9,308,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,513418,Kevin Schade,Kevin,Schade,Brentford FC,Midfielder,24.34,28,2217,7,9.95,-2.95,45,21,15.56,0.22,316.7142857142857
+Premier League,444765,Sepp van den Berg,Sepp,van den Berg,Brentford FC,Defender,24.28,26,2303,0,2.63,-2.63,20,6,0.0,0.13,
+Premier League,249231,Keane Lewis-Potter,Keane,Lewis-Potter,Brentford FC,Forward,25.1,29,1340,3,2.22,0.78,21,7,14.29,0.11,446.6666666666667
+Premier League,56979,Jordan Henderson,Jordan,Henderson,Brentford FC,Midfielder,35.8,29,1824,1,0.33,0.67,6,1,16.67,0.06,1824.0
+Premier League,533463,Dango Ouattara,Dango,Ouattara,Brentford FC,Forward,24.13,25,1718,5,5.32,-0.32,36,12,13.89,0.15,343.6
+Premier League,607464,Michael Kayode,Michael,Kayode,Brentford FC,Defender,21.72,30,2634,1,0.63,0.37,7,2,14.29,0.09,2634.0
+Premier League,180135,Sean Longstaff,Sean,Longstaff,Leeds United FC,Midfielder,28.42,17,946,1,0.85,0.15,13,2,7.69,0.07,946.0
+Premier League,502500,Igor Thiago,Igor Thiago,Nascimento Rodrigues,Brentford FC,Forward,24.76,31,2654,19,17.51,1.49,71,37,26.76,0.25,139.68421052631578
+Premier League,466525,Anton Stach,Anton,Stach,Leeds United FC,Midfielder,27.38,26,2142,4,2.55,1.45,48,13,8.33,0.05,535.5
+Premier League,199598,Ethan Ampadu,Ethan,Ampadu,Leeds United FC,Defender,25.55,28,2493,1,1.81,-0.81,20,5,5.0,0.09,2493.0
+Premier League,427637,Brenden Aaronson,Brenden,Aaronson,Leeds United FC,Midfielder,25.44,30,1987,4,4.14,-0.14,41,15,9.76,0.1,496.75
+Premier League,492859,Wilfried Gnonto,Wilfried,Gnonto,Leeds United FC,Forward,22.4,16,380,0,0.28,-0.28,8,0,0.0,0.03,
+Premier League,559610,Luka Bentt,Luka,Bentt,Brentford FC,Midfielder,18.5,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,606689,Romelle Donovan,Romelle,Donovan,Brentford FC,Midfielder,19.33,4,38,0,0.1,-0.1,3,1,0.0,0.03,
+Premier League,231065,Ethan Pinnock,Ethan,Pinnock,Brentford FC,Defender,32.85,4,321,0,0.01,-0.01,1,1,0.0,0.01,
+Premier League,177815,Dominic Calvert-Lewin,Dominic,Calvert-Lewin,Leeds United FC,Forward,29.05,28,2119,10,11.59,-1.59,58,26,17.24,0.2,211.9
+Premier League,207283,Mathias Jensen,Mathias,Jensen,Brentford FC,Midfielder,30.25,29,1656,2,2.08,-0.08,23,6,8.7,0.09,828.0
+Premier League,226182,Jayden Bogle,Jayden,Bogle,Leeds United FC,Defender,25.68,29,2410,1,2.08,-1.08,17,4,5.88,0.12,2410.0
+Premier League,222694,Pascal Struijk,Pascal,Struijk,Leeds United FC,Defender,26.64,28,2431,0,2.54,-2.54,25,4,0.0,0.1,
+Premier League,649240,Joshua Stephenson,Joshua,Stephenson,Brentford FC,Defender,18.57,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,214225,Joe Rodon,Joe,Rodon,Leeds United FC,Defender,28.44,29,2547,2,1.21,0.79,15,4,13.33,0.08,1273.5
+Premier League,508395,Yehor Yarmoliuk,Yehor,Yarmoliuk,Brentford FC,Midfielder,22.08,31,2137,1,1.18,-0.18,15,4,6.67,0.08,2137.0
+Premier League,220627,James Justin,James,Justin,Leeds United FC,Defender,28.1,22,1266,1,0.87,0.13,17,4,5.88,0.05,1266.0
+Premier League,432830,Nathan Collins,Nathan,Collins,Brentford FC,Defender,24.92,28,2342,1,1.65,-0.65,14,6,7.14,0.12,2342.0
+Premier League,174594,Lukas Nmecha,Lukas,Nmecha,Leeds United FC,Forward,27.3,25,874,6,6.23,-0.23,22,14,27.27,0.28,145.66666666666666
+Premier League,593174,Kaye Furo,Kaye,Furo,Brentford FC,Forward,19.15,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,494556,Ollie Shield,Ollie,Shield,Brentford FC,Defender,19.51,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,248056,Ao Tanaka,Ao,Tanaka,Leeds United FC,Midfielder,27.56,21,763,2,0.85,1.15,12,3,16.67,0.07,381.5
+Premier League,200617,Daniel James,Daniel,James,Leeds United FC,Midfielder,28.39,15,409,0,0.7,-0.7,10,2,0.0,0.07,
+Premier League,587433,Conor McManus,Conor,McManus,Brentford FC,Midfielder,21.79,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,486520,Ilia Gruev,Ilia,Gruev,Leeds United FC,Midfielder,25.9,21,1294,0,0.44,-0.44,6,1,0.0,0.07,
+Premier League,200641,Reiss Nelson,Reiss,Nelson,Brentford FC,Forward,26.31,7,55,0,0.68,-0.68,4,1,0.0,0.17,
+Premier League,514356,Roméo Lavia,Roméo,Lavia,Chelsea FC,Midfielder,22.23,8,221,0,0.14,-0.14,1,0,0.0,0.14,
+Premier League,106611,Michael Keane,Michael,Keane,Everton FC,Defender,33.22,27,2137,3,1.94,1.06,21,6,14.29,0.09,712.3333333333334
+Premier League,232928,James Garner,James,Garner,Everton FC,Midfielder,25.05,31,2784,2,1.91,0.09,41,12,4.88,0.05,1392.0
+Premier League,491007,Dário Essugo,Dário,Cassia Luís Essugo,Chelsea FC,Midfielder,21.05,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,586309,Thierno Barry,Thierno,Barry,Everton FC,Forward,23.44,31,1645,6,6.14,-0.14,32,10,18.75,0.19,274.1666666666667
+Premier League,486385,Beto,Norberto Bercique,Gomes Betuncal,Everton FC,Forward,28.17,31,1205,6,7.17,-1.17,32,13,18.75,0.22,200.83333333333334
+Premier League,551210,Jorrel Hato,Jorrel,Hato,Chelsea FC,Defender,20.07,16,640,0,0.31,-0.31,4,0,0.0,0.08,
+Premier League,609873,Harrison Armstrong,Harrison,Armstrong,Everton FC,Midfielder,19.19,11,499,0,0.79,-0.79,5,2,0.0,0.16,
+Premier League,475168,João Pedro,João Pedro,Junqueira de Jesus,Chelsea FC,Forward,24.51,31,2323,14,13.54,0.46,63,27,22.22,0.21,165.92857142857142
+Premier League,215413,Kiernan Dewsbury-Hall,Kiernan,Dewsbury-Hall,Everton FC,Midfielder,27.57,24,2013,6,3.32,2.68,30,11,20.0,0.11,335.5
+Premier League,247632,Pedro Neto,Pedro,Lomba Neto,Chelsea FC,Forward,26.06,29,2219,5,4.35,0.65,40,11,12.5,0.11,443.8
+Premier League,17761,James Tarkowski,James,Tarkowski,Everton FC,Defender,33.37,30,2700,1,2.3,-1.3,15,7,6.67,0.15,2700.0
+Premier League,179268,Marc Cucurella,Marc,Cucurella,Chelsea FC,Defender,27.7,27,2080,1,1.72,-0.72,16,4,6.25,0.11,2080.0
+Premier League,444463,Wesley Fofana,Wesley,Fofana,Chelsea FC,Defender,25.29,19,1277,0,0.6,-0.6,6,0,0.0,0.1,
+Premier League,513466,Merlin Röhl,Merlin,Röhl,Everton FC,Midfielder,23.74,12,358,0,0.64,-0.64,7,0,0.0,0.09,
+Premier League,574458,Mamadou Sarr,Mamadou,Sarr,Chelsea FC,Defender,20.59,2,91,0,0.44,-0.44,1,0,0.0,0.44,
+Premier League,80801,Idrissa Gueye,Idrissa,Gueye,Everton FC,Midfielder,36.52,22,1851,2,1.5,0.5,26,6,7.69,0.06,925.5
+Premier League,244851,Cole Palmer,Cole,Palmer,Chelsea FC,Midfielder,23.9,20,1426,9,8.59,0.41,45,19,20.0,0.19,158.44444444444446
+Premier League,224967,Vitalii Mykolenko,Vitalii,Mykolenko,Everton FC,Defender,26.84,26,2330,0,0.29,-0.29,9,2,0.0,0.03,
+Premier League,463034,Liam Delap,Liam,Delap,Chelsea FC,Forward,23.14,22,791,1,3.92,-2.92,31,11,3.23,0.13,791.0
+Premier League,480455,Jarrad Branthwaite,Jarrad,Branthwaite,Everton FC,Defender,23.76,8,504,1,0.29,0.71,5,2,20.0,0.06,504.0
+Premier League,448047,Enzo Fernández,Enzo,Fernández,Chelsea FC,Midfielder,25.2,30,2583,8,10.42,-2.42,60,27,13.33,0.17,322.875
+Premier League,433154,Dwight McNeil,Dwight,McNeil,Everton FC,Forward,26.36,18,947,0,1.08,-1.08,17,5,0.0,0.06,
+Premier League,532605,Andrey Santos,Andrey,Nascimento dos Santos,Chelsea FC,Midfielder,21.91,23,1003,0,1.7,-1.7,8,1,0.0,0.21,
+Premier League,577016,Josh Acheampong,Josh,Acheampong,Chelsea FC,Defender,19.9,12,572,1,0.6,0.4,3,2,33.33,0.2,572.0
+Premier League,109646,Tosin Adarabioyo,Tosin,Adarabioyo,Chelsea FC,Defender,28.52,15,744,0,0.11,-0.11,2,0,0.0,0.05,
+Premier League,490094,Tim Iroegbunam,Tim,Iroegbunam,Everton FC,Midfielder,22.75,23,1108,0,0.47,-0.47,9,1,0.0,0.05,
+Premier League,493105,Alejandro Garnacho,Alejandro,Garnacho,Chelsea FC,Forward,21.75,20,1125,1,3.11,-2.11,28,7,3.57,0.11,1125.0
+Premier League,243571,Nathan Patterson,Nathan,Patterson,Everton FC,Defender,24.46,6,239,0,0.03,-0.03,1,1,0.0,0.03,
+Premier League,482609,Malo Gusto,Malo,Gusto,Chelsea FC,Defender,22.87,28,1744,2,1.46,0.54,11,5,18.18,0.13,872.0
+Premier League,624773,Estêvão,Estêvão Willian,Almeida de Oliveira Gonçalves,Chelsea FC,Forward,18.93,20,762,2,2.83,-0.83,26,7,7.69,0.11,381.0
+Premier League,486672,Moisés Caicedo,Moisés,Caicedo,Chelsea FC,Midfielder,24.41,26,2185,3,1.28,1.72,22,7,13.64,0.06,728.3333333333334
+Premier League,512462,Jake O'Brien,Jake,O'Brien,Everton FC,Defender,24.88,30,2549,0,0.86,-0.86,9,3,0.0,0.1,
+Premier League,59949,Séamus Coleman,Séamus,Coleman,Everton FC,Defender,37.48,3,12,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,496661,Tyler Dibling,Tyler,Dibling,Everton FC,Midfielder,20.12,14,350,0,0.2,-0.2,4,0,0.0,0.05,
+Premier League,440993,Iliman Ndiaye,Iliman,Ndiaye,Everton FC,Forward,26.07,25,2156,6,5.08,0.92,31,16,19.35,0.16,359.3333333333333
+Premier League,167887,Josh Laurent,Josh,Laurent,Burnley FC,Midfielder,30.91,28,1581,1,0.83,0.17,13,4,7.69,0.06,1581.0
+Premier League,477555,Oscar Bobb,Oscar,Bobb,Fulham FC,Midfielder,22.72,16,764,0,1.06,-1.06,7,1,0.0,0.15,
+Premier League,503714,Lesley Ugochukwu,Lesley,Ugochukwu,Burnley FC,Midfielder,22.01,30,1982,3,2.25,0.75,20,7,15.0,0.11,660.6666666666666
+Premier League,435973,Lyle Foster,Lyle,Foster,Burnley FC,Forward,25.58,23,1307,3,3.04,-0.04,18,5,16.67,0.17,435.6666666666667
+Premier League,101178,James Ward-Prowse,James,Ward-Prowse,Burnley FC,Midfielder,31.42,11,731,0,0.12,-0.12,2,0,0.0,0.06,
+Premier League,219924,Issa Diop,Issa,Diop,Fulham FC,Defender,29.23,10,593,0,0.02,-0.02,1,0,0.0,0.02,
+Premier League,169528,Antonee Robinson,Antonee,Robinson,Fulham FC,Defender,28.65,15,1045,0,0.22,-0.22,2,0,0.0,0.11,
+Premier League,218328,Samuel Chukwueze,Samuel,Chukwueze,Fulham FC,Forward,26.86,17,805,3,1.87,1.13,21,6,14.29,0.09,268.3333333333333
+Premier League,494960,Quilindschy Hartman,Quilindschy,Hartman,Burnley FC,Defender,24.38,17,1503,0,0.21,-0.21,7,3,0.0,0.03,
+Premier League,166477,Timothy Castagne,Timothy,Castagne,Fulham FC,Defender,30.33,23,1219,0,1.11,-1.11,9,4,0.0,0.12,
+Premier League,478969,Hjalmar Ekdal,Hjalmar,Ekdal,Burnley FC,Defender,27.45,15,1179,0,0.21,-0.21,5,1,0.0,0.04,
+Premier League,440323,Armando Broja,Armando,Broja,Burnley FC,Forward,24.56,20,813,1,2.15,-1.15,16,6,6.25,0.13,813.0
+Premier League,461188,Bashir Humphreys,Bashir,Humphreys,Burnley FC,Defender,23.05,15,1240,0,0.32,-0.32,7,1,0.0,0.05,
+Premier League,208912,Joe Worrall,Joe,Worrall,Burnley FC,Defender,29.22,11,497,0,0.08,-0.08,1,0,0.0,0.08,
+Premier League,477717,Maxime Estève,Maxime,Estève,Burnley FC,Defender,23.85,28,2405,0,0.67,-0.67,9,1,0.0,0.07,
+Premier League,174874,Joachim Andersen,Joachim,Andersen,Fulham FC,Defender,29.84,28,2472,0,1.31,-1.31,12,3,0.0,0.11,
+Premier League,469272,Loum Tchaouna,Loum,Tchaouna,Burnley FC,Forward,22.56,23,854,1,0.94,0.06,16,7,6.25,0.06,854.0
+Premier League,76357,Tom Cairney,Tom,Cairney,Fulham FC,Midfielder,35.2,20,550,1,0.94,0.06,12,1,8.33,0.08,550.0
+Premier League,184349,Ryan Sessegnon,Ryan,Sessegnon,Fulham FC,Midfielder,25.87,24,1639,2,1.16,0.84,13,3,15.38,0.09,819.5
+Premier League,207189,Sander Berge,Sander,Berge,Fulham FC,Midfielder,28.13,31,2596,0,1.29,-1.29,10,3,0.0,0.13,
+Premier League,212314,Sasa Lukic,Sasa,Lukic,Fulham FC,Midfielder,29.64,20,1239,1,1.84,-0.84,13,3,7.69,0.14,1239.0
+Premier League,431639,Zian Flemming,Zian,Flemming,Burnley FC,Forward,27.67,22,1190,8,6.02,1.98,38,16,21.05,0.16,148.75
+Premier League,209289,Emile Smith Rowe,Emile,Smith Rowe,Fulham FC,Midfielder,25.68,30,1466,3,4.26,-1.26,28,9,10.71,0.15,488.6666666666667
+Premier League,153366,Harrison Reed,Harrison,Reed,Fulham FC,Midfielder,31.18,6,26,1,0.13,0.87,2,1,50.0,0.06,26.0
+Premier League,444180,Jaidon Anthony,Jaidon,Anthony,Burnley FC,Forward,26.33,30,2123,7,3.96,3.04,46,18,15.22,0.09,303.2857142857143
+Premier League,102057,Raúl Jiménez,Raúl,Jiménez,Fulham FC,Forward,34.92,30,1986,9,10.96,-1.96,64,18,14.06,0.17,220.66666666666666
+Premier League,244042,Rodrigo Muniz,Rodrigo,Muniz Carvalho,Fulham FC,Forward,24.91,14,580,1,1.94,-0.94,21,4,4.76,0.09,580.0
+Premier League,58621,Kyle Walker,Kyle,Walker,Burnley FC,Defender,35.85,29,2549,0,0.13,-0.13,3,0,0.0,0.04,
+Premier League,174592,Marcus Edwards,Marcus,Edwards,Burnley FC,Forward,27.33,19,907,1,1.45,-0.45,21,5,4.76,0.07,907.0
+Premier League,577725,Josh King,Josh,King,Fulham FC,Midfielder,19.24,25,1141,1,2.31,-1.31,24,10,4.17,0.1,1141.0
+Premier League,465527,Hannibal Mejbri,Hannibal,Mejbri,Burnley FC,Midfielder,23.19,23,990,1,0.55,0.45,14,4,7.14,0.04,990.0
+Premier League,44699,Ashley Barnes,Ashley,Barnes,Burnley FC,Forward,36.43,6,35,0,0.11,-0.11,1,0,0.0,0.11,
+Premier League,216055,Florentino,Florentino Ibrain,Morris Luís,Burnley FC,Midfielder,26.62,24,1659,0,0.57,-0.57,9,1,0.0,0.06,
+Premier League,153682,Harry Wilson,Harry,Wilson,Fulham FC,Forward,29.03,29,2276,10,5.07,4.93,66,24,15.15,0.08,227.6
+Premier League,153133,Alex Iwobi,Alex,Iwobi,Fulham FC,Forward,29.92,25,2144,4,1.36,2.64,28,11,14.29,0.05,536.0
+Premier League,232892,Calvin Bassey,Calvin,Bassey,Fulham FC,Defender,26.25,23,1902,1,1.64,-0.64,10,2,10.0,0.16,1902.0
+Premier League,532529,Jack Hinshelwood,Jack,Hinshelwood,Brighton & Hove Albion FC,Midfielder,20.97,20,1179,1,2.19,-1.19,23,7,4.35,0.1,1179.0
+Premier League,647850,Charalampos Kostoulas,Charalampos,Kostoulas,Brighton & Hove Albion FC,Forward,18.84,16,294,2,1.72,0.28,15,6,13.33,0.11,147.0
+Premier League,216094,Jeremie Frimpong,Jeremie,Frimpong,Liverpool FC,Defender,25.31,15,752,0,0.43,-0.43,8,1,0.0,0.05,
+Premier League,111478,Joël Veltman,Joël,Veltman,Brighton & Hove Albion FC,Defender,34.22,19,843,1,0.95,0.05,3,1,33.33,0.32,843.0
+Premier League,544877,Milos Kerkez,Milos,Kerkez,Liverpool FC,Defender,22.4,28,2035,2,1.56,0.44,8,2,25.0,0.19,1017.5
+Premier League,591386,Trey Nyoni,Trey,Nyoni,Liverpool FC,Midfielder,18.75,4,13,0,0.37,-0.37,1,0,0.0,0.37,
+Premier League,223541,Federico Chiesa,Federico,Chiesa,Liverpool FC,Forward,28.44,23,278,2,1.43,0.57,16,4,12.5,0.09,139.0
+Premier League,204716,Ibrahima Konaté,Ibrahima,Konaté,Liverpool FC,Defender,26.85,29,2487,1,1.06,-0.06,10,3,10.0,0.11,2487.0
+Premier League,451340,Kaoru Mitoma,Kaoru,Mitoma,Brighton & Hove Albion FC,Midfielder,28.87,20,1426,2,3.27,-1.27,23,11,8.7,0.14,713.0
+Premier League,424876,Dominik Szoboszlai,Dominik,Szoboszlai,Liverpool FC,Midfielder,25.43,29,2603,5,3.86,1.14,58,19,8.62,0.07,520.6
+Premier League,467779,Mats Wieffer,Mats,Wieffer,Brighton & Hove Albion FC,Midfielder,26.38,21,1575,0,1.67,-1.67,16,4,0.0,0.1,
+Premier League,463067,Georginio Rutter,Georginio,Rutter,Brighton & Hove Albion FC,Forward,23.95,25,1612,2,2.37,-0.37,35,12,5.71,0.07,806.0
+Premier League,204120,Olivier Boscagli,Olivier,Boscagli,Brighton & Hove Albion FC,Defender,28.37,8,440,0,0.04,-0.04,1,0,0.0,0.04,
+Premier League,441266,Ryan Gravenberch,Ryan,Gravenberch,Liverpool FC,Midfielder,23.88,29,2521,4,1.65,2.35,31,9,12.9,0.05,630.25
+Premier League,509416,Yasin Ayari,Yasin,Ayari,Brighton & Hove Albion FC,Midfielder,22.48,24,1722,3,2.62,0.38,40,10,7.5,0.07,574.0
+Premier League,83299,Lewis Dunk,Lewis,Dunk,Brighton & Hove Albion FC,Defender,34.37,29,2565,0,1.17,-1.17,19,2,0.0,0.06,
+Premier League,50175,Danny Welbeck,Danny,Welbeck,Brighton & Hove Albion FC,Forward,35.35,30,1826,12,10.36,1.64,43,20,27.91,0.24,152.16666666666666
+Premier League,171287,Joe Gomez,Joe,Gomez,Liverpool FC,Defender,28.86,16,495,0,0.23,-0.23,3,1,0.0,0.08,
+Premier League,494595,Florian Wirtz,Florian,Wirtz,Liverpool FC,Midfielder,22.91,27,2015,4,5.73,-1.73,42,16,9.52,0.14,503.75
+Premier League,535301,Carlos Baleba,Carlos,Baleba,Brighton & Hove Albion FC,Midfielder,22.24,25,1288,0,0.53,-0.53,15,1,0.0,0.04,
+Premier League,243016,Alexis Mac Allister,Alexis,Mac Allister,Liverpool FC,Midfielder,27.27,30,2184,2,3.28,-1.28,44,11,4.55,0.07,1092.0
+Premier League,592031,Yankuba Minteh,Yankuba,Minteh,Brighton & Hove Albion FC,Forward,21.69,27,1837,2,3.15,-1.15,35,10,5.71,0.09,918.5
+Premier League,465730,Maxim De Cuyper,Maxim,De Cuyper,Brighton & Hove Albion FC,Defender,25.27,24,1154,2,1.71,0.29,11,6,18.18,0.16,577.0
+Premier League,489580,Calvin Ramsay,Calvin,Ramsay,Liverpool FC,Defender,22.67,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,611922,Rio Ngumoha,Rio,Ngumoha,Liverpool FC,Forward,17.58,13,219,1,0.81,0.19,6,4,16.67,0.13,219.0
+Premier League,596042,Kieran Morrison,Kieran,Morrison,Liverpool FC,Midfielder,19.39,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,510663,Hugo Ekitiké,Hugo,Ekitiké,Liverpool FC,Forward,23.78,28,1810,11,9.9,1.1,65,19,16.92,0.15,164.54545454545453
+Premier League,514254,Diego Gómez,Diego,Gómez,Brighton & Hove Albion FC,Midfielder,23.01,28,1944,5,5.33,-0.33,35,14,14.29,0.15,388.8
+Premier League,469142,Jan Paul van Hecke,Jan Paul,van Hecke,Brighton & Hove Albion FC,Defender,25.81,29,2581,3,2.16,0.84,19,9,15.79,0.11,860.3333333333334
+Premier League,206915,Curtis Jones,Curtis,Jones,Liverpool FC,Midfielder,25.17,27,1347,0,2.07,-2.07,20,6,0.0,0.1,
+Premier League,15157,James Milner,James,Milner,Brighton & Hove Albion FC,Midfielder,40.25,19,719,1,1.02,-0.02,8,2,12.5,0.13,719.0
+Premier League,231416,Ferdi Kadioglu,Ferdi,Kadioglu,Brighton & Hove Albion FC,Defender,26.48,30,2504,0,1.55,-1.55,21,9,0.0,0.07,
+Premier League,60307,Pascal Groß,Pascal,Groß,Brighton & Hove Albion FC,Midfielder,34.8,12,1006,1,0.79,0.21,11,4,9.09,0.07,1006.0
+Premier League,243298,Cody Gakpo,Cody,Gakpo,Liverpool FC,Forward,26.9,29,2152,6,6.68,-0.68,69,16,8.7,0.1,358.6666666666667
+Premier League,122798,Andy Robertson,Andy,Robertson,Liverpool FC,Defender,32.06,19,767,0,0.32,-0.32,5,1,0.0,0.06,
+Premier League,97032,Virgil van Dijk,Virgil,van Dijk,Liverpool FC,Defender,34.74,31,2790,3,2.66,0.34,22,10,13.64,0.12,930.0
+Premier League,444102,Evanilson,Francisco Evanilson,de Lima Barbosa,AFC Bournemouth,Forward,26.49,29,2206,6,8.17,-2.17,58,21,10.34,0.14,367.6666666666667
+Premier League,493250,Amad Diallo,Amad,Diallo,Manchester United FC,Forward,23.72,25,1919,2,4.69,-2.69,43,17,4.65,0.11,959.5
+Premier League,547676,Tyler Fredricson,Tyler,Fredricson,Manchester United FC,Defender,21.1,1,2,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,158499,Ryan Christie,Ryan,Christie,AFC Bournemouth,Midfielder,31.11,21,716,2,1.6,0.4,20,6,10.0,0.08,358.0
+Premier League,54469,Adam Smith,Adam,Smith,AFC Bournemouth,Defender,34.93,18,807,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,503139,Alex Scott,Alex,Scott,AFC Bournemouth,Midfielder,22.61,31,2320,2,3.31,-1.31,39,10,5.13,0.08,1160.0
+Premier League,458249,Joshua Zirkzee,Joshua,Zirkzee,Manchester United FC,Forward,24.86,18,509,2,2.39,-0.39,21,7,9.52,0.11,254.5
+Premier League,499604,Rayan,Rayan Vitor,Simplício Rocha,AFC Bournemouth,Forward,19.66,8,626,2,1.29,0.71,15,4,13.33,0.09,313.0
+Premier League,606745,Ayden Heaven,Ayden,Heaven,Manchester United FC,Defender,19.52,14,653,0,0.35,-0.35,3,0,0.0,0.12,
+Premier League,516895,Kobbie Mainoo,Kobbie,Mainoo,Manchester United FC,Midfielder,20.95,22,1113,0,0.24,-0.24,8,2,0.0,0.03,
+Premier League,496208,Ben Gannon-Doak,Ben,Gannon-Doak,AFC Bournemouth,Forward,20.38,5,56,0,0.09,-0.09,1,0,0.0,0.09,
+Premier League,106760,Luke Shaw,Luke,Shaw,Manchester United FC,Defender,30.73,31,2626,0,0.5,-0.5,5,2,0.0,0.1,
+Premier League,201658,Marcus Tavernier,Marcus,Tavernier,AFC Bournemouth,Midfielder,27.03,27,2126,5,7.18,-2.18,58,19,8.62,0.12,425.2
+Premier League,242882,Bafodé Diakité,Bafodé,Diakité,AFC Bournemouth,Defender,25.23,18,1275,0,0.02,-0.02,1,0,0.0,0.02,
+Premier League,519913,Tyler Fletcher,Tyler,Fletcher,Manchester United FC,Midfielder,19.03,1,1,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,222690,Tyrell Malacia,Tyrell,Malacia,Manchester United FC,Defender,26.62,2,7,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,489888,Amine Adli,Amine,Adli,AFC Bournemouth,Forward,25.89,27,1032,3,2.54,0.46,19,9,15.79,0.13,344.0
+Premier League,560262,Junior Kroupi,Junior,Kroupi,AFC Bournemouth,Forward,19.77,26,1161,9,5.91,3.09,34,16,26.47,0.17,129.0
+Premier League,614574,Alex Tóth,Alex,Tóth,AFC Bournemouth,Midfielder,20.44,4,72,0,0.06,-0.06,1,0,0.0,0.06,
+Premier League,463981,James Hill,James,Hill,AFC Bournemouth,Defender,24.22,22,1474,0,0.67,-0.67,8,1,0.0,0.08,
+Premier League,620487,Veljko Milosavljevic,Veljko,Milosavljevic,AFC Bournemouth,Defender,18.76,7,367,0,0.15,-0.15,1,0,0.0,0.15,
+Premier League,551483,Álex Jiménez,Álex,Jiménez,AFC Bournemouth,Defender,20.9,27,1964,1,1.11,-0.11,20,4,5.0,0.06,1964.0
+Premier League,216051,Diogo Dalot,José Diogo,Dalot Teixeira,Manchester United FC,Defender,27.04,29,2236,1,1.6,-0.6,21,6,4.76,0.08,2236.0
+Premier League,61256,Casemiro,Carlos Henrique,Casimiro,Manchester United FC,Midfielder,34.11,29,2147,7,4.66,2.34,43,14,16.28,0.11,306.7142857142857
+Premier League,550864,Leny Yoro,Leny,Yoro,Manchester United FC,Defender,20.38,28,1615,0,1.14,-1.14,7,2,0.0,0.16,
+Premier League,430871,Matheus Cunha,Matheus,Santos Carneiro da Cunha,Manchester United FC,Forward,26.85,28,2075,7,5.93,1.07,72,29,9.72,0.08,296.42857142857144
+Premier League,141746,Bruno Fernandes,Bruno Miguel,Borges Fernandes,Manchester United FC,Midfielder,31.57,28,2437,8,10.35,-2.35,73,21,10.96,0.14,304.625
+Premier League,485711,Benjamin Sesko,Benjamin,Sesko,Manchester United FC,Forward,22.84,26,1332,9,7.17,1.83,53,28,16.98,0.14,148.0
+Premier League,168636,Enes Ünal,Enes,Ünal,AFC Bournemouth,Forward,28.9,17,173,1,1.85,-0.85,12,2,8.33,0.15,173.0
+Premier League,446008,Bryan Mbeumo,Bryan,Mbeumo,Manchester United FC,Forward,26.65,26,2196,9,8.19,0.81,60,30,15.0,0.14,244.0
+Premier League,111317,David Brooks,David,Brooks,AFC Bournemouth,Midfielder,28.73,25,1051,1,4.94,-3.94,43,12,2.33,0.11,1051.0
+Premier League,232112,Manuel Ugarte,Manuel,Ugarte,Manchester United FC,Midfielder,24.97,21,791,0,0.49,-0.49,11,1,0.0,0.04,
+Premier League,221466,Marcos Senesi,Marcos,Senesi,AFC Bournemouth,Defender,28.9,30,2660,0,1.39,-1.39,16,5,0.0,0.09,
+Premier League,494521,Adrien Truffert,Adrien,Truffert,AFC Bournemouth,Defender,24.36,31,2750,0,0.44,-0.44,12,2,0.0,0.04,
+Premier League,95658,Harry Maguire,Harry,Maguire,Manchester United FC,Defender,33.08,18,1205,1,0.81,0.19,10,2,10.0,0.08,1205.0
+Premier League,184341,Mason Mount,Mason,Mount,Manchester United FC,Midfielder,27.22,18,820,3,1.49,1.51,18,5,16.67,0.08,273.3333333333333
+Premier League,155511,Adam Armstrong,Adam,Armstrong,Wolverhampton Wanderers FC,Forward,29.14,7,569,1,0.61,0.39,5,1,20.0,0.12,569.0
+Premier League,431248,Ladislav Krejcí,Ladislav,Krejcí,Wolverhampton Wanderers FC,Defender,26.95,24,2040,2,2.0,0.0,16,8,12.5,0.12,1020.0
+Premier League,191866,Kristoffer Ajer,Kristoffer,Ajer,Brentford FC,Defender,27.96,24,1625,0,0.78,-0.78,10,3,0.0,0.08,
+Premier League,184754,Hwang Hee-Chan,Hee-Chan,Hwang,Wolverhampton Wanderers FC,Forward,30.18,20,1155,2,2.11,-0.11,15,6,13.33,0.14,577.5
+Premier League,488213,Tolu Arokodare,Tolu,Arokodare,Wolverhampton Wanderers FC,Forward,25.35,27,1237,3,4.62,-1.62,39,13,7.69,0.12,412.3333333333333
+Premier League,509291,André,André,Trindade da Costa Neto,Wolverhampton Wanderers FC,Midfielder,24.71,28,2136,1,0.44,0.56,11,1,9.09,0.04,2136.0
+Premier League,523705,Jackson Tchatchoua,Jackson,Tchatchoua,Wolverhampton Wanderers FC,Defender,24.55,28,1698,0,0.33,-0.33,2,1,0.0,0.17,
+Premier League,641221,Pedro Lima,Pedro Henrique,Cardoso de Lima,Wolverhampton Wanderers FC,Defender,19.75,3,3,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,209041,Angel Gomes,Angel,Gomes,Wolverhampton Wanderers FC,Midfielder,25.58,7,286,0,0.11,-0.11,3,1,0.0,0.04,
+Premier League,231480,Santiago Bueno,Santiago,Bueno,Wolverhampton Wanderers FC,Defender,27.39,22,1923,2,1.68,0.32,6,5,33.33,0.28,961.5
+Premier League,510362,Toti Gomes,Tote António,Gomes,Wolverhampton Wanderers FC,Defender,27.21,14,1043,0,0.22,-0.22,4,1,0.0,0.06,
+Premier League,448089,João Gomes,João Victor,Gomes da Silva,Wolverhampton Wanderers FC,Midfielder,25.13,29,2299,1,1.15,-0.15,16,6,6.25,0.07,2299.0
+Premier League,490721,Hugo Bueno,Hugo,Bueno,Wolverhampton Wanderers FC,Defender,23.53,28,1951,1,0.5,0.5,10,5,10.0,0.05,1951.0
+Premier League,440089,Mikkel Damsgaard,Mikkel,Damsgaard,Brentford FC,Midfielder,25.75,26,1578,3,1.85,1.15,20,9,15.0,0.09,526.0
+Premier League,483081,Rodrigo Gomes,Rodrigo,Martins Gomes,Wolverhampton Wanderers FC,Defender,22.73,15,602,3,1.7,1.3,14,6,21.43,0.12,200.66666666666666
+Premier League,87835,Matt Doherty,Matt,Doherty,Wolverhampton Wanderers FC,Defender,34.21,10,706,0,0.09,-0.09,3,0,0.0,0.03,
+Premier League,231057,Jean-Ricner Bellegarde,Jean-Ricner,Bellegarde,Wolverhampton Wanderers FC,Midfielder,27.76,22,1089,1,0.98,0.02,20,7,5.0,0.05,1089.0
+Premier League,497949,David Møller Wolfe,David,Møller Wolfe,Wolverhampton Wanderers FC,Defender,23.94,18,844,0,0.12,-0.12,3,0,0.0,0.04,
+Premier League,501837,Yerson Mosquera,Yerson,Mosquera,Wolverhampton Wanderers FC,Defender,24.92,22,1711,0,1.58,-1.58,21,6,0.0,0.08,
+Premier League,647671,Mateus Mané,Mateus,Mané,Wolverhampton Wanderers FC,Forward,18.54,20,1282,2,1.36,0.64,30,12,6.67,0.05,641.0
+Premier League,118748,Mohamed Salah,Mohamed,Salah Hamed Mahrous Ghaly,Liverpool FC,Forward,33.8,22,1820,5,6.82,-1.82,57,14,8.77,0.12,364.0
+Premier League,499716,James Rowswell,James,Rowswell,Tottenham Hotspur FC,Defender,19.72,1,1,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,613232,James Wilson,James,Wilson,Tottenham Hotspur FC,Forward,19.07,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,499726,Callum Olusesi,Callum,Olusesi,Tottenham Hotspur FC,Midfielder,19.05,1,14,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,437499,Maxence Lacroix,Maxence,Lacroix,Crystal Palace FC,Defender,25.99,28,2486,1,2.06,-1.06,20,4,5.0,0.1,2486.0
+Premier League,247412,Jørgen Strand Larsen,Jørgen,Strand Larsen,Crystal Palace FC,Forward,26.15,28,1874,4,4.16,-0.16,32,12,12.5,0.13,468.5
+Premier League,108413,Will Hughes,Will,Hughes,Crystal Palace FC,Midfielder,30.96,27,1295,0,1.09,-1.09,17,0,0.0,0.06,
+Premier League,218364,Borna Sosa,Borna,Sosa,Crystal Palace FC,Defender,28.19,5,53,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,232185,Ismaïla Sarr,Ismaïla,Sarr,Crystal Palace FC,Forward,28.1,20,1730,7,7.97,-0.97,34,14,20.59,0.23,247.14285714285714
+Premier League,427623,Chris Richards,Chris,Richards,Crystal Palace FC,Defender,26.01,26,2333,1,1.13,-0.13,10,1,10.0,0.11,2333.0
+Premier League,488024,Yéremy Pino,Yéremy,Pino,Crystal Palace FC,Midfielder,23.45,27,1730,2,3.94,-1.94,38,10,5.26,0.1,865.0
+Premier League,209400,Daichi Kamada,Daichi,Kamada,Crystal Palace FC,Midfielder,29.66,20,1488,0,1.39,-1.39,16,4,0.0,0.09,
+Premier League,485337,Evann Guessand,Evann,Guessand,Crystal Palace FC,Forward,24.75,19,887,1,1.56,-0.56,11,6,9.09,0.14,887.0
+Premier League,243526,Gabriel Gudmundsson,Gabriel,Gudmundsson,Leeds United FC,Defender,26.93,29,2368,0,1.1,-1.1,18,3,0.0,0.06,
+Premier League,152551,Jefferson Lerma,Jefferson,Lerma,Crystal Palace FC,Midfielder,31.44,24,1248,0,1.04,-1.04,14,6,0.0,0.07,
+Premier League,231747,Jean-Philippe Mateta,Jean-Philippe,Mateta,Crystal Palace FC,Forward,28.76,24,1944,8,12.08,-4.08,55,26,14.55,0.22,243.0
+Premier League,496221,Adam Wharton,Adam,Wharton,Crystal Palace FC,Midfielder,22.15,27,2174,0,1.34,-1.34,26,4,0.0,0.05,
+Premier League,489706,Justin Devenny,Justin,Devenny,Crystal Palace FC,Midfielder,22.47,18,596,1,2.62,-1.62,13,4,7.69,0.2,596.0
+Premier League,244723,Tyrick Mitchell,Tyrick,Mitchell,Crystal Palace FC,Defender,26.58,30,2669,1,1.09,-0.09,13,5,7.69,0.08,2669.0
+Premier League,651426,Jaydee Canvot,Jaydee,Canvot,Crystal Palace FC,Defender,19.67,13,704,0,0.79,-0.79,3,0,0.0,0.26,
+Premier League,57328,Nathaniel Clyne,Nathaniel,Clyne,Crystal Palace FC,Defender,35.0,8,498,0,0.43,-0.43,3,0,0.0,0.14,
+Premier League,242898,Brennan Johnson,Brennan,Johnson,Crystal Palace FC,Forward,24.86,27,1231,2,1.84,0.16,17,5,11.76,0.11,615.5
+Premier League,515621,Chadi Riad,Chadi,Riad,Crystal Palace FC,Defender,22.79,6,314,0,0.11,-0.11,2,1,0.0,0.05,
+Premier League,230001,Noussair Mazraoui,Noussair,Mazraoui,Manchester United FC,Defender,28.38,15,615,0,0.17,-0.17,4,0,0.0,0.04,
+Premier League,444884,Harvey Elliott,Harvey,Elliott,Aston Villa FC,Midfielder,22.99,5,110,0,0.29,-0.29,5,0,0.0,0.06,
+Premier League,184667,Victor Lindelöf,Victor,Lindelöf,Aston Villa FC,Defender,31.71,12,572,0,0.03,-0.03,1,0,0.0,0.03,
+Premier League,606798,Andrés García,Andrés,García,Aston Villa FC,Defender,23.15,4,37,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,167074,Kenny Tete,Kenny,Tete,Fulham FC,Defender,30.48,22,1794,1,0.96,0.04,16,3,6.25,0.06,1794.0
+Premier League,171314,Rúben Dias,Rúben,dos Santos Gato Alves Dias,Manchester City FC,Defender,28.88,25,2050,2,0.56,1.44,10,4,20.0,0.06,1025.0
+Premier League,472769,Nico O'Reilly,Nico,O'Reilly,Manchester City FC,Midfielder,21.03,28,2134,4,4.04,-0.04,31,10,12.9,0.13,533.5
+Premier League,91651,Mateo Kovacic,Mateo,Kovacic,Manchester City FC,Midfielder,31.91,1,4,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,462116,Jean-Clair Todibo,Jean-Clair,Todibo,West Ham United FC,Defender,26.25,20,1700,0,0.24,-0.24,2,0,0.0,0.12,
+Premier League,220566,Rodri,Rodrigo,Hernández Cascante,Manchester City FC,Midfielder,29.78,18,1245,1,0.76,0.24,11,2,9.09,0.07,1245.0
+Premier League,126184,Nathan Aké,Nathan,Aké,Manchester City FC,Defender,31.12,14,488,0,0.28,-0.28,3,0,0.0,0.09,
+Premier League,578153,Abdukodir Khusanov,Abdukodir,Khusanov,Manchester City FC,Defender,22.08,15,889,0,0.47,-0.47,2,0,0.0,0.23,
+Premier League,602903,Ezra Mayers,Ezra,Mayers,West Ham United FC,Defender,19.2,6,113,0,0.12,-0.12,1,0,0.0,0.12,
+Premier League,209036,Marc Guéhi,Marc,Guéhi,Manchester City FC,Defender,25.72,28,2520,2,3.58,-1.58,27,7,7.41,0.13,1260.0
+Premier League,248875,Jérémy Doku,Jérémy,Doku,Manchester City FC,Forward,23.85,22,1230,1,1.83,-0.83,22,8,4.55,0.08,1230.0
+Premier League,223094,Erling Haaland,Erling,Haaland,Manchester City FC,Forward,25.7,29,2418,22,21.01,0.99,102,49,21.57,0.21,109.9090909090909
+Premier League,465351,Matheus Nunes,Matheus Luiz,Nunes,Manchester City FC,Midfielder,27.6,27,2267,1,0.35,0.65,7,2,14.29,0.05,2267.0
+Premier League,437730,Antoine Semenyo,Antoine,Semenyo,Manchester City FC,Forward,26.23,29,2588,15,9.86,5.14,68,36,22.06,0.14,172.53333333333333
+Premier League,465694,Nico González,Nico,González,Manchester City FC,Midfielder,24.24,21,1375,1,0.57,0.43,12,2,8.33,0.05,1375.0
+Premier League,448514,Rayan Aït-Nouri,Rayan,Aït-Nouri,Manchester City FC,Defender,24.82,13,782,0,0.42,-0.42,7,1,0.0,0.06,
+Premier League,209244,Phil Foden,Phil,Foden,Manchester City FC,Midfielder,25.84,26,1813,7,5.47,1.53,51,17,13.73,0.11,259.0
+Premier League,165809,Bernardo Silva,Bernardo,Mota Veiga de Carvalho e Silva,Manchester City FC,Midfielder,31.65,30,2254,2,1.51,0.49,17,5,11.76,0.09,1127.0
+Premier League,466052,Rayan Cherki,Rayan,Cherki,Manchester City FC,Midfielder,22.62,25,1308,3,2.47,0.53,33,8,9.09,0.07,436.0
+Premier League,433036,Tijjani Reijnders,Tijjani,Reijnders,Manchester City FC,Midfielder,27.68,26,1499,5,3.99,1.01,41,15,12.2,0.1,299.8
+Premier League,438234,Omar Marmoush,Omar Khaled Mohamed Abdelsalam,Marmoush,Manchester City FC,Forward,27.15,17,573,1,2.19,-1.19,24,7,4.17,0.09,573.0
+Premier League,499300,Adam Aznou,Adam,Aznou,Everton FC,Defender,19.83,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,223340,Bukayo Saka,Bukayo,Saka,Arsenal FC,Forward,24.57,27,2001,6,6.99,-0.99,63,26,9.52,0.11,333.5
+Premier League,466075,Riccardo Calafiori,Riccardo,Calafiori,Arsenal FC,Defender,23.87,22,1455,1,2.9,-1.9,28,6,3.57,0.1,1455.0
+Premier League,198869,Ben White,Ben,White,Arsenal FC,Defender,28.48,7,411,0,0.44,-0.44,4,1,0.0,0.11,
+Premier League,232413,Eberechi Eze,Eberechi,Eze,Arsenal FC,Midfielder,27.76,26,1504,6,3.75,2.25,49,16,12.24,0.08,250.66666666666666
+Premier League,499169,Myles Lewis-Skelly,Myles,Lewis-Skelly,Arsenal FC,Defender,19.51,14,312,0,0.05,-0.05,1,0,0.0,0.05,
+Premier League,248857,Noni Madueke,Noni,Madueke,Arsenal FC,Forward,24.06,20,899,2,1.02,0.98,20,7,10.0,0.05,449.5
+Premier League,205651,Gabriel Jesus,Gabriel Fernando,de Jesus,Arsenal FC,Forward,29.0,11,306,2,1.76,0.24,14,9,14.29,0.13,153.0
+Premier League,462424,William Saliba,William,Saliba,Arsenal FC,Defender,25.02,25,2075,1,0.86,0.14,5,1,20.0,0.17,2075.0
+Premier League,219847,Kai Havertz,Kai,Havertz,Arsenal FC,Forward,26.81,6,264,0,0.31,-0.31,5,1,0.0,0.06,
+Premier League,224117,Viktor Gyökeres,Viktor,Gyökeres,Arsenal FC,Forward,27.83,29,1900,11,9.35,1.65,43,17,25.58,0.22,172.72727272727272
+Premier League,204480,Declan Rice,Declan,Rice,Arsenal FC,Midfielder,27.21,30,2585,4,2.87,1.13,36,12,11.11,0.08,646.25
+Premier League,226597,Gabriel Magalhães,Gabriel,dos Santos Magalhães,Arsenal FC,Defender,28.28,25,2166,3,1.88,1.12,18,5,16.67,0.1,722.0
+Premier League,550615,Tyrique George,Tyrique,George,Everton FC,Forward,20.15,9,247,0,0.44,-0.44,5,3,0.0,0.09,
+Premier League,444145,Gabriel Martinelli,Gabriel Teodoro,Martinelli Silva,Arsenal FC,Forward,24.79,25,846,1,3.38,-2.38,25,10,4.0,0.14,846.0
+Premier League,616077,Max Dowman,Max,Dowman,Arsenal FC,Midfielder,16.24,3,43,1,1.11,-0.11,5,1,20.0,0.22,43.0
+Premier League,481655,Martín Zubimendi,Martín,Zubimendi,Arsenal FC,Midfielder,27.16,31,2604,5,2.78,2.22,26,9,19.23,0.11,520.8
+Premier League,445122,Jurriën Timber,Jurriën,Timber,Arsenal FC,Defender,24.79,30,2457,3,4.7,-1.7,25,7,12.0,0.19,819.0
+Premier League,448104,Piero Hincapié,Piero,Hincapié,Arsenal FC,Defender,24.22,21,1504,1,0.33,0.67,2,1,50.0,0.16,1504.0
+Premier League,500040,Cristhian Mosquera,Cristhian,Mosquera,Arsenal FC,Defender,21.76,14,669,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,180736,Trevoh Chalobah,Trevoh,Chalobah,Chelsea FC,Defender,26.74,29,2552,3,1.29,1.71,14,5,21.43,0.09,850.6666666666666
+Premier League,499309,Marc Guiu,Marc,Guiu,Chelsea FC,Forward,20.24,9,248,0,1.47,-1.47,12,2,0.0,0.12,
+Premier League,242880,Benoît Badiashile,Benoît,Badiashile,Chelsea FC,Defender,25.02,8,471,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,225796,Reece James,Reece,James,Chelsea FC,Defender,26.32,27,1896,2,1.01,0.99,21,6,9.52,0.05,948.0
+Premier League,549329,Lucas Pires,Lucas,Pires Silva,Burnley FC,Defender,25.02,15,1103,0,0.32,-0.32,11,1,0.0,0.03,
+Premier League,223827,Dan Ballard,Dan,Ballard,Sunderland AFC,Defender,26.53,26,2007,2,2.38,-0.38,25,9,8.0,0.1,1003.5
+Premier League,570929,Jack Whittaker,Jack,Whittaker,Sunderland AFC,Midfielder,19.46,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,571087,Jaydon Jones,Jaydon,Jones,Sunderland AFC,Midfielder,19.41,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,219249,Matt O'Riley,Matt,O'Riley,Brighton & Hove Albion FC,Midfielder,25.36,4,187,1,1.2,-0.2,4,2,25.0,0.3,187.0
+Premier League,109345,Solly March,Solly,March,Brighton & Hove Albion FC,Midfielder,31.7,1,4,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,597320,Harry Howell,Harry,Howell,Brighton & Hove Albion FC,Midfielder,17.94,3,93,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,247348,Daniel Muñoz,Daniel,Muñoz,Crystal Palace FC,Defender,29.85,21,1781,3,1.98,1.02,19,8,15.79,0.1,593.6666666666666
+Premier League,227127,Yves Bissouma,Yves,Bissouma,Tottenham Hotspur FC,Midfielder,29.59,8,463,0,0.36,-0.36,5,2,0.0,0.07,
+Premier League,660392,Christantus Uche,Christantus,Uche,Crystal Palace FC,Midfielder,22.87,14,159,0,0.49,-0.49,6,2,0.0,0.08,
+Premier League,536134,Rio Kyerematen,Rio,Kyerematen,Tottenham Hotspur FC,Midfielder,20.81,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,576637,Godwill Kukonki,Godwill,Kukonki,Manchester United FC,Defender,18.15,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,432422,Sandro Tonali,Sandro,Tonali,Newcastle United FC,Midfielder,25.9,29,2045,0,1.56,-1.56,28,7,0.0,0.06,
+Premier League,553746,Leo Shahar,Leo,Shahar,Newcastle United FC,Defender,19.04,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,653481,Alysson Edward,Alysson Edward Franco,da Rocha dos Santos,Aston Villa FC,Forward,19.9,3,47,0,0.05,-0.05,1,0,0.0,0.05,
+Premier League,116216,Leandro Trossard,Leandro,Trossard,Arsenal FC,Forward,31.33,26,1685,5,4.82,0.18,44,11,11.36,0.11,337.0
+Premier League,128295,Christian Nørgaard,Christian,Nørgaard,Arsenal FC,Midfielder,32.07,6,56,0,0.05,-0.05,1,1,0.0,0.05,
+Premier League,572702,Keiber Lamadrid,Keiber,Lamadrid,West Ham United FC,Midfielder,22.37,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,450070,Crysencio Summerville,Crysencio,Summerville,West Ham United FC,Forward,24.42,24,1864,5,4.27,0.73,43,15,11.63,0.1,372.8
+Premier League,575458,Jair Cunha,Jair,Paula da Cunha Filho,Nottingham Forest FC,Defender,21.07,3,214,0,0.16,-0.16,2,0,0.0,0.08,
+Premier League,97299,John Stones,John,Stones,Manchester City FC,Defender,31.85,7,353,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,510281,Savinho,Sávio,Moreira de Oliveira,Manchester City FC,Forward,21.97,17,565,0,1.53,-1.53,14,9,0.0,0.11,
+Premier League,194010,Rico Henry,Rico,Henry,Brentford FC,Defender,28.73,25,1328,0,0.18,-0.18,5,0,0.0,0.04,
+Premier League,200785,Tyler Adams,Tyler,Adams,AFC Bournemouth,Midfielder,27.13,18,1420,2,0.53,1.47,8,6,25.0,0.07,710.0
+Premier League,179458,Jacob Bruun Larsen,Jacob,Bruun Larsen,Burnley FC,Forward,27.53,23,970,0,1.36,-1.36,16,4,0.0,0.08,
+Premier League,644593,Kian McMahon-Brown,Kian,McMahon-Brown,Burnley FC,Forward,17.65,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,626844,Milan Aleksic,Milan,Aleksic,Sunderland AFC,Midfielder,20.58,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,110504,Bertrand Traoré,Bertrand,Traoré,Sunderland AFC,Forward,30.57,12,638,1,0.56,0.44,13,6,7.69,0.04,638.0
+Premier League,536661,Nilson Angulo,Nilson,Angulo,Sunderland AFC,Forward,22.78,5,257,0,0.5,-0.5,3,2,0.0,0.17,
+Premier League,246301,Jorge Cuenca,Jorge,Cuenca,Fulham FC,Defender,26.37,14,934,0,0.05,-0.05,1,0,0.0,0.05,
+Premier League,559684,Jack Moorhouse,Jack,Moorhouse,Manchester United FC,Midfielder,20.33,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,601956,Saheed Olagunju,Saheed,Olagunju,Wolverhampton Wanderers FC,Defender,19.23,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,596054,Tom Edozie,Tom,Edozie,Wolverhampton Wanderers FC,Forward,19.87,1,6,1,0.16,0.84,1,1,100.0,0.16,6.0
+Premier League,184029,Martin Ødegaard,Martin,Ødegaard,Arsenal FC,Midfielder,27.29,20,1078,1,1.01,-0.01,20,7,5.0,0.05,1078.0
+Premier League,611917,Lucá Williams-Barnett,Lucá,Williams-Barnett,Tottenham Hotspur FC,Midfielder,17.49,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,590014,Rio Cardines,Rio,Cardines,Crystal Palace FC,Midfielder,19.75,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,469130,Lorenzo Lucca,Lorenzo,Lucca,Nottingham Forest FC,Forward,25.56,3,120,1,0.72,0.28,3,1,33.33,0.24,120.0
+Premier League,699989,Djiamgone Jocelin Ta Bi,Djiamgone Jocelin Ta,Bi,Sunderland AFC,Forward,21.14,1,39,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,560552,Kevin,Kevin,Santos Lopes de Macedo,Fulham FC,Forward,23.24,23,904,1,1.11,-0.11,22,9,4.55,0.05,904.0
+Premier League,461199,Romaine Mundle,Romaine,Mundle,Sunderland AFC,Forward,22.94,14,400,0,0.86,-0.86,7,2,0.0,0.12,
+Premier League,477064,Rico Lewis,Rico,Lewis,Manchester City FC,Defender,21.36,10,312,0,0.11,-0.11,2,0,0.0,0.06,
+Premier League,472713,Aaron Hickey,Aaron,Hickey,Brentford FC,Defender,23.81,18,593,0,0.41,-0.41,5,1,0.0,0.08,
+Premier League,204580,Vitaly Janelt,Vitaly,Janelt,Brentford FC,Midfielder,27.9,22,1255,1,0.91,0.09,12,3,8.33,0.08,1255.0
+Premier League,605319,Luke Rawlings,Luke,Rawlings,Wolverhampton Wanderers FC,Midfielder,17.99,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,158983,Wataru Endo,Wataru,Endo,Liverpool FC,Midfielder,33.15,8,171,0,0.04,-0.04,1,0,0.0,0.04,
+Premier League,494307,Max Alleyne,Max,Alleyne,Manchester City FC,Defender,20.69,2,135,0,0.26,-0.26,2,1,0.0,0.13,
+Premier League,589121,Ethan Sutherland,Ethan,Sutherland,Wolverhampton Wanderers FC,Midfielder,19.93,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,221820,Lisandro Martínez,Lisandro,Martínez,Manchester United FC,Defender,28.2,14,905,0,0.06,-0.06,4,0,0.0,0.02,
+Premier League,113564,Sam Byram,Sam,Byram,Leeds United FC,Defender,32.55,1,7,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,536916,Facundo Buonanotte,Facundo,Buonanotte,Leeds United FC,Midfielder,21.27,3,69,0,0.04,-0.04,1,0,0.0,0.04,
+Premier League,502697,Charly Alcaraz,Charly,Alcaraz,Everton FC,Midfielder,23.33,16,673,0,1.11,-1.11,18,5,0.0,0.06,
+Premier League,155408,Lewis Cook,Lewis,Cook,AFC Bournemouth,Midfielder,29.16,16,870,0,0.08,-0.08,3,0,0.0,0.03,
+Premier League,550839,Wilson Odobert,Wilson,Odobert,Tottenham Hotspur FC,Forward,21.34,24,980,0,1.96,-1.96,22,8,0.0,0.09,
+Premier League,640419,Jun'ai Byfield,Jun'ai,Byfield,Tottenham Hotspur FC,Defender,17.31,1,1,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,208706,Bruno Guimarães,Bruno,Guimarães Rodriguez Moura,Newcastle United FC,Midfielder,28.38,23,2018,9,4.82,4.18,32,17,28.12,0.15,224.22222222222223
+Premier League,223434,Igor Julio,Igor Julio,dos Santos de Paulo,Brighton & Hove Albion FC,Defender,28.15,4,103,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,678552,Malcom DaCosta,Malcom,DaCosta,AFC Bournemouth,Midfielder,17.95,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,549067,Zach Abbott,Zach,Abbott,Nottingham Forest FC,Defender,19.88,2,121,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,180804,Axel Tuanzebe,Axel,Tuanzebe,Burnley FC,Defender,28.38,11,932,1,0.61,0.39,2,1,50.0,0.3,932.0
+Premier League,616288,Ryan McAidoo,Ryan,McAidoo,Manchester City FC,Forward,17.76,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,577285,George Hemmings,George,Hemmings,Aston Villa FC,Midfielder,19.07,2,25,0,0.04,-0.04,1,0,0.0,0.04,
+Premier League,576628,Shea Lacey,Shea,Lacey,Manchester United FC,Forward,18.96,2,12,0,0.07,-0.07,3,1,0.0,0.02,
+Premier League,631786,Jonah Kusi-Asare,Jonah,Kusi-Asare,Fulham FC,Forward,18.74,5,30,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,576980,Zach Marsh,Zach,Marsh,Crystal Palace FC,Forward,20.48,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,530318,Kaden Rodney,Kaden,Rodney,Crystal Palace FC,Midfielder,21.48,1,3,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,611926,Amara Nallo,Amara,Nallo,Liverpool FC,Defender,19.36,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,547719,Lewis Miley,Lewis,Miley,Newcastle United FC,Midfielder,19.92,19,1133,1,1.34,-0.34,12,4,8.33,0.11,1133.0
+Premier League,463936,Jamie Gittens,Jamie,Gittens,Chelsea FC,Forward,21.64,16,490,0,0.82,-0.82,10,2,0.0,0.08,
+Premier League,513433,Brajan Gruda,Brajan,Gruda,Brighton & Hove Albion FC,Midfielder,21.83,18,715,1,1.72,-0.72,16,6,6.25,0.11,715.0
+Premier League,230376,Jhon Arias,Jhon,Arias,Wolverhampton Wanderers FC,Midfielder,28.53,23,1121,1,3.25,-2.25,16,3,6.25,0.2,1121.0
+Premier League,606774,Remy Rees-Dottin,Remy,Rees-Dottin,AFC Bournemouth,Forward,20.07,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,516939,Emmanuel Agbadou,Emmanuel,Agbadou,Wolverhampton Wanderers FC,Defender,28.79,14,1101,0,0.56,-0.56,10,3,0.0,0.06,
+Premier League,685628,Jerome Abbey,Jerome,Abbey,Wolverhampton Wanderers FC,Midfielder,16.53,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,596777,Patrick Dorgu,Patrick,Dorgu,Manchester United FC,Defender,21.43,22,1333,3,1.82,1.18,21,8,14.29,0.09,444.3333333333333
+Premier League,195384,Mikel Merino,Mikel,Merino,Arsenal FC,Midfielder,29.78,21,999,4,3.0,1.0,21,8,19.05,0.14,249.75
+Premier League,500151,Nicolò Savona,Nicolò,Savona,Nottingham Forest FC,Defender,23.04,14,1026,2,1.34,0.66,5,3,40.0,0.27,513.0
+Premier League,502988,Danny Imray,Danny,Imray,Crystal Palace FC,Defender,22.68,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,550596,Dominic Sadi,Dominic,Sadi,AFC Bournemouth,Forward,22.58,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,519895,Oliver Sonne,Oliver,Sonne,Burnley FC,Defender,25.39,7,165,1,0.55,0.45,3,1,33.33,0.18,165.0
+Premier League,490145,Dane Scarlett,Dane,Scarlett,Tottenham Hotspur FC,Forward,22.02,2,7,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,550090,Diego Coppola,Diego,Coppola,Brighton & Hove Albion FC,Defender,22.26,5,194,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,590039,Divine Mukasa,Divine,Mukasa,Manchester City FC,Midfielder,18.61,2,25,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,643135,Fer López,Fer,López,Wolverhampton Wanderers FC,Forward,21.85,9,229,0,0.16,-0.16,5,1,0.0,0.03,
+Premier League,535818,Simon Adingra,Simon,Adingra,Sunderland AFC,Forward,24.25,14,658,1,0.35,0.65,6,2,16.67,0.06,658.0
+Premier League,658013,Charlie Stevens,Charlie,Stevens,AFC Bournemouth,Midfielder,18.83,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,114283,Jack Grealish,Jack,Grealish,Everton FC,Midfielder,30.56,20,1631,2,2.15,-0.15,26,8,7.69,0.08,815.5
+Premier League,491745,Elijah Campbell,Elijah,Campbell,Everton FC,Defender,21.66,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,559962,Jamaldeen Jimoh-Aloba,Jamaldeen,Jimoh-Aloba,Aston Villa FC,Midfielder,19.49,1,8,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,474907,Reece Welch,Reece,Welch,Everton FC,Defender,22.53,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,591385,Sam Amissah,Sam,Amissah,Fulham FC,Defender,19.07,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,672492,Joél Drakes-Thomas,Joél,Drakes-Thomas,Crystal Palace FC,Forward,16.81,2,7,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,223336,Dan Neil,Dan,Neil,Sunderland AFC,Midfielder,24.3,3,13,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,115556,Ben Davies,Ben,Davies,Tottenham Hotspur FC,Defender,32.94,3,138,1,0.49,0.51,2,2,50.0,0.25,138.0
+Premier League,197024,Guido Rodríguez,Guido,Rodríguez,West Ham United FC,Midfielder,31.98,6,177,0,0.03,-0.03,1,0,0.0,0.03,
+Premier League,547037,Jack Fletcher,Jack,Fletcher,Manchester United FC,Midfielder,19.03,3,107,0,0.03,-0.03,1,0,0.0,0.03,
+Premier League,566213,Stephen Mfuni,Stephen,Mfuni,Manchester City FC,Defender,18.13,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,492777,Conor Bradley,Conor,Bradley,Liverpool FC,Defender,22.73,15,932,0,0.24,-0.24,6,0,0.0,0.04,
+Premier League,221399,Jack Harrison,Jack,Harrison,Leeds United FC,Forward,29.36,11,263,0,0.28,-0.28,6,2,0.0,0.05,
+Premier League,119471,Fabian Schär,Fabian,Schär,Newcastle United FC,Defender,34.29,16,1091,0,0.98,-0.98,17,4,0.0,0.06,
+Premier League,202993,Rodrigo Bentancur,Rodrigo,Bentancur,Tottenham Hotspur FC,Midfielder,28.77,20,1415,1,0.47,0.53,9,2,11.11,0.05,1415.0
+Premier League,575901,Julio Soler,Julio,Soler,AFC Bournemouth,Defender,21.12,3,34,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,477547,Leo Hjelde,Leo,Hjelde,Sunderland AFC,Defender,22.6,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,604211,Tymur Tutierov,Tymur,Tutierov,Sunderland AFC,Forward,20.8,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,450539,Myles Peart-Harris,Myles,Peart-Harris,Brentford FC,Midfielder,23.53,1,1,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,643426,Dean Benamar,Dean,Benamar,Crystal Palace FC,Defender,17.83,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,591384,George King,George,King,Crystal Palace FC,Defender,19.03,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,631106,Ben Casey,Ben,Casey,Crystal Palace FC,Forward,18.15,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,204646,Donyell Malen,Donyell,Malen,Aston Villa FC,Forward,27.2,21,645,4,4.04,-0.04,27,9,14.81,0.15,161.25
+Premier League,226944,Boubacar Kamara,Boubacar,Kamara,Aston Villa FC,Midfielder,26.36,18,1418,1,0.49,0.51,7,4,14.29,0.07,1418.0
+Premier League,514362,Temple Ojinnaka,Temple,Ojinnaka,Wolverhampton Wanderers FC,Midfielder,21.0,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,497606,Tawanda Chirewa,Tawanda,Chirewa,Wolverhampton Wanderers FC,Forward,22.47,2,25,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,619536,Seth Ridgeon,Seth,Ridgeon,Fulham FC,Midfielder,17.55,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,547720,Charlie Tasker,Charlie,Tasker,Brighton & Hove Albion FC,Defender,20.1,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,580921,Reigan Heskey,Reigan,Heskey,Manchester City FC,Forward,18.2,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,549074,Tom Watson,Tom,Watson,Brighton & Hove Albion FC,Forward,19.98,6,57,0,0.04,-0.04,1,1,0.0,0.04,
+Premier League,465680,Arnaud Kalimuendo,Arnaud,Kalimuendo,Nottingham Forest FC,Forward,24.19,9,89,0,0.44,-0.44,4,1,0.0,0.11,
+Premier League,490885,George Earthy,George,Earthy,West Ham United FC,Midfielder,21.57,1,8,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,224024,Lucas Paquetá,Lucas,Tolentino Coelho de Lima,West Ham United FC,Midfielder,28.6,18,1521,4,2.82,1.18,23,11,17.39,0.12,380.25
+Premier League,477424,Josko Gvardiol,Josko,Gvardiol,Manchester City FC,Defender,24.19,16,1304,2,2.34,-0.34,16,5,12.5,0.15,652.0
+Premier League,606921,Romain Esse,Romain,Esse,Crystal Palace FC,Midfielder,20.88,4,40,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,460842,Mohammed Kudus,Mohammed,Kudus,Tottenham Hotspur FC,Midfielder,25.66,19,1545,2,1.93,0.07,26,9,7.69,0.07,772.5
+Premier League,565863,Sam Chambers,Sam,Chambers,Leeds United FC,Midfielder,18.62,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,576620,Bendito Mantato,Bendito,Mantato,Manchester United FC,Forward,18.18,1,15,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,222683,Justin Kluivert,Justin,Kluivert,AFC Bournemouth,Forward,26.91,18,920,2,2.25,-0.25,16,4,12.5,0.14,460.0
+Premier League,578614,Enock Agyei,Enock,Agyei,Burnley FC,Forward,21.21,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,647960,Oliver Pimlott,Oliver,Pimlott,Burnley FC,Midfielder,18.98,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,704232,George Brierley,George,Brierley,Burnley FC,Midfielder,18.36,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,551206,Jaydon Banel,Jaydon,Banel,Burnley FC,Forward,21.45,1,9,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,643473,Airidas Golambeckis,Airidas,Golambeckis,West Ham United FC,Defender,18.4,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,441271,Ki-Jana Hoever,Ki-Jana,Hoever,Wolverhampton Wanderers FC,Defender,24.2,8,428,0,0.02,-0.02,1,1,0.0,0.02,
+Premier League,593001,Enso González,Enso,González,Wolverhampton Wanderers FC,Forward,21.19,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,206325,Oleksandr Zinchenko,Oleksandr,Zinchenko,Nottingham Forest FC,Defender,29.3,5,353,0,0.08,-0.08,4,2,0.0,0.02,
+Premier League,618027,TJ Carroll,TJ,Carroll,Aston Villa FC,Defender,19.02,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,628204,Yunus Konak,Yunus,Konak,Brentford FC,Midfielder,20.22,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,519440,Wellity Lucky,Wellity,Lucky,Liverpool FC,Defender,20.21,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,664015,Leon Routh,Leon,Routh,Aston Villa FC,Defender,18.33,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,596047,Chido Obi,Chido,Obi,Manchester United FC,Forward,18.33,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,666607,Sam Alabi,Sam,Alabi,Newcastle United FC,Midfielder,16.72,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,437748,Mike Trésor,Mike,Trésor,Burnley FC,Forward,26.85,4,19,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,436893,Julián Araujo,Julián,Araujo,AFC Bournemouth,Defender,24.63,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,547801,Callum Bates,Callum,Bates,Everton FC,Midfielder,20.5,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,629068,Braiden Graham,Braiden,Graham,Everton FC,Forward,18.39,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,553299,Kota Takai,Kota,Takai,Tottenham Hotspur FC,Defender,21.57,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,205533,Eddie Nketiah,Eddie,Nketiah,Crystal Palace FC,Forward,26.84,12,416,2,1.77,0.23,15,6,13.33,0.12,208.0
+Premier League,616065,Marli Salmon,Marli,Salmon,Arsenal FC,Defender,16.58,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,499175,Ethan Nwaneri,Ethan,Nwaneri,Arsenal FC,Midfielder,19.03,6,165,0,0.23,-0.23,6,0,0.0,0.04,
+Premier League,626464,Gustavo Nunes,Gustavo,Nunes Fernandes Gomes,Brentford FC,Forward,20.36,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,172567,Josh Cullen,Josh,Cullen,Burnley FC,Midfielder,29.99,18,1519,2,0.9,1.1,11,6,18.18,0.08,759.5
+Premier League,219168,Alexander Isak,Alexander,Isak,Liverpool FC,Forward,26.53,10,508,2,2.05,-0.05,15,4,13.33,0.14,254.0
+Premier League,556637,Nehemiah Oriola,Nehemiah,Oriola,Brighton & Hove Albion FC,Forward,18.8,1,1,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,604988,Freddie Simmonds,Freddie,Simmonds,Brighton & Hove Albion FC,Defender,18.06,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,567121,Joe Knight,Joe,Knight,Brighton & Hove Albion FC,Midfielder,20.52,1,1,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,229384,Andy Irving,Andy,Irving,West Ham United FC,Midfielder,25.88,7,157,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,516234,Charlie Gray,Charlie,Gray,Manchester City FC,Midfielder,20.1,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,517179,Alfie Pond,Alfie,Pond,Wolverhampton Wanderers FC,Defender,22.08,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,428580,Frank Onyeka,Frank,Onyeka,Brentford FC,Midfielder,28.25,6,88,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,91889,Niclas Füllkrug,Niclas,Füllkrug,West Ham United FC,Forward,33.15,8,408,0,0.92,-0.92,9,3,0.0,0.1,
+Premier League,90585,Willy Boly,Willy,Boly,Nottingham Forest FC,Defender,35.16,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,565431,Callum Marshall,Callum,Marshall,West Ham United FC,Forward,21.34,2,58,0,0.13,-0.13,1,0,0.0,0.13,
+Premier League,622536,Benjamin Arthur,Benjamin,Arthur,Brentford FC,Defender,20.47,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,608181,Stefanos Tzimas,Stefanos,Tzimas,Brighton & Hove Albion FC,Forward,20.23,9,133,1,0.46,0.54,4,1,25.0,0.12,133.0
+Premier League,433312,Marshall Munetsi,Marshall,Munetsi,Wolverhampton Wanderers FC,Midfielder,29.78,13,873,1,1.61,-0.61,14,6,7.14,0.11,873.0
+Premier League,577114,Luis Guilherme,Luis Guilherme,Lira dos Santos,West Ham United FC,Forward,20.14,5,121,0,0.07,-0.07,1,0,0.0,0.07,
+Premier League,209365,Matthijs de Ligt,Matthijs,de Ligt,Manchester United FC,Defender,26.64,13,1170,1,1.46,-0.46,11,3,9.09,0.13,1170.0
+Premier League,105717,Arthur Masuaku,Arthur,Masuaku,Sunderland AFC,Defender,32.4,3,127,0,0.07,-0.07,1,0,0.0,0.07,
+Premier League,244858,Fábio Carvalho,Fábio Leandro,Freitas Gouveia de Carvalho,Brentford FC,Midfielder,23.59,6,100,1,0.7,0.3,2,1,50.0,0.35,100.0
+Premier League,101148,Jamaal Lascelles,Jamaal,Lascelles,Newcastle United FC,Defender,32.39,2,19,0,0.04,-0.04,1,0,0.0,0.04,
+Premier League,111773,Emil Krafth,Emil,Krafth,Newcastle United FC,Defender,31.67,1,45,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,646243,Andre Harriman-Annous,Andre,Harriman-Annous,Arsenal FC,Forward,18.25,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,590035,Yusuf Akhamrich,Yusuf,Akhamrich,Tottenham Hotspur FC,Forward,20.57,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,577731,Ben Broggio,Ben,Broggio,Aston Villa FC,Midfielder,19.17,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,60689,Chris Wood,Chris,Wood,Nottingham Forest FC,Forward,34.32,8,544,2,2.77,-0.77,16,6,12.5,0.17,272.0
+Premier League,611912,Landon Emenalo,Landon,Emenalo,Chelsea FC,Midfielder,18.2,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,661712,Diego León,Diego,León,Manchester United FC,Defender,18.99,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,645618,Bradley Burrowes,Bradley,Burrowes,Aston Villa FC,Midfielder,18.07,1,16,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,543295,Antoni Milambo,Antoni,Milambo,Brentford FC,Midfielder,20.99,1,45,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,600882,Harry Gray,Harry,Gray,Leeds United FC,Forward,17.47,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,569577,Triston Rowe,Triston,Rowe,Aston Villa FC,Defender,19.49,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,534836,Travis Patterson,Travis,Patterson,Aston Villa FC,Defender,20.48,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,211975,Manuel Akanji,Manuel,Akanji,Manchester City FC,Defender,30.71,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,59859,Ilkay Gündogan,Ilkay,Gündogan,Manchester City FC,Midfielder,35.44,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,447715,Aaron Ramsey,Aaron,Ramsey,Burnley FC,Midfielder,23.19,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,124165,Patrick Roberts,Patrick,Roberts,Sunderland AFC,Midfielder,29.15,1,27,0,0.03,-0.03,1,0,0.0,0.03,
+Premier League,519634,Jenson Seelt,Jenson,Seelt,Sunderland AFC,Defender,22.86,2,134,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,235674,Manor Solomon,Manor,Solomon,Tottenham Hotspur FC,Forward,26.69,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,441240,Romain Faivre,Romain,Faivre,AFC Bournemouth,Midfielder,27.72,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,429414,Sasa Kalajdzic,Sasa,Kalajdzic,Wolverhampton Wanderers FC,Forward,28.74,1,14,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,461446,Tyler Onyango,Tyler,Onyango,Everton FC,Midfielder,23.08,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,647681,Giovanni Leoni,Giovanni,Leoni,Liverpool FC,Defender,19.27,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,199670,Odsonne Édouard,Odsonne,Édouard,Crystal Palace FC,Forward,28.21,1,2,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,491012,Youssef Chermiti,Youssef,Ramalho Chermiti,Everton FC,Forward,21.85,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,440854,Jakub Kiwior,Jakub,Kiwior,Arsenal FC,Defender,26.13,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,610799,Luka Vuskovic,Luka,Vuskovic,Tottenham Hotspur FC,Defender,19.1,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,210494,Nayef Aguerd,Nayef,Aguerd,West Ham United FC,Defender,30.01,2,180,0,0.1,-0.1,2,0,0.0,0.05,
+Premier League,433952,Largie Ramazani,Largie,Ramazani,Leeds United FC,Forward,25.09,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,510500,Jota Silva,João Pedro,Ferreira Silva,Nottingham Forest FC,Forward,26.67,1,11,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,226956,Mads Roerslev,Mads,Roerslev,Brentford FC,Defender,26.77,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,450542,Jesurun Rak-Sakyi,Jesurun,Rak-Sakyi,Crystal Palace FC,Forward,23.49,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,156689,Andreas Pereira,Andreas Hugo,Hoelgebaum Pereira,Fulham FC,Midfielder,30.25,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,213999,Edson Álvarez,Edson,Álvarez,West Ham United FC,Midfielder,28.44,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,469247,Samuel Iling-Junior,Samuel,Iling-Junior,Aston Villa FC,Forward,22.49,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,623110,Park Seung-Soo,Seung-Soo,Park,Newcastle United FC,Forward,19.04,0,0,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,424044,Hamed Traoré,Hamed,Traoré,AFC Bournemouth,Midfielder,26.12,1,16,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,606775,Ben Winterburn,Ben,Winterburn,AFC Bournemouth,Midfielder,21.57,1,6,0,0.0,0.0,0,0,0.0,0.0,
+Premier League,168991,Philip Billing,Philip,Billing,AFC Bournemouth,Midfielder,29.81,0,0,0,0.0,0.0,0,0,0.0,0.0,
 Champions League,200813,Andreas Helmersen,Andreas,Helmersen,FK Bodø / Glimt,Forward,28.02,11,147,1,1.58,-0.58,6,5,16.67,0.26,147.0
 Champions League,184379,Patrick Berg,Patrick,Berg,FK Bodø / Glimt,Midfielder,28.33,11,990,0,0.66,-0.66,15,5,0.0,0.04,
 Champions League,577666,Daniel Bassi,Daniel,Bassi,FK Bodø / Glimt,Forward,21.39,2,66,1,0.73,0.27,2,2,50.0,0.36,66.0
