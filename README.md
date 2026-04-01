@@ -28,6 +28,9 @@ Then run scripts in order starting from 01_scrape.py.
 If skipping the scrape, start directly from:
     python scripts/02_clean.py
 
+Scraped from Opta Analyst (theanalyst.com), 2025/26 season to March 2026.
+582 PL players scraped, filtered to 54 qualifying attackers (5+ goals).
+
 ## Replication
 
 Run scripts in order:
@@ -40,9 +43,6 @@ python scripts/04_causal.py
 
 Cleaned data is in `data/clean/`. Output figures are saved to `output/figures/`.
 
-## Data
-Scraped from Opta Analyst (theanalyst.com), 2025/26 season to March 2026.
-582 PL players scraped, filtered to 54 qualifying attackers (5+ goals).
 
 ## Data Dictionary
 
