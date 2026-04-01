@@ -43,3 +43,15 @@ Cleaned data is in `data/clean/`. Output figures are saved to `output/figures/`.
 ## Data
 Scraped from Opta Analyst (theanalyst.com), 2025/26 season to March 2026.
 582 PL players scraped, filtered to 54 qualifying attackers (5+ goals).
+
+## Data Dictionary
+
+| Variable | Description | Source |
+|---|---|---|
+| `goals` | Total Premier League goals scored | Opta Analyst |
+| `xg` | Expected goals — sum of shot xG across all attempts | Opta Analyst |
+| `shots` | Total shots taken | Opta Analyst |
+| `conversion_pct` | Goals divided by shots × 100 | Calculated |
+| `xg_per_shot` | Average xG per shot taken | Calculated |
+| `mins_per_goal` | Minutes played divided by goals scored | Calculated |
+| `goals_vs_xg` | Goals minus xG — positive = outperforming | Calculated |
