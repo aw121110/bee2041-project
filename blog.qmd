@@ -237,7 +237,7 @@ The practical motivation is straightforward. Premier League clubs routinely spen
 
 Opta has tracked every touch, shot, and chance creation event in professional football for over two decades. Their expected goals (xG) model is built on millions of historical shots, accounting for location, body part, and match context. This making it widely regarded as the gold standard for quantifying chance quality.
 
-Several cleaning steps were applied: players with fewer than 5 PL goals were excluded, those with missing xG values were removed, and defenders/goalkeepers filtered out using Opta's positional classifications. This reduces the dataset from 582 players to 54 qualifying attackers.
+Several cleaning steps were applied: players with fewer than 5 PL goals were excluded, those with missing xG values were removed, and defenders/goalkeepers filtered out using Opta's positional classifications. This reduces the dataset from 582 players to 54 qualifying attackers - a small sample that warrants caution when interpreting the PCA and causal estimates.
 
 ```{=html}
 <div class="metric-grid">
