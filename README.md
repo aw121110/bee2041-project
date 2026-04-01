@@ -16,6 +16,17 @@ Set your Opta API token:
 
 export OPTA_TOKEN=your_token_here
 
+## Data
+
+Raw and cleaned data are included in `data/raw/` and `data/clean/` 
+so the scraping step can be skipped entirely.
+
+To replicate from scratch with live data, set your Opta API token:
+    export OPTA_TOKEN=your_token_here
+Then run scripts in order starting from 01_scrape.py.
+
+If skipping the scrape, start directly from:
+    python scripts/02_clean.py
 
 ## Replication
 
