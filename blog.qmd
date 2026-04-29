@@ -356,25 +356,25 @@ PCA identifies the single dimension along which the data varies most across all 
     <div class="player-name">Erling Haaland</div>
     <div class="player-team">Manchester City FC</div>
     <div class="player-stat">100.0</div>
-    <div class="player-label">Clinicality Score -- 22 goals, 21.57% conversion</div>
+    <div class="player-label">Clinicality Score - 22 goals, 21.57% conversion</div>
   </div>
   <div class="player-card blue">
     <div class="player-name">Igor Thiago</div>
     <div class="player-team">Brentford FC</div>
-    <div class="player-stat">88.8</div>
-    <div class="player-label">Clinicality Score -- 18 goals, 26.87% conversion</div>
+    <div class="player-stat">97</div>
+    <div class="player-label">Clinicality Score - 18 goals, 26.87% conversion</div>
   </div>
   <div class="player-card gold">
     <div class="player-name">Joao Pedro</div>
     <div class="player-team">Chelsea FC</div>
-    <div class="player-stat">71.1</div>
-    <div class="player-label">Clinicality Score -- 14 goals, 22.95% conversion</div>
+    <div class="player-stat">70</div>
+    <div class="player-label">Clinicality Score - 14 goals, 22.95% conversion</div>
   </div>
   <div class="player-card">
     <div class="player-name">Viktor Gyokeres</div>
     <div class="player-team">Arsenal FC</div>
-    <div class="player-stat">59.3</div>
-    <div class="player-label">Clinicality Score -- 11 goals, 25.58% conversion</div>
+    <div class="player-stat">60</div>
+    <div class="player-label">Clinicality Score - 11 goals, 25.58% conversion</div>
   </div>
 </div>
 <div class="insight-box">

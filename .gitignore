@@ -7,3 +7,6 @@ data/raw/
 blog_files/
 *.pyc
 __pycache__/
+
+/.quarto/
+**/*.quarto_ipynb
