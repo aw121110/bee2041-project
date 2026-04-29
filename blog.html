@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Adam Wilkes">
-<meta name="dcterms.date" content="2026-03-16">
+<meta name="dcterms.date" content="2026-04-29">
 
 <title>Beyond Goals: Who Are the Premier League’s Most Clinical Attackers?</title>
 <style>
@@ -208,7 +208,7 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">March 16, 2026</p>
+      <p class="date">April 29, 2026</p>
     </div>
   </div>
   
@@ -233,7 +233,7 @@ ul.task-list li input[type="checkbox"] {
   <div style="position:relative; z-index:2; width:100%; text-align:center; padding:0 40px 40px 40px;">
     <h1>Beyond Goals</h1>
     <div class="subtitle">Who Are the Premier League's Most Clinical Attackers in 2025/26?</div>
-    <div class="meta">Adam Wilkes &nbsp;·&nbsp; 16 March 2026 &nbsp;·&nbsp; BEE2041 Empirical Project</div>
+    <div class="meta">Adam Wilkes &nbsp;·&nbsp; 29 April 2026 &nbsp;·&nbsp; BEE2041 Empirical Project</div>
   </div>
 
 </div>
@@ -384,9 +384,9 @@ ul.task-list li input[type="checkbox"] {
 <li><strong>Bottom-left (Struggling)</strong> - Neither quality chances nor efficient conversion. Players here are either badly out of form, miscast in their roles, or simply not yet settled.</li>
 </ul>
 <div class="insight-box green">
-  <p>The most striking finding from this chart is the position of <strong>Lukas Nmecha</strong> in the top-right elite quadrant. With an xG per shot approaching 0.30 and a conversion rate above 28%, he is not just the highest-converting player in the dataset but is doing so from the highest-quality chances of anyone in the league — a combination that is almost uniquely elite. For a midfielder rather than a natural striker, this profile is remarkable and one that mainstream coverage has almost entirely overlooked this season.</p>
-  <p style="margin-top:12px;">Among the recognised forwards, <strong>Joao Pedro</strong> and <strong>Igor Thiago</strong> sit closest to true elite status, both comfortably above the median on both axes. Pedro's position is particularly telling — deployed as an orthodox centre-forward at Chelsea rather than the attacking midfielder role he occupied at Brighton, he is taking higher-quality chances and converting them at a rate that vindicates the tactical decision to push him further forward.</p>
-  <p style="margin-top:12px;"><strong>Kroupi</strong> at Bournemouth is the most compelling recruitment story the chart tells. At just 19 years old, he sits in the top-left quadrant with a conversion rate around 25% despite taking chances of only modest quality — doing something genuinely special with limited service in a mid-table system not built around him. Historically, this is precisely the profile that bigger clubs identify and move for. <strong>Brian Brobbey</strong> occupies a similar position, flagging another player whose finishing ability is quietly outrunning the quality of his chance creation.</p>
+  <p>The most striking finding from this chart is the position of <strong>Lukas Nmecha</strong> in the top-right elite quadrant. With an xG per shot approaching 0.30 and a conversion rate above 28%, he is not just the highest-converting player in the dataset but is doing so from the highest-quality chances of anyone in the league, a combination that is almost uniquely elite. For a midfielder rather than a natural striker, this profile is remarkable and one that mainstream coverage has almost entirely overlooked this season.</p>
+  <p style="margin-top:12px;">Among the recognised forwards, <strong>Joao Pedro</strong> and <strong>Igor Thiago</strong> sit closest to true elite status, both comfortably above the median on both axes. Pedro's position is particularly telling, deployed as an orthodox centre-forward at Chelsea rather than the attacking midfielder role he occupied at Brighton, he is taking higher-quality chances and converting them at a rate that vindicates the tactical decision to push him further forward.</p>
+  <p style="margin-top:12px;"><strong>Kroupi</strong> at Bournemouth is the most compelling recruitment story the chart tells. At just 19 years old, he sits in the top-left quadrant with a conversion rate around 25% despite taking chances of only modest quality, doing something genuinely special with limited service in a mid-table system not built around him. Historically, this is precisely the profile that bigger clubs identify and move for. <strong>Brian Brobbey</strong> occupies a similar position, flagging another player whose finishing ability is quietly outrunning the quality of his chance creation.</p>
   <p style="margin-top:12px;">At the other end of the story, <strong>Jean-Philippe Mateta</strong> sits just above the median horizontally but below it vertically. Crystal Palace are still creating reasonable chances for him, but his conversion rate has dropped sharply from his breakout 2023/24 season. The chart makes that regression this season impossible to ignore.</p>
 </div>
 
@@ -395,7 +395,7 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="who-is-the-most-clinical-overall" class="level2">
 <h2 class="anchored" data-anchor-id="who-is-the-most-clinical-overall">Who Is the Most Clinical Overall?</h2>
-<p>Describing individual metrics in isolation only gets us so far. A player can lead the league in shot conversion but take so few shots that the sample is unreliable. To answer the headline question definitively, we need a single measure that combines all five metrics — goals, xG, goals vs xG, shot conversion, and xG per shot — in a way that is mathematically principled rather than arbitrarily weighted. That is what Principal Component Analysis (PCA) provides.</p>
+<p>Describing individual metrics in isolation only gets us so far. A player can lead the league in shot conversion but take so few shots that the sample is unreliable. To answer the headline question definitively, we need a single measure that combines all five metrics - goals, xG, goals vs xG, shot conversion, and xG per shot - in a way that is mathematically principled rather than arbitrarily weighted. That is what Principal Component Analysis (PCA) provides.</p>
 <p>PCA identifies the single dimension along which the data varies most across all five metrics simultaneously. Rather than deciding in advance that conversion rate is twice as important as xG per shot, the algorithm finds the optimal weights itself based purely on the structure of the data. The first principal component captured 67% of the total variance across all five metrics, with shot conversion and goals vs xG carrying the highest weight, followed by xG per shot, total goals, and minutes per goal. Each player is projected onto that dimension and scaled to produce a Clinicality Score from 0 to 100, where 100 represents the player who dominates most completely across every finishing dimension at once.</p>
 <div class="chart-container">
 <p><img src="output/figures/06_clinicality_score.png" class="img-fluid"></p>
@@ -481,7 +481,7 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="conclusion">Conclusion</h2>
 <p>Erling Haaland is in a category of his own. His perfect clinicality score of 100 is not a product of volume shooting, favourable chances, or a single hot streak of form. It reflects genuine, multi-dimensional superiority across every finishing metric simultaneously, sustained over multiple seasons at multiple clubs. The causal model confirms that his goal output is built on a combination of Manchester City’s elite chance creation and his own finishing ability working together. There is no statistical case for anyone else as the Premier League’s most clinical attacker in 2025/26.</p>
 <p>The most important question the data raises is whether Igor Thiago can do this again. His causal finishing advantage is the largest in the dataset, his conversion rate is the highest of any player with 10 or more goals in the league, and the Double ML model estimates that roughly 5 of his 18 goals are directly attributable to his finishing ability alone. But this is one season. Sustained outperformance of xG over multiple years is exceptionally rare, and the history of football is littered with forwards who posted one extraordinary conversion season before regressing sharply. If Thiago produces similar numbers in 2026/27, the debate about whether he belongs among the elite becomes very difficult to dismiss.</p>
-<p>Kroupi is the pick for breakout star of the next transfer window. At just 19, he is converting chances at an elite rate from a Bournemouth side not designed to create them. That combination — age, efficiency, and output in a system that undersells him — is precisely what the data identifies before the market catches up. If the underlying numbers hold and a bigger club provides him with better service, the ceiling is genuinely high. Of all the players in this dataset, Kroupi’s profile makes the strongest case for a move that the statistics justified long before the headlines did.</p>
+<p>Kroupi is the pick for breakout star of the next transfer window. At just 19, he is converting chances at an elite rate from a Bournemouth side not designed to create them. That combination - age, efficiency, and output in a system that undersells him - is precisely what the data identifies before the market catches up. If the underlying numbers hold and a bigger club provides him with better service, the ceiling is genuinely high. Of all the players in this dataset, Kroupi’s profile makes the strongest case for a move that the statistics justified long before the headlines did.</p>
 <div class="blog-footer">
   <p>Data sourced from <strong>Opta Analyst</strong> (theanalyst.com) · 2025/26 season data to March 2026</p>
   <p>Analysis &amp; visualisations by <strong>Adam Wilkes</strong> · Code at <a href="https://github.com/aw121110/bee2041-project">github.com/aw121110/bee2041-project</a></p>
